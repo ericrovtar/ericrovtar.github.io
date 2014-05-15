@@ -335,7 +335,10 @@ blockquote, p, .addBottomMargin {
     
     .articleList__item
     {
-        border-bottom: 1pt solid #CCC;
+        border-bottom: 1px solid #CCC;
+        
+        padding-bottom: 23px;
+        margin-bottom: 24px;
         
         &:last-child
         {

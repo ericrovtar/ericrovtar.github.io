@@ -1470,7 +1470,9 @@ blockquote, p, .addBottomMargin {
   position: relative;
   z-index: 200; }
   .articleList .articleList__item {
-    border-bottom: 1pt solid #CCC; }
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 23px;
+    margin-bottom: 24px; }
     .articleList .articleList__item:last-child {
       border-bottom: none; }
     .articleList .articleList__item > p.articleList__date {
