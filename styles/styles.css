@@ -1446,6 +1446,9 @@ blockquote, p, .addBottomMargin {
       .banner h1 {
         top: 0;
         height: 66px; } }
+    .banner h1 a {
+      color: #FFF;
+      text-decoration: none; }
   .banner .title {
     display: table-cell;
     vertical-align: middle;

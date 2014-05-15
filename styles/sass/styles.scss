@@ -292,6 +292,12 @@ blockquote, p, .addBottomMargin {
 			top: 0;
 			height: ($magic-number * 3) - ($magic-number / 4);
 		}
+        
+        a
+        {
+            color: #FFF;
+            text-decoration: none;
+        }
 	}
     
     .title
