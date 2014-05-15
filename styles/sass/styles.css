@@ -1230,17 +1230,19 @@ blockquote, p, .addBottomMargin {
 
 .header {
   background: #3c617a;
-  z-index: 200;
-  text-align: center !important;
-  color: #FFF;
-  max-height: none;
   position: absolute;
+  margin: 0 -1em 24px -1em;
   padding: 1em;
-  margin: 0 -1em 24px -1em; }
-  @media screen and (min-width: 780px) {
+  z-index: 200;
+  color: #FFF;
+  text-align: center; }
+  @media only screen and (max-width: 480px) {
     .header {
       position: relative;
-      overflow: hidden; } }
+      margin-bottom: 0;
+      padding: 0.5em 1em;
+      overflow: hidden;
+      max-height: 1em; } }
   .header h1 {
     color: #FFF; }
   .header .header__controls {

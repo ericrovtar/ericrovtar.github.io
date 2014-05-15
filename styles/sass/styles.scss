@@ -171,25 +171,22 @@ blockquote, p, .addBottomMargin {
 .header
 {
 	background: $color-root;
+    
+    position: absolute;
+    margin: 0 -1em $magic-number -1em;
+    padding: 1em;
 	z-index: 200;
-	text-align: center !important;
 	
 	color: #FFF;
-    
-    //max-height: 2em;
+    text-align: center;
 	
-	//@include grid-media-query("desk") {
-        max-height: none;
-		position: absolute;
-        
-        padding: 1em;
-        margin: 0 -1em $magic-number -1em;
-	//}
-	
-	//@include grid-media-query("palm") {
-    @media screen and (min-width: 780px) {
+	@include grid-media-query("palm") {
         position: relative;
+        margin-bottom: 0;
+        padding: .5em 1em;
 		overflow: hidden;
+        
+        max-height: 1em;
 	}
 	
 	h1
@@ -199,25 +196,15 @@ blockquote, p, .addBottomMargin {
 		
 	.header__controls
 	{
-		//display: none;
-		
-		//@include grid-media-query("desk") {
-			display: block;
-		//}
+        display: block;
         
         @include grid-media-query("palm") {
             display: none;
         }
-        
-        //@include grid-media-query("lap") {
-        //    display: block;
-        //}
 	}
 			
 	.header__menu, .header__social
 	{
-		//margin-bottom: $magic-number;
-		
 		@include grid-media-query("palm") {
 			display: none;
 		}
