@@ -1,45 +1,16 @@
 @import "includes/reset.scss";
 @import "includes/csswizardry-grids.scss";
 
+//Variables
 @import "_vars.scss";
+
+//Page Elements
 @import "ui/page.scss";
-
-.palm--hide
-{
-    @include grid-media-query("palm")
-    {
-        display: none;
-    }
-}
-
-.lap--hide
-{
-    @include grid-media-query("lap")
-    {
-        display: none;
-    }
-}
-
-.portable--hide
-{
-    @include grid-media-query("portable")
-    {
-        display: none;
-    }
-}
-
-.desk--hide
-{
-    @include grid-media-query("desk")
-    {
-        display: none;
-    }
-}
-
-@import "ui/typography.scss";
-
 @import "ui/page-head.scss";
+@import "ui/banner.scss";
+@import "ui/page-foot.scss";
 
 @import "ui/sharing.scss";
 
-@import "ui/page-foot.scss";
+//Typography
+@import "ui/typography.scss";
