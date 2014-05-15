@@ -1513,6 +1513,7 @@ body {
 
 .square {
   position: relative;
+  padding-left: 10px;
   /* Other ratios */ }
   .square > div {
     position: absolute;
