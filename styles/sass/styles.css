@@ -1230,19 +1230,16 @@ blockquote, p, .addBottomMargin {
 
 .header {
   background: #3c617a;
-  position: relative;
   z-index: 200;
   text-align: center !important;
   color: #FFF;
-  max-height: 2em; }
-  @media only screen and (min-width: 1024px) {
-    .header {
-      max-height: none;
-      position: absolute;
-      padding: 1em;
-      margin: 0 -1em 24px -1em; } }
+  max-height: none;
+  position: absolute;
+  padding: 1em;
+  margin: 0 -1em 24px -1em; }
   @media only screen and (max-width: 480px) {
     .header {
+      position: relative;
       overflow: hidden; } }
   .header h1 {
     color: #FFF; }

@@ -171,24 +171,23 @@ blockquote, p, .addBottomMargin {
 .header
 {
 	background: $color-root;
-	position: relative;
 	z-index: 200;
 	text-align: center !important;
 	
 	color: #FFF;
     
-    max-height: 2em;
+    //max-height: 2em;
 	
-	@include grid-media-query("desk") {
-		//height: ($magic-number * 7);
+	//@include grid-media-query("desk") {
         max-height: none;
 		position: absolute;
         
         padding: 1em;
         margin: 0 -1em $magic-number -1em;
-	}
+	//}
 	
 	@include grid-media-query("palm") {
+        position: relative;
 		overflow: hidden;
 	}
 	
