@@ -1264,7 +1264,7 @@ blockquote, p, .addBottomMargin {
       color: #FFF; }
 
 .banner {
-  background: url("../images/second_son.jpg") center center no-repeat #3c617a;
+  background: center center no-repeat #3c617a;
   background-size: cover;
   border-bottom: 6px solid #3c617a;
   height: 282px;

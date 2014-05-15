@@ -235,7 +235,7 @@ blockquote, p, .addBottomMargin {
 
 .banner
 {
-	background: url("../images/second_son.jpg") center center no-repeat $color-root;
+	background: center center no-repeat $color-root;
 	background-size: cover;
 	
 	border-bottom: #{$magic-number / 4} solid $color-root;
