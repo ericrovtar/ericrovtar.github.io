@@ -74,6 +74,7 @@ h1 > a
 
 smaller
 {
-    font-size: .75em;
-    line-height: #{$magic-number / .75}em;
+    @include font-size(12px);
+    //font-size: .75em;
+    //line-height: #{$magic-number / .75}em;
 }
