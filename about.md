@@ -33,10 +33,10 @@ permalink: /about/
             </p>
             
             <p>
-                <smaller>
+                <small>
                     Oh! Before I go&hellip; opinions here are my own. You can take them of leave them. I&rsquo;m always
                     open to discussing them, so contact me if you want to talk.
-                </smaller>
+                </small>
             </p>
         </article>
     </div> <!-- /article__item -->
