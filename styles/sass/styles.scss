@@ -341,6 +341,11 @@ blockquote, p, .addBottomMargin {
             {
                 font-weight: normal;
             }
+            
+            & > a:hover
+            {
+                text-decoration: none;
+            }
         }
         
 		& > p

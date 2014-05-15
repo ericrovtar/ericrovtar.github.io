@@ -1317,6 +1317,8 @@ blockquote, p, .addBottomMargin {
   z-index: 200; }
   .article .article__item .article__title > a {
     font-weight: normal; }
+  .article .article__item .article__title > a:hover {
+    text-decoration: none; }
   .article .article__item > p.article__date, .article .article__item > p.article__tags {
     color: #666;
     font-weight: lighter; }
