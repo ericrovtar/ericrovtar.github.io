@@ -1512,10 +1512,34 @@ body {
   .shareIcon.reddit {
     background: #3e6895 url("../images/icons/32px/reddit_white.png") no-repeat scroll center; }
 
-.shareIcon:before {
-  content: "";
-  display: block;
-  margin-top: 100%; }
+.square {
+  position: relative;
+  width: 20%;
+  margin: 5% 5% 0 0;
+  float: left;
+  font-size: 12px;
+  background: red;
+  /* Other ratios */ }
+  .square .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: #fff; }
+  .square .ratio2_1:before {
+    margin-top: 50%; }
+  .square .ratio1_2:before {
+    margin-top: 200%; }
+  .square .ratio4_3:before {
+    margin-top: 75%; }
+  .square .ratio16_9:before {
+    margin-top: 56.25%; }
+  .square:before {
+    content: "";
+    display: block;
+    margin-top: 100%;
+    /* initial ratio of 1:1*/ }
 
 /*--- HEADINGS ---*/
 h1, h2, h3, h4, h5, h6 {
