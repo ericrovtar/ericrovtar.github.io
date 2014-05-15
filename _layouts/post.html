@@ -1,21 +1,16 @@
 ---
 layout: default
 ---
-<div class="post">
-    <header class="post-header">
-        <p class="article__date h2">
-            {{ page.date | date: "%b %-d, %Y" }}
-            {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-        </p>
-        
-        <h1>{{ page.title }}</h1>
-    </header>
 
-  <article class="post-content">
-      {{ content }}
-    
-      <div class="article__share addBottomMargin">
-          {% include sharing.html %}
-      </div> <!-- /article__share -->
-  </article>
-</div>
+<p class="article__date h2">
+    {{ page.date | date: "%b %-d, %Y" }}
+    {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+</p>
+
+<article class="post-content">
+  {{ content }}
+
+  <div class="article__share addBottomMargin">
+      {% include sharing.html %}
+  </div> <!-- /article__share -->
+</article>
