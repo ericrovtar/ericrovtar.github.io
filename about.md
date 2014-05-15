@@ -38,12 +38,6 @@ permalink: /about/
                     open to discussing them, so contact me if you want to talk.
                 </small>
                 </p>
-
-<p>
-By day I work in communications, specifically web development and information technology. At night, 
-I like to drink coffee, hang out with friends, read, watch tv, and other stuff normal people do.
-(That&rsquo;s not to say I'm &ldquo;normal,&rdquo; mind you.)
-</p>
         </article>
     </div> <!-- /article__item -->
 </div> <!-- /article -->
