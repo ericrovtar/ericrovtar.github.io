@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-05-11 19:20:16
+image:  second_son.jpg
 categories: jekyll update
 ---
 

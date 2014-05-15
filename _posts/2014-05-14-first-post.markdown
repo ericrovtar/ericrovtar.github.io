@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "My First Past!"
+title:  "My First Post!"
 date:   2014-05-14 23:23:16
+image:  watch_dogs.jpg
 categories: first post
 ---
 
