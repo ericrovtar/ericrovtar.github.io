@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<h2>Hello There</h2>
+
 <p>
-    Hey! My name&rsquo;s Eric and I like to write &ndash; just not about myself. You've found my blog. I try to 
+    My name&rsquo;s Eric and I like to write &ndash; just not about myself. You've found my blog. I try to 
     write posts regularly or as I think of them. Primarily, I like to write about pop culture and ways that truths 
     are tucked away within tv, movies, music and books.
 </p>
