@@ -1312,6 +1312,14 @@ blockquote, p, .addBottomMargin {
   .content a:hover {
     border-bottom: 1px solid #3c617a; }
 
+.articleList {
+  position: relative;
+  z-index: 200; }
+  .articleList .articleList__item {
+    border-bottom: 1pt solid #CCC; }
+    .articleList .articleList__item:last-child {
+      border-bottom: none; }
+
 .article {
   position: relative;
   z-index: 200; }
