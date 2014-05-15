@@ -1513,16 +1513,14 @@ body {
 
 .square {
   position: relative;
-  padding-left: 10px;
+  padding-left: 10px !important;
   /* Other ratios */ }
   .square > div {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
-    right: 0;
-    margin-left: 24px;
-    /* needed since we're overriding the necessary grid__item padding with .square */ }
+    right: 0; }
   .square .ratio2_1:before {
     margin-top: 50%; }
   .square .ratio1_2:before {

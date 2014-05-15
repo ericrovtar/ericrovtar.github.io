@@ -37,7 +37,7 @@
 
 .square {
     position: relative;
-    padding-left: 10px;
+    padding-left: 10px !important;
     //float: left;
 
     & > div {
@@ -46,8 +46,6 @@
         left: 0;
         bottom: 0;
         right: 0;
-        
-        margin-left: $magic-number; /* needed since we're overriding the necessary grid__item padding with .square */
     }
 
     /* Other ratios */
