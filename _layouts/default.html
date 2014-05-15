@@ -27,8 +27,15 @@
         </div> <!-- /gw -->
     </div> <!-- /wrapper -->
 
-        <div class="banner one-whole" 
-             style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ page.image }}')">
+        <div class="banner one-whole" style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}
+             {% if page.showLatest %}
+                {% for post in site.posts limit: 1 %}
+                    {{ post.image }}
+                {% endfor %}
+             {% else %}
+                {{ page.image }}
+             {% endif %}
+           ')">
         <div class="wrapper">
             <div class="grid grid--middle">
                 <div class="grid__item one-whole">
@@ -45,7 +52,7 @@
                         {% endfor %}
                     {% else %}
                         <h1>
-                            {{ page.title }} {{ page.image }}
+                            {{ page.title }}
                         </h1>
                     {% endif %}
                     </div> <!-- /title -->
