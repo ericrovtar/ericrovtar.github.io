@@ -1498,7 +1498,8 @@ body {
 .shareIcon {
   max-width: 64px;
   max-width: 64px;
-  cursor: pointer; }
+  cursor: pointer;
+  background-size: contain; }
   .shareIcon.facebook {
     background: #405d94 url("../images/icons/32px/facebook_white.png") no-repeat scroll center; }
   .shareIcon.twitter {
