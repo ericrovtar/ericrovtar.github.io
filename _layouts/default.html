@@ -30,7 +30,7 @@
         <div class="banner one-whole" 
              {% if page.showLatest %}
                 {% for post in site.posts limit: 1 %}
-                style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')"
+                    style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')"
                 {% endfor %}
              {% else %}
                 style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ page.image }}')"
