@@ -42,6 +42,7 @@ blockquote, p, .addBottomMargin {
     margin-bottom: $magic-number;
 }
 
+/*--- HYPERLINKS ---*/
 a
 {
     color: $color-root;
@@ -52,4 +53,9 @@ a
     {
         border-bottom: 1px solid $color-root;
     }
+}
+
+h1 > a
+{
+    font-weight: normal;
 }

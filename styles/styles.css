@@ -1501,9 +1501,13 @@ h5, h6,
 blockquote, p, .addBottomMargin {
   margin-bottom: 24px; }
 
+/*--- HYPERLINKS ---*/
 a {
   color: #3c617a;
   font-weight: bold;
   text-decoration: none; }
   a:hover {
     border-bottom: 1px solid #3c617a; }
+
+h1 > a {
+  font-weight: normal; }
