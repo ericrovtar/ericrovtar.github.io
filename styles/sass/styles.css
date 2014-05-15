@@ -1319,14 +1319,17 @@ blockquote, p, .addBottomMargin {
     border-bottom: 1pt solid #CCC; }
     .articleList .articleList__item:last-child {
       border-bottom: none; }
+    .articleList .articleList__item > p.articleList__date {
+      color: #666;
+      font-weight: lighter; }
+    .articleList .articleList__item .articleList__title > a {
+      font-weight: normal; }
+    .articleList .articleList__item .articleList__title > a:hover {
+      border-bottom: none; }
 
 .article {
   position: relative;
   z-index: 200; }
-  .article .article__item .article__title > a {
-    font-weight: normal; }
-  .article .article__item .article__title > a:hover {
-    border-bottom: none; }
   .article .article__item > p.article__date, .article .article__item > p.article__tags {
     color: #666;
     font-weight: lighter; }

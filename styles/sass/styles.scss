@@ -341,6 +341,28 @@ blockquote, p, .addBottomMargin {
         {
             border-bottom: none;
         }
+
+        & > p
+        {
+            &.articleList__date
+            {
+                color: #666;
+                font-weight: lighter;
+            }
+        }
+        
+        .articleList__title
+        {
+            & > a
+            {
+                font-weight: normal;
+            }
+
+            & > a:hover
+            {
+                border-bottom: none;
+            }
+        }
     }
 }
 
@@ -351,19 +373,6 @@ blockquote, p, .addBottomMargin {
 	
 	.article__item 
 	{
-        .article__title
-        {
-            & > a
-            {
-                font-weight: normal;
-            }
-            
-            & > a:hover
-            {
-                border-bottom: none;
-            }
-        }
-        
 		& > p
 		{
 			//background-color: rgba(255, 255, 255, .7);
