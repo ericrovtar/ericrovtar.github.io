@@ -7,7 +7,7 @@ permalink: /about/
 <div class="article palm--padding">
     <div class="article__item">
         <p class="article__date h2">
-            <h2>Hello There</h2>
+            Hello There
         </p>
 
         <article class="post-content">
