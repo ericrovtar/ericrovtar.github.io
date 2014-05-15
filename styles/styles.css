@@ -1500,23 +1500,17 @@ body {
   max-width: 64px;
   cursor: pointer; }
   .shareIcon.facebook {
-    background: #405d94 url("../images/icons/32px/facebook_white.png") no-repeat scroll center;
-    background-size: contain; }
+    background: url("../images/icons/32px/facebook_white.png") no-repeat scroll center center/contain #405d94; }
   .shareIcon.twitter {
-    background: #4aade8 url("../images/icons/32px/twitter_white.png") no-repeat scroll center;
-    background-size: contain; }
+    background: url("../images/icons/32px/twitter_white.png") no-repeat scroll center center/contain #4aade8; }
   .shareIcon.google {
-    background: #cb5a45 url("../images/icons/32px/googleplus_white.png") no-repeat scroll center;
-    background-size: contain; }
+    background: url("../images/icons/32px/googleplus_white.png") no-repeat scroll center center/contain #cb5a45; }
   .shareIcon.tumblr {
-    background: #2c4762 url("../images/icons/32px/tumblr_white.png") no-repeat scroll center;
-    background-size: contain; }
+    background: url("../images/icons/32px/tumblr_white.png") no-repeat scroll center center/contain #2c4762; }
   .shareIcon.pinterest {
-    background: #ff3300 url("../images/icons/32px/pinterest_white.png") no-repeat scroll center;
-    background-size: contain; }
+    background: url("../images/icons/32px/pinterest_white.png") no-repeat scroll center center/contain #ff3300; }
   .shareIcon.reddit {
-    background: #3e6895 url("../images/icons/32px/reddit_white.png") no-repeat scroll center;
-    background-size: contain; }
+    background: url("../images/icons/32px/reddit_white.png") no-repeat scroll center center/contain #3e6895; }
 
 .square {
   position: relative;
