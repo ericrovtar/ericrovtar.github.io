@@ -72,9 +72,7 @@ h1 > a
     }
 }
 
-.smaller
+small
 {
     @include font-size(12px);
-    //font-size: .75em;
-    //line-height: #{$magic-number / .75}em;
 }

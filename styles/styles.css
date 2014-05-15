@@ -1556,6 +1556,6 @@ h1 > a {
   h1 > a:hover {
     border-bottom: none; }
 
-.smaller {
+small {
   font-size: 0.75em;
   line-height: 2em; }
