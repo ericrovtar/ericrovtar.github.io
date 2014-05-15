@@ -1512,6 +1512,11 @@ body {
   .shareIcon.reddit {
     background: #3e6895 url("../images/icons/32px/reddit_white.png") no-repeat scroll center; }
 
+.shareIcon:before {
+  content: "";
+  display: block;
+  margin-top: 100%; }
+
 /*--- HEADINGS ---*/
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 24px;

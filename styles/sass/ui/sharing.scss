@@ -35,3 +35,10 @@
         background: #3E6895 url("../images/icons/32px/reddit_white.png") no-repeat scroll center;
     }
 }
+
+.shareIcon:before
+{
+    content: "";
+    display: block;
+    margin-top: 100%;
+}
