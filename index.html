@@ -5,10 +5,10 @@ showLatest: true
 
 {% for post in site.posts %}
   <p class="article__date h2">
-      {{ page.date | date: "%b %-d, %Y" }}
+      {{ post.date | date: "%b %-d, %Y" }}
   </p>
 
-  <p>
+  <p class="h1">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </p>
 {% endfor %}
