@@ -44,7 +44,7 @@
     font-size: 12px;
     background: red;
 
-    .content {
+    & > div {
         position:  absolute;
         top: 0;
         left: 0;

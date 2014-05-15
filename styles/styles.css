@@ -1520,7 +1520,7 @@ body {
   font-size: 12px;
   background: red;
   /* Other ratios */ }
-  .square .content {
+  .square > div {
     position: absolute;
     top: 0;
     left: 0;
