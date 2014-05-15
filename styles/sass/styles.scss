@@ -328,6 +328,22 @@ blockquote, p, .addBottomMargin {
 	}
 }
 
+.articleList
+{
+    position: relative;
+    z-index: 200;
+    
+    .&__item
+    {
+        border-bottom: 1pt solid #CCC;
+        
+        &:last-child
+        {
+            border-bottom: none;
+        }
+    }
+}
+
 .article
 {
 	position: relative;
