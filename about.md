@@ -12,9 +12,11 @@ permalink: /about/
 
         <article class="post-content">
             <p>
-                My name&rsquo;s Eric and I like to write &ndash; just not about myself. You've found my blog. I try 
-                to write posts regularly or as I think of them. Primarily, I like to write about pop culture and ways 
-                that truths are tucked away within tv, movies, music and books.
+                My name&rsquo;s Eric and I like to write &ndash; just not about myself, so I&rsquo;ll keep this short.
+            </p>
+            <p>
+                You've found my blog. I try to write posts regularly or as I think of them. Primarily, I like to 
+                write about pop culture and ways that truths are tucked away within tv, movies, music and books.
             </p>
 
             <p>
@@ -24,7 +26,7 @@ permalink: /about/
             </p>
 
             <p>
-                If you like what I have to say, feel free to find me on 
+                If you like what I have to say or have and comments, feel free to find me on 
                 <a href="http://facebook.com/eric.rovtar" target="_blank">Facebook</a> and 
                 <a href="http://twitter.com/ericrovtar" target="_blank">Twitter</a>, or if you prefer, shoot me an 
                 <a href="mailto:eric.rovtar@me.com">email</a>.
