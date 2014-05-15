@@ -50,7 +50,7 @@
         
         @include grid-media-query("lap")
         {
-            padding: 0 10px;
+            max-height: 64px;
         }
     }
 
