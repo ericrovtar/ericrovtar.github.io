@@ -1472,7 +1472,7 @@ blockquote, p, .addBottomMargin {
   .article .article__item .article__title > a {
     font-weight: normal; }
   .article .article__item .article__title > a:hover {
-    text-decoration: none; }
+    border-bottom: none; }
   .article .article__item > p.article__date, .article .article__item > p.article__tags {
     color: #666;
     font-weight: lighter; }
