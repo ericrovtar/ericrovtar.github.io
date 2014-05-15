@@ -1512,4 +1512,4 @@ a {
 h1 > a {
   font-weight: normal; }
   h1 > a:hover {
-    border-bottom: normal; }
+    border-bottom: none; }
