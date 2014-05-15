@@ -309,7 +309,8 @@ blockquote, p, .addBottomMargin {
         
         @include grid-media-query("palm") {
             height: auto;
-            padding: 1em 0;
+            padding-top: 1em;
+            padding-bottom: 1em;
         }
     }
 	
@@ -318,8 +319,7 @@ blockquote, p, .addBottomMargin {
         height: auto;
         
         margin-bottom: 24px;
-        padding-top: 1em;
-        padding-bottom: 1em;
+        padding: 1em 0;
         
         font-size: .75em;
 	}

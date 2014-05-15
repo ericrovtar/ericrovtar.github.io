@@ -1302,14 +1302,14 @@ blockquote, p, .addBottomMargin {
     @media only screen and (max-width: 480px) {
       .banner .title {
         height: auto;
-        padding: 1em 0; } }
+        padding-top: 1em;
+        padding-bottom: 1em; } }
   @media only screen and (max-width: 480px) {
     .banner {
       top: 0;
       height: auto;
       margin-bottom: 24px;
-      padding-top: 1em;
-      padding-bottom: 1em;
+      padding: 1em 0;
       font-size: 0.75em; } }
 
 .content a {
