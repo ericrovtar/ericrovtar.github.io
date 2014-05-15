@@ -5,9 +5,10 @@
 @import "_vars.scss";
 
 //Page Elements
+@import "ui/page.scss";
 @import "ui/page-head.scss";
 @import "ui/banner.scss";
-@import "ui/page.scss";
+@import "ui/posts.scss";
 @import "ui/page-sidebar.scss";
 @import "ui/page-foot.scss";
 
