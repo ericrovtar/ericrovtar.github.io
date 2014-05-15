@@ -32,13 +32,19 @@
             <div class="grid grid--middle">
                 <div class="grid__item one-whole">
                     <div class="title">
-                        {% if page.showLatest %}
+                    {% if page.showLatest %}
                         <div class="latest">Latest</div>
-                        {% endif %}
                         
+                        {% for post in site.posts Limit:1 %}
                         <h1>
-                            {{ page.title }} {{ page.layout }}
+                            {{ post.title }}
                         </h1>
+                        {% endfor %}
+                    {% else %}
+                        <h1>
+                            {{ page.title }}
+                        </h1>
+                    {% endif %}
                     </div> <!-- /title -->
                 </div> <!-- /grid-item -->
             </div> <!-- /grid -->
