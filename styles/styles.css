@@ -1496,7 +1496,8 @@ body {
     color: #FFF; }
 
 .shareIcon {
-  width: 100%;
+  max-width: 64px;
+  max-width: 64px;
   cursor: pointer; }
   .shareIcon.facebook {
     background: #405d94 url("../images/icons/32px/facebook_white.png") no-repeat scroll center; }
