@@ -1,0 +1,64 @@
+.header
+{
+    background: $color-root;
+
+    position: absolute;
+    margin: 0 -1em $magic-number -1em;
+    padding: 1em;
+    z-index: 200;
+
+    color: #FFF;
+    text-align: center;
+
+    @include grid-media-query("palm") {
+        position: relative;
+        margin-bottom: 0;
+        padding: .5em 1em;
+        overflow: hidden;
+
+        max-height: 1em;
+    }
+
+    h1
+    {
+        color: #FFF;
+    }
+
+    .header__controls
+    {
+        display: block;
+
+        @include grid-media-query("palm") {
+            display: none;
+        }
+    }
+}
+
+.header__menu, .header__social
+{
+    @include grid-media-query("palm") {
+        display: none;
+    }
+
+    ul
+    {	
+        li
+        {
+            display: inline-block;
+
+            a
+            {
+                display: block;
+                text-decoration: none;
+
+                color: #FFF;
+            }
+
+            a:hover
+            {
+                background: $color-root;
+                color: #FFF;
+            }
+        }
+    }
+}
