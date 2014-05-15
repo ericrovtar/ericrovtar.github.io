@@ -2,15 +2,20 @@
 layout: default
 ---
 
-<p class="article__date h2">
-    {{ page.date | date: "%b %-d, %Y" }}
-    {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-</p>
 
-<article class="post-content">
-  {{ content }}
+<div class="article palm--padding">
+    <div class="article__item">
+        <p class="article__date h2">
+            {{ page.date | date: "%b %-d, %Y" }}
+            {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        </p>
 
-  <div class="article__share addBottomMargin">
-      {% include sharing.html %}
-  </div> <!-- /article__share -->
-</article>
+        <article class="post-content">
+          {{ content }}
+
+          <div class="article__share addBottomMargin">
+              {% include sharing.html %}
+          </div> <!-- /article__share -->
+        </article>
+    </div> <!-- /article__item -->
+</div> <!-- /article -->

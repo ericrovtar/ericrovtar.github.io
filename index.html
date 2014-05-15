@@ -3,14 +3,18 @@ layout: default
 showLatest: true
 ---
 
+<div class="articleList palm--padding">
 {% for post in site.posts %}
-    <p class="article__date h2">
-      {{ post.date | date: "%b %-d, %Y" }}
-    </p>
+    <div class="articleList__item">
+        <p class="article__date h2">
+          {{ post.date | date: "%b %-d, %Y" }}
+        </p>
 
-    <h1 class="article__title">
-        <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
-        </a>
-    </h1>
+        <h1 class="article__title">
+            <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
+                {{ post.title }}
+            </a>
+        </h1>
+    </div> <!-- articleList_item -->
 {% endfor %}
+</div> <!-- articleList -->
