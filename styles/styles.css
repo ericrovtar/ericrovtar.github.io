@@ -1497,7 +1497,6 @@ body {
 
 .shareIcon {
   width: 100%;
-  height: 3em;
   cursor: pointer; }
   .shareIcon.facebook {
     background: #405d94 url("../images/icons/32px/facebook_white.png") no-repeat scroll center; }
@@ -1514,19 +1513,14 @@ body {
 
 .square {
   position: relative;
-  width: 20%;
-  margin: 5% 5% 0 0;
   float: left;
-  font-size: 12px;
-  background: red;
   /* Other ratios */ }
   .square > div {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
-    right: 0;
-    color: #fff; }
+    right: 0; }
   .square .ratio2_1:before {
     margin-top: 50%; }
   .square .ratio1_2:before {
