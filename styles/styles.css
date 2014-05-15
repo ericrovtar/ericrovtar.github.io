@@ -1521,6 +1521,9 @@ body {
     left: 0;
     bottom: 0;
     right: 0; }
+    @media only screen and (min-width: 481px) and (max-width: 1023px) {
+      .square > div {
+        padding: 0 10px; } }
   .square .ratio2_1:before {
     margin-top: 50%; }
   .square .ratio1_2:before {

@@ -47,6 +47,11 @@
         left: 0;
         bottom: 0;
         right: 0;
+        
+        @include grid-media-query("lap")
+        {
+            padding: 0 10px;
+        }
     }
 
     /* Other ratios */
