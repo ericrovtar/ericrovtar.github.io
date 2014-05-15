@@ -35,7 +35,7 @@
                     {% if page.showLatest %}
                         <div class="latest">Latest</div>
                         
-                        {% for post in site.posts Limit:1 %}
+                        {% for post in site.posts limit: 1 %}
                         <h1>
                             {{ post.title }}
                         </h1>
