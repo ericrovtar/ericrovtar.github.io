@@ -37,7 +37,9 @@
                         
                         {% for post in site.posts limit: 1 %}
                         <h1>
-                            {{ post.title }}
+                            <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
+                                {{ post.title }}
+                            </a>
                         </h1>
                         {% endfor %}
                     {% else %}
