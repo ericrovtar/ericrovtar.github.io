@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
 
@@ -7,11 +7,140 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
-      </div>
-    </div>
+    <div class="wrapper">
+        <div class="grid">
+            <div class="grid__item one-whole desk--three-tenths push--desk--seven-tenths">
+                <div class="header">
+                    <div class="header__title">
+                        <h1>Pop Culture Perspectives</h1>
+                    </div>
+
+                    <div class="header__controls">
+                        <div class="header__menu">
+                            <ul class="one-whole">
+                                <li class="one-third"><a href="#">About</a></li><!--
+                             --><li class="one-third"><a href="#">Ask</a></li><!--
+                             --><li class="one-third"><a href="#">Archive</a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- /header__controls -->
+                </div> <!-- /header -->
+            </div> <!-- /grid__item -->
+        </div> <!-- /gw -->
+    </div> <!-- /wrapper -->
+
+    <div class="banner one-whole">
+        <div class="wrapper">
+            <div class="grid grid--middle">
+                <div class="grid__item one-whole">
+                    <div class="title">
+                        <div class="latest">Latest</div>
+                        <h1>
+                            Title
+                        </h1>
+                    </div> <!-- /title -->
+                </div> <!-- /grid-item -->
+            </div> <!-- /grid -->
+        </div> <!-- /wrapper -->
+    </div> <!-- /banner -->
+
+    <div class="content">
+        <div class="wrapper">
+            <div class="grid">
+                <div class="grid__item one-whole desk--six-tenths">
+                    <div class="article  palm--padding">
+                        <div class="article__item">
+                            <p class="article__date h2">May 10, 2014</p>
+
+                            {{ content }}
+                            
+                            <p class="article__tags">tag, tag, tag, tag</p>
+
+                            <div class="article__share addBottomMargin">
+                                Share on __________
+                                <div class="grid grid--full">
+                                    <div class="grid__item one-sixth">
+                                        <div class="shareIcon facebook"></div>
+                                    </div><!--
+
+--><div class="grid__item one-sixth">
+                                    <div class="shareIcon twitter"></div>
+                                    </div><!--
+
+--><div class="grid__item one-sixth">
+                                    <div class="shareIcon google"></div>
+                                    </div><!--
+
+--><div class="grid__item one-sixth">
+                                    <div class="shareIcon tumblr"></div>
+                                    </div><!--
+
+--><div class="grid__item one-sixth">
+                                    <div class="shareIcon pinterest"></div>
+                                    </div><!--
+
+--><div class="grid__item one-sixth">
+                                    <div class="shareIcon reddit"></div>
+                                    </div>
+                                </div> <!-- /gw -->
+                            </div> <!-- /article__share -->
+                        </div> <!-- /article__item -->
+                    </div> <!-- /article -->
+                </div> <!-- /grid__item -->
+
+                <div class="grid__item one-whole desk--three-tenths push--desk--one-tenth">
+                    <div class="sidebar">
+                        <div class="aboutMe palm--padding">
+                            <p>
+                                Hey! I&rsquo;m Eric. Glad to meet you. I <a href="http://ccchapel.com" target="_blank">work</a> 
+                                in communications, focusing with web development and information
+                                technology. I like to <a href="#">write</a>, <a href="http://twitter.com/ericrovtar" target="_blank">tweet</a>
+                                and <a href="http://starbucks.com" target="_blank">drink coffee</a>.
+                            </p>
+
+                            <p>
+                                <a href="#">Want to know more?</a>
+                            </p>
+
+                            <div class="sidebar__twitterFollow">
+                                <a href="https://twitter.com/ericrovtar" class="twitter-follow-button" data-show-count="true" data-size="large" data-dnt="true">Follow @ericrovtar</a>
+                                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            </div>
+                        </div> <!-- /aboutMe -->
+
+                        <div class="sidebar__share addBottomMargin">
+                            Share on __________
+                            <div class="grid grid--full">
+                                <div class="grid__item one-sixth">
+                                    <div class="shareIcon facebook"></div>
+                                </div><!--
+
+                             --><div class="grid__item one-sixth">
+                                    <div class="shareIcon twitter"></div>
+                                </div><!--
+
+                             --><div class="grid__item one-sixth">
+                                    <div class="shareIcon google"></div>
+                                </div><!--
+
+                             --><div class="grid__item one-sixth">
+                                    <div class="shareIcon tumblr"></div>
+                                </div><!--
+
+                             --><div class="grid__item one-sixth">
+                                    <div class="shareIcon pinterest"></div>
+                                </div><!--
+
+                             --><div class="grid__item one-sixth">
+                                    <div class="shareIcon reddit"></div>
+                                </div>
+                            </div> <!-- /gw -->
+                        </div> <!-- /sidebar__share -->
+                    </div> <!-- /sidebar -->
+                </div> <!-- /grid__item -->
+            </div> <!-- /grid -->
+        </div> <!-- /wrapper -->
+    </div> <!-- /content -->
 
     {% include footer.html %}
 
