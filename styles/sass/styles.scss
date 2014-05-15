@@ -111,7 +111,7 @@ h1, .h1 {
 	font-size: #{$h1-font-size / $base-font-size}em; // 1.5em; /* 24px --> 24 ÷ 16 = 1.5 */
 	line-height: #{$magic-number / $h1-font-size}em; //1em; /* 24px --> 24 ÷ 24 = 1 */
 	
-	font-weight: bold;
+	//font-weight: bold;
 }
 
 h2, .h2 {
