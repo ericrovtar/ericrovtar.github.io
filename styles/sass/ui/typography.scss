@@ -58,4 +58,9 @@ a
 h1 > a
 {
     font-weight: normal;
+    
+    &:hover
+    {
+        border-bottom: normal;
+    }
 }
