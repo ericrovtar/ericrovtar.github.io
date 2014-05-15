@@ -314,6 +314,7 @@ blockquote, p, .addBottomMargin {
     }
 	
 	@include grid-media-query("palm") {
+        top: 0;
         height: auto;
         
         padding: 1em 0;

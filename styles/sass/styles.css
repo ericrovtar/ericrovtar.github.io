@@ -1305,6 +1305,7 @@ blockquote, p, .addBottomMargin {
         padding: 1em 0; } }
   @media only screen and (max-width: 480px) {
     .banner {
+      top: 0;
       height: auto;
       padding: 1em 0; } }
 
