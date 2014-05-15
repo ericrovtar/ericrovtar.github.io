@@ -4,37 +4,41 @@
     max-width: 64px;
 
     cursor: pointer;
-    
-    background-size: contain;
 
     &.facebook
     {
-        background: #405D94 contain url("../images/icons/32px/facebook_white.png") no-repeat scroll center;
+        background: #405D94 url("../images/icons/32px/facebook_white.png") no-repeat scroll center;
+        background-size: contain;
     }
 
     &.twitter
     {
-        background: #4AADE8 contain url("../images/icons/32px/twitter_white.png") no-repeat scroll center;
+        background: #4AADE8 url("../images/icons/32px/twitter_white.png") no-repeat scroll center;
+        background-size: contain;
     }
 
     &.google
     {
-        background: #CB5A45 contain url("../images/icons/32px/googleplus_white.png") no-repeat scroll center;
+        background: #CB5A45 url("../images/icons/32px/googleplus_white.png") no-repeat scroll center;
+        background-size: contain;
     }
 
     &.tumblr
     {
-        background: #2C4762 contain url("../images/icons/32px/tumblr_white.png") no-repeat scroll center;
+        background: #2C4762 url("../images/icons/32px/tumblr_white.png") no-repeat scroll center;
+        background-size: contain;
     }
 
     &.pinterest
     {
-        background: #F30 contain url("../images/icons/32px/pinterest_white.png") no-repeat scroll center;
+        background: #F30 url("../images/icons/32px/pinterest_white.png") no-repeat scroll center;
+        background-size: contain;
     }
 
     &.reddit
     {
-        background: #3E6895 contain url("../images/icons/32px/reddit_white.png") no-repeat scroll center;
+        background: #3E6895 url("../images/icons/32px/reddit_white.png") no-repeat scroll center;
+        background-size: contain;
     }
 }
 
