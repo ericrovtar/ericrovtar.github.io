@@ -1,4 +1,7 @@
 @charset "UTF-8";
+/*------------------------------------*\
+$MIXINS
+\*------------------------------------*/
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -1516,8 +1519,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, .h1 {
   font-size: 3em;
-  line-height: 0.5em;
-  font-weight: bold; }
+  line-height: 0.5em; }
 
 h2, .h2 {
   font-size: 1.375em;
