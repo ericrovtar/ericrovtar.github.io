@@ -5,6 +5,7 @@ showLatest: true
 
 <div class="articleList palm--padding">
 {% for post in site.posts %}
+    {% if !forloop.first %}
     <div class="articleList__item">
         <p class="articleList__date h2">
           {{ post.date | date: "%b %-d, %Y" }}
@@ -16,5 +17,6 @@ showLatest: true
             </a>
         </h1>
     </div> <!-- articleList_item -->
+    {% endif %}
 {% endfor %}
 </div> <!-- articleList -->
