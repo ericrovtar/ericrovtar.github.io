@@ -1536,8 +1536,9 @@ h5, h6,
   font-size: 1em;
   line-height: 1.5em; }
 
-/*--- PARAGRAPHS ---*/
-blockquote, p, .addBottomMargin {
+/*--- BLOCK ELEMENTS ---*/
+blockquote, p, ul, ol,
+.addBottomMargin {
   margin-bottom: 24px; }
 
 /*--- HYPERLINKS ---*/
@@ -1552,3 +1553,7 @@ h1 > a {
   font-weight: normal; }
   h1 > a:hover {
     border-bottom: none; }
+
+smaller {
+  font-size: .75em;
+  line-height: 32pxem; }
