@@ -290,7 +290,8 @@ blockquote, p, .addBottomMargin {
 		
 		@include grid-media-query("palm") {
 			top: 0;
-			height: ($magic-number * 3) - ($magic-number / 4);
+            margin-bottom: 0;
+			//height: ($magic-number * 3) - ($magic-number / 4);
 		}
         
         a
@@ -313,8 +314,9 @@ blockquote, p, .addBottomMargin {
     }
 	
 	@include grid-media-query("palm") {
-		top: 0;
         height: auto;
+        
+        padding: 1em 0;
 		//min-height: ($magic-number * 3) - ($magic-number / 4);
 	}
 }

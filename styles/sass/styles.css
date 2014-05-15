@@ -1291,7 +1291,7 @@ blockquote, p, .addBottomMargin {
     @media only screen and (max-width: 480px) {
       .banner h1 {
         top: 0;
-        height: 66px; } }
+        margin-bottom: 0; } }
     .banner h1 a {
       color: #FFF;
       text-decoration: none; }
@@ -1305,8 +1305,8 @@ blockquote, p, .addBottomMargin {
         padding: 1em 0; } }
   @media only screen and (max-width: 480px) {
     .banner {
-      top: 0;
-      height: auto; } }
+      height: auto;
+      padding: 1em 0; } }
 
 .content a {
   color: #3c617a;
