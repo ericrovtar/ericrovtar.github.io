@@ -41,3 +41,15 @@ h5, h6,
 blockquote, p, .addBottomMargin {
     margin-bottom: $magic-number;
 }
+
+a
+{
+    color: $color-root;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover
+    {
+        border-bottom: 1px solid $color-root;
+    }
+}

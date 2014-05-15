@@ -1500,3 +1500,10 @@ h5, h6,
 /*--- PARAGRAPHS ---*/
 blockquote, p, .addBottomMargin {
   margin-bottom: 24px; }
+
+a {
+  color: #3c617a;
+  font-weight: bold;
+  text-decoration: none; }
+  a:hover {
+    border-bottom: 1px solid #3c617a; }
