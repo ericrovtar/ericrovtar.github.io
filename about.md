@@ -4,8 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p>
+    Hey! My name&rsquo;s Eric and I like to write &ndash; just not about myself. You've found my blog. I try to 
+    write posts regularly or as I think of them. Primarily, I like to write about pop culture and ways that truths 
+    are tucked away within tv, movies, music and books.
+</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<p>
+    By day I work in communications, specifically web development and information technology. At night, I like to drink 
+    coffee, hang out with friends, read, watch tv, and other stuff normal people do. (That&rsquo;s not to say I'm 
+    &ldquo;normal,&rdquo; mind you.
+</p>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<p>
+    If you like what I have to say, feel free to find me on 
+    <a href="http://facebook.com/eric.rovtar" target="_blank">Facebook</a> and 
+    <a href="http://twitter.com/ericrovtar" target="_blank">Twitter</a>, or if you prefer, shoot me an 
+    <a href="mailto:eric.rovtar@me.com">email</a>.
+</p>
