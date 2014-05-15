@@ -6,11 +6,11 @@ showLatest: true
 <div class="articleList palm--padding">
 {% for post in site.posts %}
     <div class="articleList__item">
-        <p class="article__date h2">
+        <p class="articleList__date h2">
           {{ post.date | date: "%b %-d, %Y" }}
         </p>
 
-        <h1 class="article__title">
+        <h1 class="articleList__title">
             <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
                 {{ post.title }}
             </a>
