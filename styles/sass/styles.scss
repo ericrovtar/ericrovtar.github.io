@@ -317,8 +317,11 @@ blockquote, p, .addBottomMargin {
         top: 0;
         height: auto;
         
-        padding: 1em 0;
-		//min-height: ($magic-number * 3) - ($magic-number / 4);
+        margin-bottom: 24px;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        
+        font-size: .75em;
 	}
 }
 
