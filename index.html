@@ -8,11 +8,11 @@ showLatest: true
       {{ post.date | date: "%b %-d, %Y" }}
     </p>
 
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-        <h1>
+    <h1 class="article__title">
+        <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
-        </h1>
-    </a>
+        </a>
+    </h1>
 {% endfor %}
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

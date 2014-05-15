@@ -110,8 +110,6 @@ h1, .h1 {
 	$h1-font-size: 48px;
 	font-size: #{$h1-font-size / $base-font-size}em; // 1.5em; /* 24px --> 24 ÷ 16 = 1.5 */
 	line-height: #{$magic-number / $h1-font-size}em; //1em; /* 24px --> 24 ÷ 24 = 1 */
-	
-	//font-weight: bold;
 }
 
 h2, .h2 {
@@ -337,6 +335,14 @@ blockquote, p, .addBottomMargin {
 	
 	.article__item 
 	{
+        .article__title
+        {
+            & > a
+            {
+                font-weight: normal;
+            }
+        }
+        
 		& > p
 		{
 			//background-color: rgba(255, 255, 255, .7);
