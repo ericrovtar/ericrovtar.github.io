@@ -53,8 +53,11 @@
     
     @include grid-media-query("palm") {
         top: 0;
-        height: auto;
         margin-bottom: 24px;
         padding: 1em 0;
+        
+        height: auto;
+        min-height: 6em;
+        
         font-size: .75em; }
 }

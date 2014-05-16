@@ -1436,9 +1436,10 @@ body {
   @media only screen and (max-width: 480px) {
     .banner {
       top: 0;
-      height: auto;
       margin-bottom: 24px;
       padding: 1em 0;
+      height: auto;
+      min-height: 6em;
       font-size: .75em; } }
 
 .content a {
