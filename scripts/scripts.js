@@ -2,12 +2,12 @@
  * $SHARING
  *******************************/
 $(document).ready(function() {
-    $("share__tile").hover(
+    $(".share__tile").hover(
         function() {
-            $(".share__title--current").html("Hello!");
+            $(this).closest(".share__title--current").html("Hello!");
         },
         function() {
-            $(".share__title--current").html("");
+            $(this).closest(".share__title--current").html("");
         }
     );
 });
