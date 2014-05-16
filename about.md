@@ -21,7 +21,7 @@ permalink: /about/
             </p>
             
             <p>
-                Then there are the time that I&rsquo;ll opt to write thoughts about something random I&rsquo;ve
+                Then there are the times that I&rsquo;ll opt to write thoughts about something random I&rsquo;ve
                 learned or stumbled upon while online. After all, they say &ldquo;sharing is caring.&rdquo;
             </p>
 
