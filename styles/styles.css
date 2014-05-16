@@ -1354,8 +1354,8 @@ body {
   @media only screen and (max-width: 480px) {
     .header {
       position: relative;
-      margin-bottom: 0;
-      padding: .5em 1em;
+      margin: 0;
+      padding: .5em 0;
       overflow: hidden;
       max-height: 1em; } }
   .header h1 {
