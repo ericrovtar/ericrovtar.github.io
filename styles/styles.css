@@ -1387,11 +1387,12 @@ body {
     display: inline-block; }
     .header__menu ul li a, .header__social ul li a {
       display: block;
+      color: #FFF;
       text-decoration: none;
-      color: #FFF; }
-    .header__menu ul li a:hover, .header__social ul li a:hover {
-      background: #3c617a;
-      color: #FFF; }
+      font-weight: normal; }
+      .header__menu ul li a:hover, .header__social ul li a:hover {
+        border: none;
+        color: #FFF; }
 
 .banner {
   background: center center no-repeat #333;

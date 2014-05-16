@@ -67,15 +67,16 @@
             a
             {
                 display: block;
+
+                color: #FFF;
                 text-decoration: none;
-
-                color: #FFF;
-            }
-
-            a:hover
-            {
-                background: $color-root;
-                color: #FFF;
+                font-weight: normal; 
+                
+                &:hover
+                {
+                    border: none;
+                    color: #FFF;
+                }
             }
         }
     }
