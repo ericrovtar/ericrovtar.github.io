@@ -36,7 +36,13 @@
         
         a {
             color: #FFF;
-            text-decoration: none; }
+            text-decoration: none; 
+        
+            &:hover
+            {
+                border: none;
+            }
+        }
     }
 
     .title {

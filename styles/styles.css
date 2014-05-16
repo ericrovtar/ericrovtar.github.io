@@ -1424,6 +1424,8 @@ body {
     .banner h1 a {
       color: #FFF;
       text-decoration: none; }
+      .banner h1 a:hover {
+        border: none; }
   .banner .title {
     display: table-cell;
     vertical-align: middle;
