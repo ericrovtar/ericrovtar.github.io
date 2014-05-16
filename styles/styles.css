@@ -1431,8 +1431,8 @@ body {
     @media only screen and (max-width: 480px) {
       .banner .title {
         height: auto;
-        padding-top: 1em;
-        padding-bottom: 1em; } }
+        padding-top: 2em;
+        padding-bottom: 2em; } }
   @media only screen and (max-width: 480px) {
     .banner {
       top: 0;
