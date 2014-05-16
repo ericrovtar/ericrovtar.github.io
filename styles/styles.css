@@ -1376,15 +1376,17 @@ body {
 @media only screen and (max-width: 480px) {
   .header__menu, .header__social {
     display: none; } }
-.header__menu ul li, .header__social ul li {
-  display: inline-block; }
-  .header__menu ul li a, .header__social ul li a {
-    display: block;
-    text-decoration: none;
-    color: #FFF; }
-  .header__menu ul li a:hover, .header__social ul li a:hover {
-    background: #3c617a;
-    color: #FFF; }
+.header__menu ul, .header__social ul {
+  margin-bottom: 0; }
+  .header__menu ul li, .header__social ul li {
+    display: inline-block; }
+    .header__menu ul li a, .header__social ul li a {
+      display: block;
+      text-decoration: none;
+      color: #FFF; }
+    .header__menu ul li a:hover, .header__social ul li a:hover {
+      background: #3c617a;
+      color: #FFF; }
 
 .banner {
   background: center center no-repeat #333;
