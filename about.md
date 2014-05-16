@@ -14,15 +14,21 @@ permalink: /about/
             <p>
                 My name&rsquo;s Eric and I like to write &ndash; just not about myself, so I&rsquo;ll keep this short.
             </p>
+            
             <p>
-                You've found my blog. I try to write posts regularly or as I think of them. Primarily, I like to 
+                You&rsquo;ve found my blog. I try to write posts regularly or as I think of them. Primarily, I like to 
                 write about pop culture and ways that truths are tucked away within tv, movies, music and books.
+            </p>
+            
+            <p>
+                Then there are the time that I&rsquo;ll opt to write thoughts about something random I&rsquo;ve
+                learned or stumbled upon while online. After all, they say &ldquo;sharing is caring.&rdquo;
             </p>
 
             <p>
                 By day I work in communications, specifically web development and information technology. At night, 
                 I like to drink coffee, hang out with friends, read, watch tv, and other stuff normal people do.
-                (That&rsquo;s not to say I'm &ldquo;normal,&rdquo; mind you.)
+                (That&rsquo;s not to say I&rsquo;m &ldquo;normal,&rdquo; mind you.)
             </p>
 
             <p>
