@@ -1495,20 +1495,23 @@ body {
     color: #FFF; }
 
 .share__title {
+  background: none repeat scroll 0% 0% #3c617a;
   display: inline-block;
+  margin: 0px 0px 0.5em;
   padding: 0px 0.5em;
   text-transform: uppercase;
-  background: none repeat scroll 0% 0% #3c617a;
   color: #FFF;
-  margin: 0px 0px 0.5em; }
+  font-weight: 200;
+  letter-spacing: 1px; }
 
 .share__title--current {
   display: inline-block;
+  margin: 0px 0px 0.5em;
   padding: 0px 0.5em;
   text-transform: lowercase;
-  background: none;
   color: #333;
-  margin: 0px 0px 0.5em; }
+  font-weight: 200;
+  letter-spacing: 1px; }
 
 .share__tile {
   max-width: 64px;

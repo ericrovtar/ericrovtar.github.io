@@ -1,21 +1,27 @@
 .share__title
 {
-    display: inline-block;
-    padding: 0px 0.5em;
-    text-transform: uppercase;
     background: none repeat scroll 0% 0% $color-root;
-    color: #FFF;
+    
+    display: inline-block;
     margin: 0px 0px 0.5em;
+    padding: 0px 0.5em;
+    
+    text-transform: uppercase;
+    color: #FFF;
+    font-weight: 200;
+    letter-spacing: 1px;
 }
 
 .share__title--current
 {
     display: inline-block;
-    padding: 0px 0.5em;
-    text-transform: lowercase;
-    background: none;
-    color: #333;
     margin: 0px 0px 0.5em;
+    padding: 0px 0.5em;
+    
+    text-transform: lowercase;
+    color: #333;
+    font-weight: 200;
+    letter-spacing: 1px;
 }
 
 .share__tile
