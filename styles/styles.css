@@ -1502,6 +1502,14 @@ body {
   color: #FFF;
   margin: 0px 0px 0.5em; }
 
+.share__title--current {
+  display: inline-block;
+  padding: 0px 0.5em;
+  text-transform: uppercase;
+  background: none;
+  color: #333;
+  margin: 0px 0px 0.5em; }
+
 .share__tile {
   max-width: 64px;
   max-width: 64px;
