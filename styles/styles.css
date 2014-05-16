@@ -1495,21 +1495,29 @@ body {
   .footer a {
     color: #FFF; }
 
-.shareIcon {
+.share__title {
+  display: inline-block;
+  padding: 0px 0.5em;
+  text-transform: uppercase;
+  background: none repeat scroll 0% 0% #3c617a;
+  color: #FFF;
+  margin: 0px 0px 0.5em; }
+
+.share__tile {
   max-width: 64px;
   max-width: 64px;
   cursor: pointer; }
-  .shareIcon.facebook {
+  .share__tile.facebook {
     background: url("../images/icons/32px/facebook_white.png") no-repeat scroll center center #405d94; }
-  .shareIcon.twitter {
+  .share__tile.twitter {
     background: url("../images/icons/32px/twitter_white.png") no-repeat scroll center center #4aade8; }
-  .shareIcon.google {
+  .share__tile.google {
     background: url("../images/icons/32px/googleplus_white.png") no-repeat scroll center center #cb5a45; }
-  .shareIcon.tumblr {
+  .share__tile.tumblr {
     background: url("../images/icons/32px/tumblr_white.png") no-repeat scroll center center #2c4762; }
-  .shareIcon.pinterest {
+  .share__tile.pinterest {
     background: url("../images/icons/32px/pinterest_white.png") no-repeat scroll center center #ff3300; }
-  .shareIcon.reddit {
+  .share__tile.reddit {
     background: url("../images/icons/32px/reddit_white.png") no-repeat scroll center center #3e6895; }
 
 .square {
