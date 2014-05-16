@@ -1423,6 +1423,7 @@ body {
         margin-bottom: 0; } }
     .banner h1 a {
       color: #FFF;
+      font-weight: normal;
       text-decoration: none; }
       .banner h1 a:hover {
         border: none; }
