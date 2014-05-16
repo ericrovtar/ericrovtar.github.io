@@ -39,6 +39,11 @@
     }
 }
 
+header__logo
+{
+    width: 100%;
+}
+
 .header__menu, .header__social
 {
     @include grid-media-query("palm") {

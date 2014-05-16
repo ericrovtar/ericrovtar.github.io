@@ -1370,6 +1370,9 @@ body {
       .header .header__controls {
         display: none; } }
 
+header__logo {
+  width: 100%; }
+
 @media only screen and (max-width: 480px) {
   .header__menu, .header__social {
     display: none; } }
