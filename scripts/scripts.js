@@ -4,10 +4,10 @@
 $(document).ready(function() {
     $("share__tile").hover(
         function() {
-            $(this).closest(".share__title--current").html("Hello!");
+            $(".share__title--current").html("Hello!");
         },
         function() {
-            $(this).closest(".share__title--current").html("");
+            $(".share__title--current").html("");
         }
     );
 });
