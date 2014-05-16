@@ -16,7 +16,7 @@
         padding: .5em 0;
         overflow: hidden;
 
-        max-height: 1em;
+        height: 2em;
     }
     
     @include grid-media-query("lap") {
@@ -41,7 +41,13 @@
 
 .header__logo
 {
+    height: auto;
     width: 100%;
+    
+    @include grid-media-query("palm") {
+        height: 2em;
+        width: auto;
+    }
 }
 
 .header__menu, .header__social

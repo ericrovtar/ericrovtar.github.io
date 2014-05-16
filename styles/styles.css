@@ -1357,7 +1357,7 @@ body {
       margin: 0;
       padding: .5em 0;
       overflow: hidden;
-      max-height: 1em; } }
+      height: 2em; } }
   @media only screen and (min-width: 481px) and (max-width: 1023px) {
     .header {
       right: -24px;
@@ -1371,7 +1371,12 @@ body {
         display: none; } }
 
 .header__logo {
+  height: auto;
   width: 100%; }
+  @media only screen and (max-width: 480px) {
+    .header__logo {
+      height: 2em;
+      width: auto; } }
 
 @media only screen and (max-width: 480px) {
   .header__menu, .header__social {
