@@ -1503,6 +1503,9 @@ body {
   color: #FFF;
   font-weight: 200;
   letter-spacing: 1px; }
+  @media only screen and (max-width: 480px) {
+    .share__title {
+      content: "SHARE ON"; } }
 
 .share__title--current {
   display: inline-block;
@@ -1512,6 +1515,9 @@ body {
   color: #333;
   font-weight: 200;
   letter-spacing: 1px; }
+  @media only screen and (max-width: 480px) {
+    .share__title--current {
+      display: none; } }
 
 .share__tile {
   max-width: 64px;
