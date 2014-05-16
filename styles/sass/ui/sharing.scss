@@ -10,10 +10,6 @@
     color: #FFF;
     font-weight: 200;
     letter-spacing: 1px;
-    
-    @include grid-media-query("palm") {
-        content: "SHARE ON";
-    }
 }
 
 .share__title--current

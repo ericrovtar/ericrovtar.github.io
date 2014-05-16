@@ -1503,9 +1503,6 @@ body {
   color: #FFF;
   font-weight: 200;
   letter-spacing: 1px; }
-  @media only screen and (max-width: 480px) {
-    .share__title {
-      content: "SHARE ON"; } }
 
 .share__title--current {
   display: inline-block;
