@@ -1464,11 +1464,12 @@ body {
     .articleList .articleList__item:last-child {
       border-bottom: none; }
     .articleList .articleList__item > p.articleList__date {
+      margin-bottom: 0;
       color: #666;
       font-weight: lighter; }
-    .articleList .articleList__item .articleList__title > a {
+    .articleList .articleList__item .articleList__title a {
       font-weight: normal; }
-    .articleList .articleList__item .articleList__title > a:hover {
+    .articleList .articleList__item .articleList__title a:hover {
       border-bottom: none; }
 
 .article {
