@@ -42,15 +42,17 @@
 {
     background: #000;
     background-image: url("/images/posts/watch_dogs.jpg");
+    background-position: center center;
+    background-size: cover;
     background-clip: content-box;
     
-    border-radius: 2.25rem;
+    border-radius: 2.5rem;
     
     float: left;
     margin: -6px $magic-number 0 0;
     
-    height: 4.5rem;
-    width: 4.5rem;
+    height: 5rem;
+    width: 5rem;
 }
 
 .articleList__date
