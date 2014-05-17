@@ -7,6 +7,9 @@ showLatest: true
 {% for post in site.posts %}
     {% if forloop.first == false %}
     <div class="articleList__item">
+        <div class="articleList__thumbnail">
+        </div>
+        
         <p class="articleList__date h2">
           {{ post.date | date: "%b %-d, %Y" }}
         </p>

@@ -1467,6 +1467,12 @@ body {
   .articleList__item > p {
     margin-bottom: 0; }
 
+.articleList__thumbnail {
+  background: #000;
+  float: right;
+  height: 3rem;
+  width: 3rem; }
+
 .articleList__date {
   color: #666;
   font-weight: lighter; }
