@@ -35,12 +35,17 @@
     {
         margin-bottom: 0;
         
-        &.articleList__date
-        {
-            color: #666;
-            font-weight: lighter;
-        }
     }
+}
+
+.articleList__thumbnail
+{
+}
+
+.articleList__date
+{
+    color: #666;
+    font-weight: lighter;
 }
 
 .articleList__title
