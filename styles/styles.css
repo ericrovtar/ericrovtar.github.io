@@ -1602,29 +1602,29 @@ h1, h2, h3, h4, h5, h6 {
   color: #3c617a; }
 
 h1, .h1 {
-  font-size: 3em;
-  line-height: 0.5em; }
+  font-size: 3rem;
+  line-height: 0.5rem; }
   @media only screen and (max-width: 480px) {
     h1, .h1 {
-      font-size: 2.25em;
-      line-height: 0.66667em; } }
+      font-size: 2.25rem;
+      line-height: 0.66667rem; } }
 
 h2, .h2 {
-  font-size: 1.375em;
-  line-height: 1.09091em; }
+  font-size: 1.375rem;
+  line-height: 1.09091rem; }
 
 h3, .h3 {
-  font-size: 1.25em;
-  line-height: 1.2em; }
+  font-size: 1.25rem;
+  line-height: 1.2rem; }
 
 h4, .h4 {
-  font-size: 1.125em;
-  line-height: 1.33333em; }
+  font-size: 1.125rem;
+  line-height: 1.33333rem; }
 
 h5, h6,
 .h5, .h6 {
-  font-size: 1em;
-  line-height: 1.5em; }
+  font-size: 1rem;
+  line-height: 1.5rem; }
 
 /*--- BLOCK ELEMENTS ---*/
 blockquote, p, ul, ol,
@@ -1645,5 +1645,5 @@ h1 > a {
     border-bottom: none; }
 
 small {
-  font-size: 0.75em;
-  line-height: 1.5em; }
+  font-size: 0.75rem;
+  line-height: 1.5rem; }
