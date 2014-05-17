@@ -7,7 +7,8 @@ showLatest: true
 {% for post in site.posts %}
     {% if forloop.first == false %}
     <div class="articleList__item">
-        <div class="articleList__thumbnail">
+        <div class="articleList__thumbnail" 
+             style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
         </div>
         
         <p class="articleList__date h2">

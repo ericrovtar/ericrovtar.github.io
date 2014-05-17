@@ -40,9 +40,12 @@
 
 .articleList__thumbnail
 {
-    background: #000;
-    background-image: url("/images/posts/watch_dogs.jpg");
-    background-position: center center;
+    //background: #000;
+    //background-image: url("/images/posts/watch_dogs.jpg");
+    //background-position: center center;
+    //background-size: cover;
+    
+    background: center center no-repeat $color-root;
     background-size: cover;
     background-clip: content-box;
     
