@@ -1457,20 +1457,24 @@ body {
 .articleList {
   position: relative;
   z-index: 200; }
-  .articleList .articleList__item {
-    border-bottom: 1px solid #CCC;
-    padding-bottom: 23px;
-    margin-bottom: 24px; }
-    .articleList .articleList__item:last-child {
-      border-bottom: none; }
-    .articleList .articleList__item > p.articleList__date {
-      margin-bottom: 0;
-      color: #666;
-      font-weight: lighter; }
-    .articleList .articleList__item .articleList__title a {
-      font-weight: normal; }
-    .articleList .articleList__item .articleList__title a:hover {
-      border-bottom: none; }
+
+.articleList__item {
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 23px;
+  margin-bottom: 24px; }
+  .articleList__item:last-child {
+    border-bottom: none; }
+  .articleList__item > p.articleList__date {
+    margin-bottom: 0;
+    color: #666;
+    font-weight: lighter; }
+
+.articleList__title p {
+  margin-bottom: 0; }
+.articleList__title a {
+  font-weight: normal; }
+.articleList__title a:hover {
+  border-bottom: none; }
 
 .article {
   position: relative;
