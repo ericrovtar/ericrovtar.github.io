@@ -1464,13 +1464,12 @@ body {
   margin-bottom: 24px; }
   .articleList__item:last-child {
     border-bottom: none; }
-  .articleList__item > p.articleList__date {
-    margin-bottom: 0;
-    color: #666;
-    font-weight: lighter; }
+  .articleList__item > p {
+    margin-bottom: 0; }
+    .articleList__item > p.articleList__date {
+      color: #666;
+      font-weight: lighter; }
 
-.articleList__title p {
-  margin-bottom: 0; }
 .articleList__title a {
   font-weight: normal; }
 .articleList__title a:hover {

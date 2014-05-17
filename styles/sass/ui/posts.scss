@@ -33,10 +33,10 @@
 
     & > p
     {
+        margin-bottom: 0;
+        
         &.articleList__date
         {
-            margin-bottom: 0;
-
             color: #666;
             font-weight: lighter;
         }
@@ -45,11 +45,6 @@
 
 .articleList__title
 {
-    p
-    {
-        margin-bottom: 0;
-    }
-    
     a
     {
         font-weight: normal;
