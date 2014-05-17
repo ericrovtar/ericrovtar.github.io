@@ -1472,7 +1472,8 @@ body {
   background-image: url("/images/posts/watch_dogs.jpg");
   background-clip: content-box;
   border-radius: 2.25rem;
-  float: right;
+  float: left;
+  margin: -6px 24px 0 0;
   height: 4.5rem;
   width: 4.5rem; }
 
