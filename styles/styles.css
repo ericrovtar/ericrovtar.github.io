@@ -1469,9 +1469,12 @@ body {
 
 .articleList__thumbnail {
   background: #000;
+  background-image: url("/images/posts/watch_dogs.jpg");
+  background-clip: content-box;
+  border-radius: 2.25rem;
   float: right;
-  height: 3rem;
-  width: 3rem; }
+  height: 4.5rem;
+  width: 4.5rem; }
 
 .articleList__date {
   color: #666;
