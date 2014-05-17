@@ -1,8 +1,9 @@
 /*
 Syntax error: Invalid CSS after "}": expected "}", was ""
-        on line 143 of sass/ui/posts.scss
+        on line 142 of sass/ui/posts.scss
         from line 12 of ./sass/styles.scss
 
+137:     letter-spacing: 1px;
 138: 
 139:     @include grid-media-query("palm") {
 140:         display: none;
@@ -10,7 +11,7 @@ Syntax error: Invalid CSS after "}": expected "}", was ""
 142: }
 
 Backtrace:
-sass/ui/posts.scss:143
+sass/ui/posts.scss:142
 ./sass/styles.scss:12
 /Users/eric.rovtar/.rvm/gems/ruby-2.1.1/gems/sass-3.3.7/lib/sass/scss/parser.rb:1312:in `expected'
 /Users/eric.rovtar/.rvm/gems/ruby-2.1.1/gems/sass-3.3.7/lib/sass/scss/parser.rb:1248:in `expected'
@@ -63,4 +64,4 @@ sass/ui/posts.scss:143
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"}\": expected \"}\", was \"\"\A         on line 143 of sass/ui/posts.scss\A         from line 12 of ./sass/styles.scss\A \A 138: \A 139:     @include grid-media-query(\"palm\") {\A 140:         display: none;\A 141:     }\A 142: }"; }
+  content: "Syntax error: Invalid CSS after \"}\": expected \"}\", was \"\"\A         on line 142 of sass/ui/posts.scss\A         from line 12 of ./sass/styles.scss\A \A 137:     letter-spacing: 1px;\A 138: \A 139:     @include grid-media-query(\"palm\") {\A 140:         display: none;\A 141:     }\A 142: }"; }
