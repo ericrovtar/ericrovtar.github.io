@@ -1489,10 +1489,10 @@ body {
 .article {
   position: relative;
   z-index: 200; }
-  .article .article__item > p.article__date, .article .article__item > p.article__tags {
+  .article .article__item p.article__date, .article .article__item p.article__tags {
     color: #666;
     font-weight: lighter; }
-  .article .article__item > blockquote {
+  .article .article__item blockquote {
     padding: 23px 0;
     border-top: 1px solid #AAA;
     border-bottom: 1px solid #AAA;
