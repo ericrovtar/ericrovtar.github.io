@@ -77,11 +77,23 @@
     a
     {
         font-weight: normal;
+    
+        &:hover
+        {
+            border-bottom: none;
+        }
     }
-
-    a:hover
+    
+    p
     {
-        border-bottom: none;
+        font-size: .75em;
+        font-weight: bold;
+        
+        &:first-line
+        {
+            font-size: 1em;
+            font-weight: normal;
+        }
     }
 }
 

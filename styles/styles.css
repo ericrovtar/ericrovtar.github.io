@@ -1491,8 +1491,14 @@ body {
 
 .articleList__title a {
   font-weight: normal; }
-.articleList__title a:hover {
-  border-bottom: none; }
+  .articleList__title a:hover {
+    border-bottom: none; }
+.articleList__title p {
+  font-size: .75em;
+  font-weight: bold; }
+  .articleList__title p:first-line {
+    font-size: 1em;
+    font-weight: normal; }
 
 .article {
   position: relative;
