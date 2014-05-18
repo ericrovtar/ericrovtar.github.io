@@ -1,4 +1,16 @@
 <div class="spoilers">
+    <div class="grid">
+        <div class="grid__item spoilers__warning">
+            Warning
+        </div><!--
+ --><div class="spoilers__details">
+        This post contains spoilers for {{ include.spoilersFor }}
+        </div>
+    </div>
+</div>
+
+{% comment %}
+<div class="spoilers">
     <div class="spoilers__warning">
         Warning!
     </div><!--
@@ -6,3 +18,4 @@
         This post contains spoilers for {{ include.spoilersFor }}
     </div>
 </div>
+{% endcomment %}
