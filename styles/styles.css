@@ -1497,7 +1497,6 @@ body {
   margin-bottom: 23px;
   padding: 23px 0 0 0;
   border-top: 1px solid #AAA;
-  border-bottom: 1px solid #AAA;
   font-family: Georgia, serif;
   color: #aaa;
   font-style: italic;
@@ -1505,6 +1504,10 @@ body {
   text-align: right; }
   .article__item blockquote p {
     text-align: left; }
+    .article__item blockquote p:last-child {
+      border-bottom: 1pt solid #AAA;
+      margin-bottom: 0;
+      padding-bottom: 23px; }
   .article__item blockquote cite {
     background: none repeat scroll 0% 0% #AAA;
     display: inline-block;
