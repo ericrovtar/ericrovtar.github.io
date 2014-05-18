@@ -1546,6 +1546,9 @@ body {
   color: #333;
   font-weight: 200;
   letter-spacing: 1px; }
+  @media only screen and (max-width: 480px) {
+    .spoilers__details {
+      padding: 0; } }
 
 .aboutMe {
   background: #EEE;
