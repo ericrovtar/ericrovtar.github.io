@@ -21,13 +21,13 @@ showLatest: true
                     {{ post.date | date: "%b %-d, %Y" }}
                 </p>
 
-                <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
-                    <p class="h1 articleList__title">
-                        <small>
-                                {{ post.title }}
-                        </small>
-                    </p>
-                </a>
+                <p class="h1 articleList__title">
+                    <small>
+                        <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
+                            {{ post.title }}
+                        </a>
+                    </small>
+                </p>
             </div>
         </div>
         

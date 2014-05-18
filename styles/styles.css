@@ -1495,13 +1495,6 @@ body {
   .articleList__title a:hover {
     border-bottom: none; }
 
-.article__link p {
-  font-size: .75em;
-  font-weight: bold; }
-  .article__link p:first-line {
-    font-size: 1em;
-    font-weight: normal; }
-
 .article {
   position: relative;
   z-index: 200; }

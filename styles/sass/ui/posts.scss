@@ -85,21 +85,18 @@
             border-bottom: none;
         }
     }
-}
- 
-.article__link
-{
-    p
-    {
-        font-size: .75em;
-        font-weight: bold;
-        
-        &:first-line
-        {
-            font-size: 1em;
-            font-weight: normal;
-        }
-    }
+    
+    //a
+    //{
+    //    font-size: .75em;
+    //    font-weight: bold;
+    //    
+    //    &:first-line
+    //    {
+    //        font-size: 1em;
+    //        font-weight: normal;
+    //    }
+    //}
 }
 
 .article
