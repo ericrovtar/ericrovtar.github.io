@@ -1510,6 +1510,7 @@ body {
 .spoilers__warning {
   background: none repeat scroll 0% 0% #ce171d;
   padding: 0px 0.5em !important;
+  width: auto;
   text-transform: uppercase;
   color: #FFF;
   font-weight: 200;
