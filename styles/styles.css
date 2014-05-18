@@ -1464,7 +1464,7 @@ body {
   margin-bottom: 24px; }
   .articleList__item:last-child {
     border-bottom: none; }
-  .articleList__item > p {
+  .articleList__item p {
     margin-bottom: 0; }
 
 .articleList__thumbnail {
@@ -1476,6 +1476,12 @@ body {
   margin: -6px 24px 0 0;
   height: 5rem;
   width: 5rem; }
+
+.articleList__link {
+  width: 5em; }
+
+.articleList_details {
+  width: auto; }
 
 .articleList__date {
   color: #666;

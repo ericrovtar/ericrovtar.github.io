@@ -8,15 +8,15 @@ showLatest: true
     {% if forloop.first == false %}
     <div class="articleList__item">
         <div class="grid">
-            <div class="grid__item one-quarter">
-                <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
+            <div class="grid__item articleList__link">
+                <a href="{{ post.url | prepend: site.baseurl }}">
                     <div class="articleList__thumbnail" 
                          style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
                     </div>
                 </a>
             </div><!--
             
-         --><div class="grid__item three-quarters">
+         --><div class="grid__item articleList_details">
                 <p class="articleList__date h2">
                     {{ post.date | date: "%b %-d, %Y" }}
                 </p>

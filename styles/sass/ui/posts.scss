@@ -31,7 +31,7 @@
         border-bottom: none;
     }
 
-    & > p
+    p
     {
         margin-bottom: 0;
         
@@ -56,6 +56,16 @@
     
     height: 5rem;
     width: 5rem;
+}
+
+.articleList__link
+{
+    width: 5em;
+}
+
+.articleList_details
+{
+    width: auto;
 }
 
 .articleList__date
