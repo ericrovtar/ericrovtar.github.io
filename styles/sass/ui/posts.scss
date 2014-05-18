@@ -108,6 +108,25 @@
         color: #aaa;
         font-style: italic;
         letter-spacing: 1px;
+        text-align: right; 
+        
+        p 
+        {
+            text-align: left;
+        }
+        
+        cite
+        {
+            background: none repeat scroll 0% 0% #AAA;
+
+            display: inline-block;
+            position: relative;
+            margin-bottom: 0px;
+            padding: 0 .5em;
+
+            color: #FFF;
+            font-style: normal;
+        }
     }
 }
 
