@@ -1407,18 +1407,19 @@ body {
   .banner .latest {
     background: rgba(255, 255, 255, 0.7);
     display: inline-block;
-    margin: 0 0 1.25em 0;
+    margin: 0 0 0.25em 0;
     padding: 0 .5em;
     color: #3c617a;
     font-size: 1rem;
     line-height: 1.5rem;
     text-transform: uppercase; }
   .banner h1 {
+    margin-left: 0;
     color: #FFF;
+    line-height: 2.5rem;
     text-shadow: 2px 2px 2px #3c617a;
     text-transform: lowercase;
-    font-weight: normal;
-    margin-left: 0; }
+    font-weight: normal; }
     @media only screen and (max-width: 480px) {
       .banner h1 {
         top: 0;
