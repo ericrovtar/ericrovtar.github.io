@@ -7,6 +7,31 @@ showLatest: true
 {% for post in site.posts %}
     {% if forloop.first == false %}
     <div class="articleList__item">
+        <div class="grid">
+            <div class="grid__item one-fourth">
+                <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
+                    <div class="articleList__thumbnail" 
+                         style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
+                    </div>
+                </a>
+            </div><!--
+            
+         --><div class="grid__item three-fourth">
+                <p class="articleList__date h2">
+                    {{ post.date | date: "%b %-d, %Y" }}
+                </p>
+
+                <p class="h1 articleList__title">
+                    <small>
+                        <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
+                            {{ post.title }}
+                        </a>
+                    </small>
+                </p>
+            </div>
+        </div>
+        
+        {% comment %}
         <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
             <div class="articleList__thumbnail" 
                  style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
@@ -24,6 +49,7 @@ showLatest: true
                 </a>
             </small>
         </p>
+        {% endcommon %}
     </div> <!-- articleList_item -->
     {% endif %}
 {% endfor %}
