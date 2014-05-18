@@ -141,7 +141,7 @@
     font-weight: 200;
     letter-spacing: 1px;
 
-    @include grid-media-query("palm") {
-        display: none;
-    }
+    //@include grid-media-query("palm") {
+    //    display: none;
+    //}
 }
