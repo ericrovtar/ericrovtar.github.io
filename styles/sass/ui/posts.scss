@@ -38,13 +38,15 @@
     }
 }
 
-.articleList__thumbnail
+.articleList__link
 {
-    //background: #000;
-    //background-image: url("/images/posts/watch_dogs.jpg");
-    //background-position: center center;
-    //background-size: cover;
-    
+    margin-left: 24px;
+
+    width: 5rem;
+}
+
+.articleList__thumbnail
+{   
     background: center center no-repeat $color-root;
     background-size: cover;
     background-clip: content-box;
@@ -52,15 +54,10 @@
     border-radius: 2.5rem;
     
     float: left;
-    margin: -6px $magic-number 0 0;
+    margin: -8px $magic-number 0 0;
     
     height: 5rem;
     width: 5rem;
-}
-
-.articleList__link
-{
-    width: 5em;
 }
 
 .articleList_details

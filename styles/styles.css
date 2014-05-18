@@ -1467,18 +1467,19 @@ body {
   .articleList__item p {
     margin-bottom: 0; }
 
+.articleList__link {
+  margin-left: 24px;
+  width: 5rem; }
+
 .articleList__thumbnail {
   background: center center no-repeat #3c617a;
   background-size: cover;
   background-clip: content-box;
   border-radius: 2.5rem;
   float: left;
-  margin: -6px 24px 0 0;
+  margin: -8px 24px 0 0;
   height: 5rem;
   width: 5rem; }
-
-.articleList__link {
-  width: 5em; }
 
 .articleList_details {
   width: auto; }
