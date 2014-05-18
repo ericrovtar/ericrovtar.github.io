@@ -1575,7 +1575,6 @@ body {
 
 .share__title {
   background: none repeat scroll 0% 0% #3c617a;
-  background-size: 50%;
   display: inline-block;
   margin: 0px 0px 0.5em;
   padding: 0px 0.5em;
@@ -1601,17 +1600,23 @@ body {
   max-width: 64px;
   cursor: pointer; }
   .share__tile.facebook {
-    background: url("../images/icons/32px/facebook_white.png") no-repeat scroll center center #405d94; }
+    background: url("../images/icons/32px/facebook_white.png") no-repeat scroll center center #405d94;
+    background-size: 50%; }
   .share__tile.twitter {
-    background: url("../images/icons/32px/twitter_white.png") no-repeat scroll center center #4aade8; }
+    background: url("../images/icons/32px/twitter_white.png") no-repeat scroll center center #4aade8;
+    background-size: 50%; }
   .share__tile.google {
-    background: url("../images/icons/32px/googleplus_white.png") no-repeat scroll center center #cb5a45; }
+    background: url("../images/icons/32px/googleplus_white.png") no-repeat scroll center center #cb5a45;
+    background-size: 50%; }
   .share__tile.tumblr {
-    background: url("../images/icons/32px/tumblr_white.png") no-repeat scroll center center #2c4762; }
+    background: url("../images/icons/32px/tumblr_white.png") no-repeat scroll center center #2c4762;
+    background-size: 50%; }
   .share__tile.pinterest {
-    background: url("../images/icons/32px/pinterest_white.png") no-repeat scroll center center #ff3300; }
+    background: url("../images/icons/32px/pinterest_white.png") no-repeat scroll center center #ff3300;
+    background-size: 50%; }
   .share__tile.reddit {
-    background: url("../images/icons/32px/reddit_white.png") no-repeat scroll center center #3e6895; }
+    background: url("../images/icons/32px/reddit_white.png") no-repeat scroll center center #3e6895;
+    background-size: 50%; }
 
 .square {
   position: relative;
