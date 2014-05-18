@@ -1414,7 +1414,8 @@ body {
     line-height: 1.5rem;
     text-transform: uppercase; }
   .banner h1 {
-    margin-left: 0;
+    margin-left: 1rem;
+    text-indent: -1rem;
     color: #FFF;
     line-height: 2.5rem;
     text-shadow: 2px 2px 2px #3c617a;
