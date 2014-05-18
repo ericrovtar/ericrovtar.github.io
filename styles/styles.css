@@ -1504,7 +1504,7 @@ body {
   text-align: right; }
   .article__item blockquote p {
     text-align: left; }
-    .article__item blockquote p:last-child {
+    .article__item blockquote p:last-of-type {
       border-bottom: 1pt solid #AAA;
       margin-bottom: 0;
       padding-bottom: 23px; }
