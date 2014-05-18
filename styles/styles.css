@@ -1575,6 +1575,7 @@ body {
 
 .share__title {
   background: none repeat scroll 0% 0% #3c617a;
+  background-size: 50%;
   display: inline-block;
   margin: 0px 0px 0.5em;
   padding: 0px 0.5em;
