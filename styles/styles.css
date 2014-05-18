@@ -1494,10 +1494,10 @@ body {
   font-weight: normal; }
   .articleList__title a:hover {
     border-bottom: none; }
-.articleList__title p {
+.articleList__title a {
   font-size: .75em;
   font-weight: bold; }
-  .articleList__title p:first-line {
+  .articleList__title a:first-line {
     font-size: 1em;
     font-weight: normal; }
 
