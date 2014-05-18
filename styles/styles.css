@@ -1482,7 +1482,8 @@ body {
   width: 5rem; }
 
 .articleList_details {
-  width: auto; }
+  width: auto;
+  max-width: 60%; }
 
 .articleList__date {
   color: #666;
