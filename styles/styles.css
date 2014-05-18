@@ -1533,6 +1533,7 @@ body {
 
 .spoilers__warning {
   background: none repeat scroll 0% 0% #ce171d;
+  margin: 0px 0px 0.5em;
   padding: 0px 0.5em !important;
   width: auto;
   text-transform: uppercase;
@@ -1541,14 +1542,10 @@ body {
   letter-spacing: 1px; }
 
 .spoilers__details {
-  padding: 0px 0.5em !important;
   text-transform: lowercase;
   color: #333;
   font-weight: 200;
   letter-spacing: 1px; }
-  @media only screen and (max-width: 480px) {
-    .spoilers__details {
-      padding: 0; } }
 
 .aboutMe {
   background: #EEE;
