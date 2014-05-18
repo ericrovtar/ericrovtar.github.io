@@ -1361,7 +1361,7 @@ body {
   @media only screen and (min-width: 481px) and (max-width: 1023px) {
     .header {
       right: -24px;
-      min-width: 313px; } }
+      max-width: 276px; } }
   .header h1 {
     color: #FFF; }
   .header .header__controls {
