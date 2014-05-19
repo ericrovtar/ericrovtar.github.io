@@ -4,6 +4,7 @@ title: "Fighting for Control"
 image: godzilla.jpg
 category: movie
 tags: movies, godzilla, control
+published: false
 ---
 
 {% include spoilerWarning.html spoilersFor="Godzilla (2014)" %}
