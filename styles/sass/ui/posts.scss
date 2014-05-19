@@ -160,10 +160,10 @@
     }
 }
 
-.article__figure
+.article__figure--left,
+.article__figure--right
 {   
-    float: right;
-    margin: 0 0 24px 1em;
+    margin-bottom: 24px; //: 0 0 24px 1em;
 
     font-family: $serif-fonts;
     font-style: italic;
@@ -193,6 +193,17 @@
         width: 7rem;
     }
 }
+
+    .article__figure--left 
+    { 
+        float: left; 
+        margin-right: 1em;
+    }
+    .article__figure--right 
+    { 
+        float: right; 
+        margin-left: 1em;
+    }
 
 .spoilers
 {

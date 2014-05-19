@@ -1,4 +1,8 @@
-<figure class="article__figure">
+<figure class="{% if include.float == 'left' %}
+               article__figure--left
+               {% else %}
+               artcle__figure--right
+               {% endif %}">
     <img src="{{ include.src }}" />
 
     <figcaption>{{ include.caption }}</figcaption>

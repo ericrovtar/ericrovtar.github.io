@@ -1527,26 +1527,36 @@ body {
     color: #FFF;
     font-style: normal; }
 
-.article__figure {
-  float: right;
-  margin: 0 0 24px 1em;
+.article__figure--left,
+.article__figure--right {
+  margin-bottom: 24px;
   font-family: Georgia, serif;
   font-style: italic;
   text-align: center;
   color: #FFF; }
-  .article__figure img {
+  .article__figure--left img,
+  .article__figure--right img {
     border-radius: 50%;
     position: relative;
     z-index: 200;
     height: 8rem;
     width: auto; }
-  .article__figure figcaption {
+  .article__figure--left figcaption,
+  .article__figure--right figcaption {
     background: none repeat scroll 0% 0% #AAA;
     position: relative;
     padding: 4rem 0.5rem 0.5rem;
     margin-top: -4rem;
     z-index: 100;
     width: 7rem; }
+
+.article__figure--left {
+  float: left;
+  margin-right: 1em; }
+
+.article__figure--right {
+  float: right;
+  margin-left: 1em; }
 
 .spoilers {
   margin-top: -1px;
