@@ -1630,7 +1630,6 @@ body {
 
 .share__tile {
   max-width: 64px;
-  max-width: 64px;
   cursor: pointer; }
   .share__tile.facebook {
     background: url("../images/icons/64px/white/facebook.png") no-repeat scroll center center/50% auto #405d94; }
