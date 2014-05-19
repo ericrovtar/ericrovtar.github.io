@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Exactly Do We Deserve?"
+title:  "A Sum of Parts"
 image:  fitz-simmons.jpg
 categories: tv
 tags: tv, agents of shield
