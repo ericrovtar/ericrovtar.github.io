@@ -23,9 +23,9 @@ Have you ever struggled to control something? I know I have. Time and time again
 
 I’d manipulate people in an effort to make whatever I wanted to happen happen or gather information to gain leverage. After all, “knowledge is power,” is it not?
 
-I was good at it too.
- 
 {% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" %}
+
+I was good at it too.
 
 In some ways, the way I lived my life was the same way humanity was trying to save theirs in the latest <i>Godzilla</i> movie. 
 
