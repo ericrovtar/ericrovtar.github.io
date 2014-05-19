@@ -24,7 +24,7 @@ I’d manipulate people in an effort to make whatever I wanted to happen happen 
 
 I was good at it too.
  
-{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" float="left" %}
+{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" %}
 
 In some ways, the way I lived my life was the same way humanity was trying to save theirs in the latest Godzilla movie. Yet, before we even had the chance to see humanity struggle fruitlessly for control, we were shown how quickly we can lose control to begin with. 
 
