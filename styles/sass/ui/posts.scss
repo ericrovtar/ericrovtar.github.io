@@ -107,6 +107,17 @@
 
 .article__item 
 {
+    figure
+    {
+        border-radius: 4rem;
+        
+        float: right;
+        margin-left: 24px;
+
+        height: 8rem;
+        width: auto; 
+    }
+    
     p
     {
         //background-color: rgba(255, 255, 255, .7);
