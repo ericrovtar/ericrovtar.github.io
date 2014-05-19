@@ -1297,7 +1297,7 @@ $PULL
 $VARIABLES
 \*------------------------------------*/
 html {
-  font-family: 'Open Sans', Verdana, sans-serif;
+  font-family: "'Open Sans', Verdana, sans-serif";
   color: #333;
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
@@ -1500,15 +1500,6 @@ body {
   position: relative;
   z-index: 200; }
 
-.article__item figure {
-  float: right;
-  margin-left: 24px; }
-  .article__item figure img {
-    border-radius: 50%;
-    height: 8rem;
-    width: auto; }
-  .article__item figure figcaption {
-    width: 100%; }
 .article__item p.article__date, .article__item p.article__tags {
   color: #666;
   font-weight: lighter; }
@@ -1516,7 +1507,7 @@ body {
   margin-bottom: 23px;
   padding: 23px 0 0 0;
   border-top: 1px solid #AAA;
-  font-family: Georgia, serif;
+  font-family: "Georgia, serif";
   color: #aaa;
   font-style: italic;
   letter-spacing: 1px;
@@ -1535,6 +1526,25 @@ body {
     padding: 0 .5em;
     color: #FFF;
     font-style: normal; }
+
+.article__figure {
+  float: right;
+  margin-left: 24px;
+  font-family: "Georgia, serif";
+  color: #FFF; }
+  .article__figure img {
+    border-radius: 50%;
+    position: relative;
+    z-index: 200;
+    height: 8rem;
+    width: auto; }
+  .article__figure figcaption {
+    background: none repeat scroll 0% 0% #AAA;
+    position: relative;
+    padding: 5em 0px 1em;
+    top: -5em;
+    z-index: 100;
+    width: 100%; }
 
 .spoilers {
   margin-top: -1px;

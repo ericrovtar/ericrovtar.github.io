@@ -45,7 +45,7 @@ Perhaps it’s for the same reason I struggle to give up control: when I give up
  
 Maybe it’s a bit deeper than that and involves trusting others rather than ourselves. We’ve all been let down at one point or another because someone didn’t follow through the way they promised.
 
-<figure class="article__image">
+<figure class="article__figure">
     <img src="/images/posts/godzilla_serizawa.jpg" />
     
     <figcaption>Ken Watanabe as Dr. Ichiro Serizawa</figcaption>

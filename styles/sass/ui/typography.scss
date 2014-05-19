@@ -5,46 +5,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-    //$h1-font-size: 48px;
-    //font-size: #{$h1-font-size / $base-font-size}em; // 1.5em; /* 24px --> 24 ÷ 16 = 1.5 */
-    //line-height: #{$magic-number / $h1-font-size}em; //1em; /* 24px --> 24 ÷ 24 = 1 */
-    
     @include font-size(48px);
     
     @include grid-media-query("palm") {
         @include font-size(36px);
     }
-    
-    //font-weight: bold;
 }
 
 h2, .h2 {
     @include font-size(22px);
-    //$h2-font-size: 22px;
-    //font-size: #{$h2-font-size / $base-font-size}em; // 1.375em; /* 22px --> 22 ÷ 16 = 1.375 */
-    //line-height: #{$magic-number / $h2-font-size}em; // 1.0909em; /* 24px --> 24 ÷ 22 = 1.090909(09) */
 }
 
 h3, .h3 {
     @include font-size(20px);
-    //$h3-font-size: 20px;
-    //font-size: #{$h3-font-size / $base-font-size}em; // 1.25em; /* 20px --> 20 ÷ 16 = 1.25 */
-    //line-height: #{$magic-number / $h3-font-size}em; // 1.2em; /* 24px --> 24 ÷ 20 = 1.2 */
 }
 
 h4, .h4 {
     @include font-size(18px);
-    //$h4-font-size: 18px;
-    //font-size: #{$h4-font-size / $base-font-size}em; // 1.125em; /* 18px --> 18 ÷ 16 = 1.125 */
-    //line-height: #{$magic-number /$h4-font-size}em;  // 1.333em; /* 24px --> 24 ÷ 18 = 1.3333333(3) */
 }
 
 h5, h6,
 .h5, .h6 {
     @include font-size(16px);
-    //$h5-font-size: 16px;
-    //font-size: #{$h5-font-size / $base-font-size}em; // 1em; /* 16px --> 16 ÷ 16 = 1 */
-    //line-height: #{$magic-number / $h5-font-size}em; // 1.5em; /* 24px --> 24 ÷ 16 = 1.5 */
 }
 
 /*--- BLOCK ELEMENTS ---*/
