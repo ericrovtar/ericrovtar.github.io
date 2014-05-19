@@ -163,7 +163,7 @@
 .article__figure
 {   
     float: right;
-    margin-left: 24px;
+    margin: 0 24px 24px 0;
 
     font-family: $serif-fonts;
     font-style: italic;
@@ -186,8 +186,8 @@
         background: none repeat scroll 0% 0% #AAA;
 
         position: relative;
-        padding: 5rem 0.5rem 0.5rem;
-        margin-top: -5em;
+        padding: 4rem 0.5rem 0.5rem;
+        margin-top: -4rem;
         z-index: 100;
 
         width: 7rem;
