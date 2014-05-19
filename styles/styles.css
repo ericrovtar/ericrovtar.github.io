@@ -1487,7 +1487,8 @@ body {
   width: auto;
   max-width: 60%; }
 
-.articleList__date {
+.articleList__date,
+.article__date {
   color: #666;
   font-weight: 300; }
 
