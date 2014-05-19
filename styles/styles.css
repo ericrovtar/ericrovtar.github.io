@@ -1543,6 +1543,8 @@ body {
       border-bottom: 1pt solid #aaaaaa;
       margin-bottom: 0;
       padding-bottom: 23px; }
+    .article__item blockquote p.right {
+      text-align: right; }
   .article__item blockquote cite {
     background: none repeat scroll 0% 0% #aaaaaa;
     display: inline-block;
