@@ -45,11 +45,17 @@ Perhaps it’s for the same reason I struggle to give up control: when I give up
  
 Maybe it’s a bit deeper than that and involves trusting others rather than ourselves. We’ve all been let down at one point or another because someone didn’t follow through the way they promised.
 
+{% include figure.html 
+    src="/images/posts/godzilla_serizawa.jpg" 
+    caption="Ken Watanabe as Dr. Ichiro Serizawa" %}
+    
+{% comment %}
 <figure class="article__figure">
     <img src="/images/posts/godzilla_serizawa.jpg" />
     
     <figcaption>Ken Watanabe as Dr. Ichiro Serizawa</figcaption>
 </figure>
+{% endcomment %}
 
 What was it Dr. Serizawa said? “Let them fight.” He knew… He knew that this was a situation we couldn’t control, yet he also knew that there was something bigger in control to begin with. That’s why he could utter those words so decisively. He trusted in the bigger plan. A plan that he may not fully see, understand or have control of, but a plan that would help save humanity.
  
