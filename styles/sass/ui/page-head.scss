@@ -20,9 +20,8 @@
     }
     
     @include grid-media-query("lap") {
-        right: -24px;
+        right: 24px;
         max-width: 276px;
-        //min-width: 313px;
     }
 
     h1
