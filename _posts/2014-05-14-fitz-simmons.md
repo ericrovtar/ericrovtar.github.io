@@ -16,7 +16,7 @@ tags: tv, agents of shield
         I mean, a storm cloud, a mammoth&hellip;
     </p>
 
-    <p>
+    <p class="right">
         A monkey.
     </p>
 
