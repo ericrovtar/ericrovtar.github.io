@@ -33,9 +33,9 @@ permalink: /about/
 
             <p>
                 If you like what I have to say or have and comments, feel free to find me on 
-                <a href="http://facebook.com/eric.rovtar" target="_blank">Facebook</a> and 
-                <a href="http://twitter.com/ericrovtar" target="_blank">Twitter</a>, or if you prefer, shoot me an 
-                <a href="mailto:eric.rovtar@me.com">email</a>.
+                <a href="{{ site.facebookUrl }}" target="_blank">Facebook</a> and 
+                <a href="{{ site.twitterUrl }}" target="_blank">Twitter</a>, or if you prefer, shoot me an 
+                <a href="mailto:{{ site.email }}">email</a>.
             </p>
             
             <p>
