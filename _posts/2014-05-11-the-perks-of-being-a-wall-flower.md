@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Exactly Do We Deserve?"
+title:  "Don&rsquo;t We Deserve More?"
 image:  the_perks_of_being_a_wallflower.jpg
 categories: movie, book
 tags: movies, books, the perks of being a wallflower
