@@ -2,6 +2,7 @@
 layout: post
 title: "Fighting for Control"
 image: godzilla.jpg
+category: movie
 tags: movies, godzilla, control
 ---
 
