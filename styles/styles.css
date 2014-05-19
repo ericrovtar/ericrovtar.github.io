@@ -1531,6 +1531,8 @@ body {
   float: right;
   margin-left: 24px;
   font-family: Georgia, serif;
+  font-style: italic;
+  text-align: center;
   color: #FFF; }
   .article__figure img {
     border-radius: 50%;
