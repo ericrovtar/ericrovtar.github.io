@@ -21,7 +21,7 @@ showLatest: true
                     {{ post.date | date: "%b %-d, %Y" }}
                 </p>
 
-                <p class="h1 articleList__title">
+                <p class="h1 articleList__title lap--seven-tenths desk--eight-tenths">
                     <small>
                         <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
                             {{ post.title }}
@@ -30,26 +30,6 @@ showLatest: true
                 </p>
             </div>
         </div>
-        
-        {% comment %}
-        <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="articleList__thumbnail" 
-                 style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
-            </div>
-        </a>
-        
-        <p class="articleList__date h2">
-          {{ post.date | date: "%b %-d, %Y" }}
-        </p>
-
-        <p class="h1 articleList__title">
-            <small>
-                <a class="article__link" href="{{ post.url | prepend: site.baseurl }}">
-                    {{ post.title }}
-                </a>
-            </small>
-        </p>
-        {% endcomment %}
     </div> <!-- articleList_item -->
     {% endif %}
 {% endfor %}

@@ -1510,9 +1510,7 @@ body {
   width: 5rem; }
 
 .articleList_details {
-  margin-left: 24px;
-  width: auto;
-  max-width: 80%; }
+  margin-left: 24px; }
 
 .articleList__date,
 .article__date {

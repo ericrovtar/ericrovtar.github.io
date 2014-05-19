@@ -64,8 +64,13 @@
 {
     margin-left: 24px;
     
-    width: auto;
-    max-width: 80%;
+    //width: auto;
+    //max-width: 80%;
+    
+    @include grid-media-query("lap")
+    {
+        
+    }
 }
 
 .articleList__date,
