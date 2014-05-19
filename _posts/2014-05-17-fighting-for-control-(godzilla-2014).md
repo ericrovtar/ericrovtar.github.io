@@ -26,14 +26,19 @@ I was good at it too.
  
 {% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" %}
 
-In some ways, the way I lived my life was the same way humanity was trying to save theirs in the latest Godzilla movie. Yet, before we even had the chance to see humanity struggle fruitlessly for control, we were shown how quickly we can lose control to begin with. 
+In some ways, the way I lived my life was the same way humanity was trying to save theirs in the latest <i>Godzilla</i> movie. 
+
+{% comment %}
+Yet, before we even had the chance to see humanity struggle fruitlessly for control, we were shown how quickly we can lose control to begin with. 
 
 As a quarantine zone stands in the former city of Janjira, Japan, 15 years have passed since society withdrew from the city following a major accident that starts the movie. The city has become desolate and overridden with vegetation. Buildings are crumbling as vines crack through foundations. Moss and mold grow rampant as ceilings leak with no one there to repair and maintain them.
-As a quarantine zone stands in the former city of Janjira, Japan, 15 years have passed since society withdrew from the city following a major accident that starts the movie. The city has become desolate and overridden with vegetation. Buildings are crumbling as vines crack through foundations. Moss and mold grow rampant as ceilings leak with no one there to repair and maintain them.
- 
+
 Without humanity present, nature has taken back control of what once was its own.
  
-Then there’s the real threat of the movie. With humanity facing two MUTOs (or Massive Unidentified Terrestrial Organisms), they try in vain to stop these creatures from destroying the world they’ve created. And when their first attempt fails, they try again. And again. And again.
+Then there’s the real threat of the movie. 
+{% endcomment %}
+
+With humanity facing two MUTOs (or Massive Unidentified Terrestrial Organisms), they try in vain to stop these creatures from destroying the world they’ve created. And when their first attempt fails, they try again. And again. And again.
  
 But they can't control these beasts. Everything they have is useless against them.
  
@@ -43,15 +48,21 @@ You see how the humans’ struggle to let go of control made each situation more
  
 The funny thing is, I’m not so different from them. For 20-some years, I kept at it in vain, constantly having something outside of my control &ndash; something I ultimately couldn’t control &ndash; come along and knock the world off it’s orbit around me. 
 
-So why is it so difficult for us to give up control? 
+Time and time again, something would happen and I would feel control slipping from of my clenched fist, but arrogance made me dig in and continually kept me from seeing just how easy it is to lose control.
 
-Maybe it’s because when we give up control, we’re no longer in control. 
+The filmmakers of <i>Godzilla</i> didn’t miss the opportunity to show us just how easy it is to lose control when they took us inside the quarantine zone that once was Janjira, Japan. 15 years had passed since society withdrew from the city following a major accident that started the movie, and the city had become desolate and overridden with vegetation. Buildings were crumbling as vines cracked through foundations. Moss and mold grew rampant as ceilings leaked with no one there to repair and maintain them.
+
+Without humanity present, nature had taken back control of what once was its own.
+
+So if control is something we can so easily lose and do so often, why is it so difficult for us to give up control? 
+
+Maybe it’s because when we give up control, we’re no longer in control. Could it be that simple?
  
-Or maybe it’s a bit deeper than that. Maybe the problem results from our struggle to trust others rather than ourselves. We’ve all been let down at one point or another because someone didn’t follow through the way they promised, haven’t we?
+Perhaps it does go a bit deeper than that and the problem results from our struggle to trust others rather than ourselves. We’ve all been let down at one point or another because someone didn’t follow through the way they promised, haven’t we?
 
 {% include figure.html src="/images/posts/godzilla_serizawa.jpg" caption="Ken Watanabe as Dr. Ichiro Serizawa" %}
 
-What was it Dr. Serizawa said? “Let them fight.” He knew… He knew that this was a situation we couldn’t control, yet he also knew that there was something bigger in control to begin with, and he placed his trust in whatever that &ldquo;something bigger&rdquo; was. That’s why he could utter those words so decisively. Even though he may not have fully understood who or what was in control, he trusted in the bigger plan, a plan that he couldn’t fully see, understand or have control of, but a plan that would help save humanity.
+What was it Dr. Serizawa said? “Let them fight.” He knew that this was a situation we couldn’t control, yet he also knew that there was something bigger in control to begin with, and he placed his trust in whatever that &ldquo;something bigger&rdquo; was. That’s why he could utter those words so decisively. Even though he may not have fully understood who or what was in control, he trusted in the bigger plan, a plan that he couldn’t fully see, understand or have control of, but a plan that would help save humanity.
  
 While all the military forces bumbled around, he watched it play out as Godzilla did as he proposed: brought order back to chaos.
  
