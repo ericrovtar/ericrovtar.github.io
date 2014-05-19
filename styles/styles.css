@@ -1529,7 +1529,7 @@ body {
 
 .article__figure {
   float: right;
-  margin: 0 24px 24px 0;
+  margin: 0 0 24px 1em;
   font-family: Georgia, serif;
   font-style: italic;
   text-align: center;
