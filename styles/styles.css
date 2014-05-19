@@ -1445,7 +1445,7 @@ body {
     text-indent: -1rem;
     color: #FFF;
     line-height: 2.5rem;
-    text-shadow: 2px 2px 2px rgba(102, 102, 102, 0.6);
+    text-shadow: 2px 2px 2px rgba(51, 51, 51, 0.6);
     text-transform: lowercase;
     font-weight: normal; }
     @media only screen and (max-width: 480px) {
