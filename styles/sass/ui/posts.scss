@@ -21,7 +21,7 @@
 
 .articleList__item
 {
-    border-bottom: 1px solid #CCC;
+    border-bottom: 1px solid $medium-gray;
 
     padding-bottom: 23px;
     margin-bottom: 24px;
@@ -71,7 +71,7 @@
 .articleList__date
 {
     color: #666;
-    font-weight: lighter;
+    font-weight: 300;
 }
 
 .articleList__title
@@ -107,27 +107,27 @@
 
 .article__item 
 {
-    p
-    {
+    //p
+    //{
         //background-color: rgba(255, 255, 255, .7);
 
-        &.article__date,
-        &.article__tags
-        {
-            color: #666;
-            font-weight: lighter;
-        }
-    }
+    //    &.article__date,
+    //    &.article__tags
+    //    {
+    //        color: #666;
+    //        font-weight: lighter;
+    //    }
+    //}
 
     blockquote
     {
         margin-bottom: 23px;
         padding: 23px 0 0 0;
-        border-top: 1px solid #AAA;
+        border-top: 1px solid $dark-gray;
         //border-bottom: 1px solid #AAA;
 
         font-family: $serif-fonts;
-        color: #aaa;
+        color: $dark-gray;
         font-style: italic;
         letter-spacing: 1px;
         text-align: right; 
@@ -138,7 +138,7 @@
             
             &:last-of-type
             { 
-                border-bottom: 1pt solid #AAA;
+                border-bottom: 1pt solid $dark-gray;
 
                 margin-bottom: 0;
                 padding-bottom: 23px;
@@ -147,7 +147,7 @@
         
         cite
         {
-            background: none repeat scroll 0% 0% #AAA;
+            background: none repeat scroll 0% 0% $dark-gray;
 
             display: inline-block;
             position: relative;
@@ -183,7 +183,7 @@
 
     figcaption
     {
-        background: none repeat scroll 0% 0% #AAA;
+        background: none repeat scroll 0% 0% $dark-gray;
 
         position: relative;
         padding: 4rem 0.5rem 0.5rem;
@@ -233,7 +233,7 @@
     //padding: 0px 0.5em !important;
 
     text-transform: lowercase;
-    color: #333;
+    color: $black;
     font-weight: 200;
     letter-spacing: 1px;
 

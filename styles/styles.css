@@ -1298,7 +1298,7 @@ $VARIABLES
 \*------------------------------------*/
 html {
   font-family: "Open Sans", Verdana, sans-serif;
-  color: #333;
+  color: #333333;
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
   -ms-text-size-adjust: none;
@@ -1418,7 +1418,7 @@ body {
     text-indent: -1rem;
     color: #FFF;
     line-height: 2.5rem;
-    text-shadow: 2px 2px 2px #3c617a;
+    text-shadow: 2px 2px 2px rgba(102, 102, 102, 0.6);
     text-transform: lowercase;
     font-weight: normal; }
     @media only screen and (max-width: 480px) {
@@ -1461,7 +1461,7 @@ body {
   z-index: 200; }
 
 .articleList__item {
-  border-bottom: 1px solid #CCC;
+  border-bottom: 1px solid #cccccc;
   padding-bottom: 23px;
   margin-bottom: 24px; }
   .articleList__item:last-child {
@@ -1489,7 +1489,7 @@ body {
 
 .articleList__date {
   color: #666;
-  font-weight: lighter; }
+  font-weight: 300; }
 
 .articleList__title a {
   font-weight: normal; }
@@ -1500,26 +1500,23 @@ body {
   position: relative;
   z-index: 200; }
 
-.article__item p.article__date, .article__item p.article__tags {
-  color: #666;
-  font-weight: lighter; }
 .article__item blockquote {
   margin-bottom: 23px;
   padding: 23px 0 0 0;
-  border-top: 1px solid #AAA;
+  border-top: 1px solid #aaaaaa;
   font-family: Georgia, serif;
-  color: #aaa;
+  color: #aaaaaa;
   font-style: italic;
   letter-spacing: 1px;
   text-align: right; }
   .article__item blockquote p {
     text-align: left; }
     .article__item blockquote p:last-of-type {
-      border-bottom: 1pt solid #AAA;
+      border-bottom: 1pt solid #aaaaaa;
       margin-bottom: 0;
       padding-bottom: 23px; }
   .article__item blockquote cite {
-    background: none repeat scroll 0% 0% #AAA;
+    background: none repeat scroll 0% 0% #aaaaaa;
     display: inline-block;
     position: relative;
     margin-bottom: 0px;
@@ -1543,7 +1540,7 @@ body {
     width: auto; }
   .article__figure--left figcaption,
   .article__figure--right figcaption {
-    background: none repeat scroll 0% 0% #AAA;
+    background: none repeat scroll 0% 0% #aaaaaa;
     position: relative;
     padding: 4rem 0.5rem 0.5rem;
     margin-top: -4rem;
@@ -1574,12 +1571,12 @@ body {
 
 .spoilers__details {
   text-transform: lowercase;
-  color: #333;
+  color: #333333;
   font-weight: 200;
   letter-spacing: 1px; }
 
 .aboutMe {
-  background: #EEE;
+  background: #eeeeee;
   padding-top: 1em;
   padding-bottom: 1em; }
   @media only screen and (min-width: 1024px) {
@@ -1602,7 +1599,7 @@ body {
   .footer p {
     margin-bottom: 0;
     font-size: 0.75rem;
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5); }
+    text-shadow: 0px 1px 1px rgba(60, 97, 122, 0.5); }
   .footer a {
     color: #FFF; }
 
