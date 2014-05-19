@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "What Exactly Do We Deserve?"
-date:   2014-05-11 19:20:16
 image:  the_perks_of_being_a_wallflower.jpg
 categories: movie, book
 tags: movies, books, the perks of being a wallflower
