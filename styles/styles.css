@@ -1501,11 +1501,14 @@ body {
   z-index: 200; }
 
 .article__item figure {
-  border-radius: 4rem;
   float: right;
-  margin-left: 24px;
-  height: 8rem;
-  width: auto; }
+  margin-left: 24px; }
+  .article__item figure img {
+    border-radius: 50%;
+    height: 8rem;
+    width: auto; }
+  .article__item figure figcaption {
+    width: 100%; }
 .article__item p.article__date, .article__item p.article__tags {
   color: #666;
   font-weight: lighter; }
