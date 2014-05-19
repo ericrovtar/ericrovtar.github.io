@@ -1343,6 +1343,33 @@ body {
   .desk--hide {
     display: none; } }
 
+.square {
+  position: relative;
+  max-width: 64px;
+  /* Other ratios */ }
+  .square > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0; }
+    @media only screen and (min-width: 481px) and (max-width: 1023px) {
+      .square > div {
+        max-height: 64px; } }
+  .square .ratio2_1:before {
+    margin-top: 50%; }
+  .square .ratio1_2:before {
+    margin-top: 200%; }
+  .square .ratio4_3:before {
+    margin-top: 75%; }
+  .square .ratio16_9:before {
+    margin-top: 56.25%; }
+  .square:before {
+    content: "";
+    display: block;
+    margin-top: 100%;
+    /* initial ratio of 1:1*/ }
+
 .header {
   background: #3c617a;
   position: absolute;
@@ -1572,7 +1599,6 @@ body {
 
 .spoilers__details {
   text-transform: lowercase;
-  color: #333333;
   font-weight: 200;
   letter-spacing: 1px; }
 
@@ -1641,33 +1667,6 @@ body {
     background: url("../images/icons/64px/white/pinterest.png") no-repeat scroll center center/50% auto #ff3300; }
   .share__tile.reddit {
     background: url("../images/icons/64px/white/reddit.png") no-repeat scroll center center/50% auto #3e6895; }
-
-.square {
-  position: relative;
-  max-width: 64px;
-  /* Other ratios */ }
-  .square > div {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0; }
-    @media only screen and (min-width: 481px) and (max-width: 1023px) {
-      .square > div {
-        max-height: 64px; } }
-  .square .ratio2_1:before {
-    margin-top: 50%; }
-  .square .ratio1_2:before {
-    margin-top: 200%; }
-  .square .ratio4_3:before {
-    margin-top: 75%; }
-  .square .ratio16_9:before {
-    margin-top: 56.25%; }
-  .square:before {
-    content: "";
-    display: block;
-    margin-top: 100%;
-    /* initial ratio of 1:1*/ }
 
 /*--- HEADINGS ---*/
 h1, h2, h3, h4, h5, h6 {
