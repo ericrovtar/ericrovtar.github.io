@@ -37,14 +37,16 @@ Then there’s the real threat of the movie. With humanity facing two MUTOs (or 
  
 But we can't control these beasts. Everything we have is useless against them.
  
-In fact, every time humanity tries to assert control, we ultimately end up with a worse situation than before – like having to disarm a nuclear bomb we initially armed to attack the beasts only to lose control of it, thus requiring us to regain control of it just to disarm it. Or what about when we knew the MUTOs emitted electromagnetic pulses that disabled all electronic equipment in a wide radius, but still decided to attack them with every form of electronic transportation we own?
+In fact, every time humanity tries to assert control, we ultimately end up with a worse situation than before &ndash; like having to disarm a nuclear bomb we initially armed to attack the beasts only to lose control of it, thus requiring us to regain control of it just to disarm it. Or what about when we knew the MUTOs emitted electromagnetic pulses that disabled all electronic equipment in a wide radius, but still decided to attack them with every form of electronic transportation we own?
  
 You see how the humans’ struggle to let go of control made each situation more complicated? So why wouldn’t they just let go?
  
 Perhaps it’s for the same reason I struggle to give up control: when I give up control, I’m no longer in control. Profound, isn’t it?
  
 Maybe it’s a bit deeper than that and involves trusting others rather than ourselves. We’ve all been let down at one point or another because someone didn’t follow through the way they promised.
- 
+
+<img class="article__image" src="/images/posts/godzilla_serizawa.jpg" />
+
 What was it Dr. Serizawa said? “Let them fight.” He knew… He knew that this was a situation we couldn’t control, yet he also knew that there was something bigger in control to begin with. That’s why he could utter those words so decisively. He trusted in the bigger plan. A plan that he may not fully see, understand or have control of, but a plan that would help save humanity.
  
 While all our military forces bumbled around, he watched it play out as Godzilla did as he proposed: brought order back to chaos.
