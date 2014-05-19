@@ -11,7 +11,7 @@ tags: movies, books, the perks of being a wallflower
 <blockquote>
     <p>We accept the love we think we deserve.</p>
 
-    <p>Can we make them know that they deserve more?</p> 
+    <p class="right">Can we make them know that they deserve more?</p> 
 
     <p>We can try.</p>
 
