@@ -27,9 +27,9 @@ I could manipulate people in an effort to either make happen what I wanted to ha
  
 For 20-some years, I kept at it in vain, constantly having something outside of my control come along and knock the world off it’s orbit around me.
  
-The theme of control is prevalent throughout the recent remake of Godzilla.
+{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" float="left" %}
 
-{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" %}
+The theme of control is prevalent throughout the recent remake of Godzilla.
 
 It starts when you first enter the quarantine zone formerly known as Janjira, Japan. 15 years have passed since society withdrew from the city after a major accident that starts the movie. The city has become desolate and overridden with vegetation. Buildings are crumbling as vines crack through foundations. Moss and mold grow rampant as ceilings leak with no one there to repair and maintain them.
  
