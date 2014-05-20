@@ -1511,7 +1511,10 @@ body {
       width: 7rem; } }
 
 .articleList__details {
-  display: inline-block; }
+  display: inline-block;
+  text-align: right; }
+  .articleList__details > :not(.articleList__basedOn) {
+    text-align: left; }
 
 .articleList__date,
 .article__date {
@@ -1522,6 +1525,15 @@ body {
   font-weight: normal; }
   .articleList__title a:hover {
     border-bottom: none; }
+
+.articleList__basedOn {
+  background-color: #AAA;
+  display: inline-block;
+  padding: 0px 0.5em;
+  color: white;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
 
 .article {
   position: relative;

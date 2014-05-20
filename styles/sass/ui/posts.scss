@@ -71,6 +71,13 @@
     //margin-left: 24px;
     
     display: inline-block;
+    
+    text-align: right;
+    
+    & > :not(.articleList__basedOn)
+    {
+        text-align: left;
+    }
 }
 
 .articleList__date,
@@ -91,18 +98,19 @@
             border-bottom: none;
         }
     }
+}
+
+.articleList__basedOn
+{
+    background-color: #AAA;
     
-    //a
-    //{
-    //    font-size: .75em;
-    //    font-weight: bold;
-    //    
-    //    &:first-line
-    //    {
-    //        font-size: 1em;
-    //        font-weight: normal;
-    //    }
-    //}
+    display: inline-block;
+    padding: 0px 0.5em;
+
+    color: white;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .article
