@@ -1345,7 +1345,6 @@ body {
 
 .square, .circle {
   position: relative;
-  max-width: 64px;
   /* Other ratios */ }
   .square > div, .circle > div {
     position: absolute;
@@ -1371,7 +1370,7 @@ body {
     /* initial ratio of 1:1*/ }
 
 .circle {
-  boreder-radius: 50%; }
+  border-radius: 50%; }
 
 .header {
   background: #3c617a;

@@ -78,7 +78,7 @@ body
 .square {
     position: relative;
 
-    max-width: 64px;
+    //max-width: 64px;
     //padding-left: 10px !important;
     //float: left;
 
@@ -119,5 +119,5 @@ body
 .circle {
     @extend .square;
     
-    boreder-radius: 50%;
+    border-radius: 50%;
 }
