@@ -1511,7 +1511,7 @@ body {
       width: 7rem; } }
 
 .articleList__details {
-  width: auto; }
+  display: inline-block; }
 
 .articleList__date,
 .article__date {
