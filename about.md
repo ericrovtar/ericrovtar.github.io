@@ -32,7 +32,7 @@ permalink: /about/
             </p>
 
             <p>
-                If you like what I have to say or have and comments, feel free to find me on 
+                If you like what I have to say or have any comments, feel free to find me on 
                 <a href="{{ site.facebookUrl }}" target="_blank">Facebook</a> and 
                 <a href="{{ site.twitterUrl }}" target="_blank">Twitter</a>, or if you prefer, shoot me an 
                 <a href="mailto:{{ site.email }}">email</a>.
