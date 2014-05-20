@@ -8,7 +8,9 @@ showLatest: true
     <div class="articleList__item">
         <div class="grid">
             <div class="grid__item one-sixth lap--one-eigth circle">
-                <div style="background-color: #000"></div>
+                <div class="articleList__thumbnail" 
+                     style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
+                </div>
             </div><!--
             
             {% comment %}
