@@ -8,7 +8,7 @@ showLatest: true
     {% if forloop.first == false %}
     <div class="articleList__item">
         <div class="grid">
-            <div class="grid__item articleList__link">
+            <div class="grid__item articleList__link palm--four-tenths lap--three-tenths desk--two-tenths">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <div class="articleList__thumbnail" 
                          style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
