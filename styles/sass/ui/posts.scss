@@ -58,6 +58,12 @@
     
     height: 7rem;
     width: 7rem;
+
+    @media screen and (max-width: 630)
+    {
+        height: 6rem;
+        width: 6rem;
+    }
     
     @include grid-media-query("palm")
     {

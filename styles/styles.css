@@ -1505,6 +1505,10 @@ body {
   margin: -8px 24px 0 0;
   height: 7rem;
   width: 7rem; }
+  @media screen and (max-width: 630) {
+    .articleList__thumbnail {
+      height: 6rem;
+      width: 6rem; } }
   @media only screen and (max-width: 480px) {
     .articleList__thumbnail {
       height: 5rem;
