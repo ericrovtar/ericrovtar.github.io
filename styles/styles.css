@@ -1501,9 +1501,7 @@ body {
     margin-bottom: 0; }
 
 .articleList__thumbnail {
-  background: center center no-repeat #3c617a;
-  background-size: cover;
-  background-clip: content-box; }
+  background: none no-repeat scroll center center/cover padding-box content-box #3c617a; }
 
 .articleList__details {
   display: inline-block;
