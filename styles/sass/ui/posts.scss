@@ -84,6 +84,11 @@
     {
         text-align: left;
     }
+    
+    @include grid-media-query("palm")
+    {
+        text-align: left;
+    }
 }
 
 .articleList__date,

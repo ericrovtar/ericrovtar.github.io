@@ -1519,6 +1519,9 @@ body {
   text-align: right; }
   .articleList__details > :not(.articleList__basedOn) {
     text-align: left; }
+  @media only screen and (max-width: 480px) {
+    .articleList__details {
+      text-align: left; } }
 
 .articleList__date,
 .article__date {
