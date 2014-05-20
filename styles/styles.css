@@ -1345,13 +1345,16 @@ body {
 
 .square, .circle {
   position: relative;
+  padding-left: 0;
+  margin-left: 24px;
   /* Other ratios */ }
   .square > div, .circle > div {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
-    right: 0; }
+    right: 0;
+    border-radius: inherit; }
     @media only screen and (min-width: 481px) and (max-width: 1023px) {
       .square > div, .circle > div {
         max-height: 64px; } }
