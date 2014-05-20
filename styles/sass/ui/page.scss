@@ -94,10 +94,10 @@ body
         
         border-radius: inherit;
 
-        @include grid-media-query("lap")
-        {
-            max-height: 64px;
-        }
+        //@include grid-media-query("lap")
+        //{
+        //    max-height: 64px;
+        //}
     }
     .grid--full > &
     {
