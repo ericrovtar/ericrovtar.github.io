@@ -6,7 +6,7 @@ showLatest: true
 <div class="articleList palm--padding">
 {% for post in site.posts %}
     <div class="articleList__item">
-        <div class="grid">
+        <div class="grid grid--full">
             <div class="grid__item one-sixth lap--one-eighth articleList__link circle">
                 <div class="articleList__thumbnail" 
                      style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
