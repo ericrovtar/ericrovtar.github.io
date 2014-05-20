@@ -1358,6 +1358,8 @@ body {
     @media only screen and (min-width: 481px) and (max-width: 1023px) {
       .square > div, .circle > div {
         max-height: 64px; } }
+  .grid--full > .square, .grid--full > .circle {
+    margin-left: 0; }
   .square .ratio2_1:before, .circle .ratio2_1:before {
     margin-top: 50%; }
   .square .ratio1_2:before, .circle .ratio1_2:before {
