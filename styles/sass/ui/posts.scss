@@ -40,7 +40,7 @@
 
 .articleList__link
 {
-    //margin-left: 24px;
+    margin-top: -10px;
 
     //width: 5rem;
 }
@@ -48,26 +48,6 @@
 .articleList__thumbnail
 {   
     background: none no-repeat scroll center center / cover  padding-box content-box #3C617A
-    
-    //border-radius: 50%; //2.5rem;
-    
-    //float: left;
-    //margin: -8px 0 0 0;
-    
-    //height: 7rem;
-    //width: 7rem;
-
-    //@media screen and (max-width: 630)
-    //{
-    //    height: 6rem;
-    //    width: 6rem;
-    //}
-    
-    //@include grid-media-query("palm")
-    //{
-    //    height: 5rem;
-    //    width: 5rem;
-    //}
 }
 
 .articleList__details

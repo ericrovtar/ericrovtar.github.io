@@ -1500,6 +1500,9 @@ body {
   .articleList__item p {
     margin-bottom: 0; }
 
+.articleList__link {
+  margin-top: -10px; }
+
 .articleList__thumbnail {
   background: none no-repeat scroll center center/cover padding-box content-box #3c617a; }
 
