@@ -42,7 +42,7 @@
 {
     margin-top: -10px;
     
-    @include grid-media-query {
+    @include grid-media-query("palm") {
         margin-top: 0px;
     }
 
