@@ -51,25 +51,25 @@
     background-size: cover;
     background-clip: content-box;
     
-    border-radius: 50%; //2.5rem;
+    //border-radius: 50%; //2.5rem;
     
     //float: left;
-    margin: -8px 0 0 0;
+    //margin: -8px 0 0 0;
     
-    height: 7rem;
-    width: 7rem;
+    //height: 7rem;
+    //width: 7rem;
 
-    @media screen and (max-width: 630)
-    {
-        height: 6rem;
-        width: 6rem;
-    }
+    //@media screen and (max-width: 630)
+    //{
+    //    height: 6rem;
+    //    width: 6rem;
+    //}
     
-    @include grid-media-query("palm")
-    {
-        height: 5rem;
-        width: 5rem;
-    }
+    //@include grid-media-query("palm")
+    //{
+    //    height: 5rem;
+    //    width: 5rem;
+    //}
 }
 
 .articleList__details
