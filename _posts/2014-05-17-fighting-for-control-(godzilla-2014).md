@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fighting for Control"
+basedOn: "Godzilla (2014)"
 image: godzilla.jpg
 category: movie
 tags: movies, godzilla, control

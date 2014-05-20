@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Don&rsquo;t We Deserve More?"
+basedOn: "The Perks of Being a Wallflower"
 image:  the_perks_of_being_a_wallflower.jpg
 categories: movie, book
 tags: movies, books, the perks of being a wallflower
