@@ -1507,6 +1507,7 @@ body {
   background: none no-repeat scroll center center/cover padding-box content-box #3c617a; }
 
 .articleList__details {
+  padding-left: 24px;
   display: inline-block;
   text-align: right; }
   .articleList__details > :not(.articleList__basedOn) {
