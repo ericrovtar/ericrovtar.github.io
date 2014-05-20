@@ -23,8 +23,8 @@
 {
     border-bottom: 1px solid $medium-gray;
 
-    padding-bottom: 23px;
-    margin-bottom: 24px;
+    padding-bottom: 22px;
+    margin-bottom: 23px;
 
     &:last-child
     {
@@ -41,6 +41,10 @@
 .articleList__link
 {
     margin-top: -10px;
+    
+    @include grid-media-query {
+        margin-top: 0px;
+    }
 
     //width: 5rem;
 }
