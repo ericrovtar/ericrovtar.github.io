@@ -51,13 +51,19 @@
     background-size: cover;
     background-clip: content-box;
     
-    border-radius: 2.5rem;
+    border-radius: 50%; //2.5rem;
     
     float: left;
     margin: -8px $magic-number 0 0;
     
     height: 5rem;
     width: 5rem;
+    
+    @include grid-media-query("desk")
+    {
+        height: 7rem;
+        width: 7rem;
+    }
 }
 
 .articleList__details
