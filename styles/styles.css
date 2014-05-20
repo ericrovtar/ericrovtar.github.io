@@ -1496,9 +1496,6 @@ body {
   .articleList__item p {
     margin-bottom: 0; }
 
-.articleList__link {
-  width: 5rem; }
-
 .articleList__thumbnail {
   background: center center no-repeat #3c617a;
   background-size: cover;
