@@ -60,17 +60,11 @@
     width: 5rem;
 }
 
-.articleList_details
+.articleList__details
 {
     margin-left: 24px;
     
-    //width: auto;
-    //max-width: 80%;
-    
-    @include grid-media-query("lap")
-    {
-        
-    }
+    width: auto;
 }
 
 .articleList__date,

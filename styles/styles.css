@@ -1509,8 +1509,9 @@ body {
   height: 5rem;
   width: 5rem; }
 
-.articleList_details {
-  margin-left: 24px; }
+.articleList__details {
+  margin-left: 24px;
+  width: auto; }
 
 .articleList__date,
 .article__date {
