@@ -7,6 +7,12 @@ showLatest: true
 {% for post in site.posts %}
     <div class="articleList__item">
         <div class="grid">
+            <div class="grid__item one-tenth palm--one-sixth square">
+                <div class="share__tile facebook" data-service="Facebook"
+                     onclick="var sharerFb = 'https://www.facebook.com/sharer/sharer.php?u='; window.open(sharerFb + location.href, 'sharerFb', 'width=626,height=436'); return false;"></div>
+            </div>
+            
+            {% comment %}
             <div class="grid__item articleList__link two-tenths palm--three-twelfths">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <div class="articleList__thumbnail" 
@@ -14,6 +20,7 @@ showLatest: true
                     </div>
                 </a>
             </div><!--
+{% endcomment %}
             
          --><div class="grid__item eight-tenths palm--nine-twelfths">
                 <div class="articleList__details">

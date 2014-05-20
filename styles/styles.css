@@ -1343,32 +1343,35 @@ body {
   .desk--hide {
     display: none; } }
 
-.square {
+.square, .circle {
   position: relative;
   max-width: 64px;
   /* Other ratios */ }
-  .square > div {
+  .square > div, .circle > div {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0; }
     @media only screen and (min-width: 481px) and (max-width: 1023px) {
-      .square > div {
+      .square > div, .circle > div {
         max-height: 64px; } }
-  .square .ratio2_1:before {
+  .square .ratio2_1:before, .circle .ratio2_1:before {
     margin-top: 50%; }
-  .square .ratio1_2:before {
+  .square .ratio1_2:before, .circle .ratio1_2:before {
     margin-top: 200%; }
-  .square .ratio4_3:before {
+  .square .ratio4_3:before, .circle .ratio4_3:before {
     margin-top: 75%; }
-  .square .ratio16_9:before {
+  .square .ratio16_9:before, .circle .ratio16_9:before {
     margin-top: 56.25%; }
-  .square:before {
+  .square:before, .circle:before {
     content: "";
     display: block;
     margin-top: 100%;
     /* initial ratio of 1:1*/ }
+
+.circle {
+  boreder-radius: 50%; }
 
 .header {
   background: #3c617a;
@@ -1501,8 +1504,7 @@ body {
   background-size: cover;
   background-clip: content-box;
   border-radius: 50%;
-  float: left;
-  margin: -8px 24px 0 0;
+  margin: -8px 0 0 0;
   height: 7rem;
   width: 7rem; }
   @media screen and (max-width: 630) {
