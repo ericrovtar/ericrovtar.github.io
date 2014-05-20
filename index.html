@@ -7,7 +7,7 @@ showLatest: true
 {% for post in site.posts %}
     <div class="articleList__item">
         <div class="grid">
-            <div class="grid__item articleList__link palm--four-tenths lap--three-tenths desk--two-tenths">
+            <div class="grid__item articleList__link two-tenths palm--four-tenths">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <div class="articleList__thumbnail" 
                          style="background-image: url('{{ "/images/posts/" | prepend: site.baseurl }}{{ post.image }}')">
@@ -15,7 +15,7 @@ showLatest: true
                 </a>
             </div><!--
             
-         --><div class="grid__item palm--six-tenths lap--seven-tenths desk--eight-tenths">
+         --><div class="grid__item eight-tenths palm--six-tenths">
                 <div class="articleList__details">
                     <p class="articleList__date h2">
                         {{ post.date | date: "%b %-d, %Y" }}

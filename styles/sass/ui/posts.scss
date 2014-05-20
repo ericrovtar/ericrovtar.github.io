@@ -56,13 +56,13 @@
     float: left;
     margin: -8px $magic-number 0 0;
     
-    height: 5rem;
-    width: 5rem;
+    height: 7rem;
+    width: 7rem;
     
-    @include grid-media-query("desk")
+    @include grid-media-query("palm")
     {
-        height: 7rem;
-        width: 7rem;
+        height: 5rem;
+        width: 5rem;
     }
 }
 
