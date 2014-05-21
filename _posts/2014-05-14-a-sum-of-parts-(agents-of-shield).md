@@ -33,7 +33,7 @@ tags: tv, agents of shield
     </cite>
 </blockquote>
 
-You have no idea how hard it was to label the above quote &ldquo;Simmons &amp; Fitz&rdquo; but I had to preserve who said what. Fitz / Simmons are my favorite characters on <i>Agents of S.H.I.E.L.D.</i> Maybe it&rsquo;s because they&rsquo;re geeky and relate to that part of me, but I think it&rsquo;s more their relationship &ndash; sibling-like, yet teetering on something more &ndash; that makes me want to see what happens next for these two.
+You have no idea how hard it was to label the above quote &ldquo;Simmons &amp; Fitz&rdquo; but my O.C.D. had me preserve who said what. Fitz / Simmons are my favorite characters on <i>Agents of S.H.I.E.L.D.</i> Maybe it&rsquo;s because they&rsquo;re geeky and relate to that part of me, but I think it&rsquo;s more their relationship &ndash; sibling-like, yet teetering on something more &ndash; that makes me want to see what happens next for these two.
 
 All that aside, and since we really won&rsquo;t know what lies ahead for these characters until the fall premiere, the dialog from the Season One finale really struck me.
 
