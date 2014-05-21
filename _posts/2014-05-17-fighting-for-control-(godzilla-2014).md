@@ -40,7 +40,7 @@ Without humanity present, nature has taken back control of what once was its own
 Then there’s the real threat of the movie. 
 {% endcomment %}
 
-With humanity facing two MUTOs (or Massive Unidentified Terrestrial Organisms), they try in vain to stop these creatures from destroying the world they’ve created. And when their first attempt fails, they try again. And again. And again.
+Having never seen another Godzilla movie before (I know&hellip; <i>gasp</i>), I was really surprised to find that the titicular character was going to be the hero of this story. Instead of facing off against Godzilla, humanity faces two MUTOs (or Massive Unidentified Terrestrial Organisms), trying in vain to stop these creatures from destroying the world they’ve created. And when their first attempt fails, they try again. And again. And again.
  
 But they can't control these beasts. Everything they have is useless against them.
  
