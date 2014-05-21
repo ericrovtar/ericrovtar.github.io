@@ -22,7 +22,7 @@
     <!-- FACEBOOK METADATA -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }} :: {% endif %}EricRovtar.com &ndash; {{ site.title }}">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="http://ericrovtar.com{{ page.id }}">
+    <meta property="og:url" content="http://ericrovtar.com{{ page.url }}">
     <meta property="og:image" content="{{ 'http://ericrovtar.com/images/posts/' | prepend: site.baseurl }}{% if post.image %}{{ post.image }}{% else if page.image %}{{ page.image }}{% else %}facebook_share_default.jpg{% endif %}">
     <meta property="og:site_name" content="EricRovtar.com - Pop Culure Perspectives">
     <meta property="og:description" content="{{ site.description }}">
