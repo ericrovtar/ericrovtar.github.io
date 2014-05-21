@@ -24,8 +24,6 @@ Have you ever struggled to control something? I know I have. Time and time again
 
 I’d manipulate people in an effort to make whatever I wanted to happen happen or gather information to gain leverage. After all, “knowledge is power,” is it not?
 
-{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="Who you calling fat?" %}
-
 I was good at it too.
 
 In some ways, the way I lived my life was the same way humanity was trying to save theirs in the latest <i>Godzilla</i> movie. 
@@ -39,6 +37,8 @@ Without humanity present, nature has taken back control of what once was its own
  
 Then there’s the real threat of the movie. 
 {% endcomment %}
+
+{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="&ldquo;Who you calling fat?&rdquo;" %}
 
 Having never seen another Godzilla movie before (I know&hellip; <i>gasp</i>), I was really surprised to find that the titicular character was going to be the hero of this story. Instead of facing off against Godzilla, humanity faces two MUTOs (or Massive Unidentified Terrestrial Organisms), trying in vain to stop these creatures from destroying the world they’ve created. And when their first attempt fails, they try again. And again. And again.
  
