@@ -76,4 +76,4 @@ It doesn’t have to take an end-of-the-world scenario for us to realize it eith
 
 We must recognize what we have control over (our own actions, our words, our thoughts) and focus on controlling those for the betterment of ourselves and others.
 
-But, then &ndash; and more importanatly &ndash; we must recognize what we don't have control over. Let God worry about those things. Let the plan play out as it’s meant to. Trust enough to “let them fight.”
+But, then &ndash; and more importantly &ndash; we must recognize what we don't have control over. Let God worry about those things. Let the plan play out as it’s meant to. Trust enough to “let them fight.”
