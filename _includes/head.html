@@ -18,15 +18,12 @@
     <!-- Custom CSS -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic,300,300italic' rel='stylesheet' type='text/css'>
     <link href="{{ "/styles/styles.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
-    
-    <!--
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">--->
 
     <!-- FACEBOOK METADATA -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title }} :: {% endif %}EricRovtar.com &ndash; {{ site.title }}" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://ericrovtar.com{{ page.id }}" />
-    <meta property="og:image" content="{{ 'http://ericrovtar.com/images/posts/' | prepend: site.baseurl }}{% if post.image %}{{ post.image }}{% else if page.image %}{{ page.image }}{% else %}facebook_share_default.jpg{% endif %}" />
-    <meta property="og:site_name" content="EricRovtar.com - Pop Culure Perspectives" />
-    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} :: {% endif %}EricRovtar.com &ndash; {{ site.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://ericrovtar.com{{ page.id }}">
+    <meta property="og:image" content="{{ 'http://ericrovtar.com/images/posts/' | prepend: site.baseurl }}{% if post.image %}{{ post.image }}{% else if page.image %}{{ page.image }}{% else %}facebook_share_default.jpg{% endif %}">
+    <meta property="og:site_name" content="EricRovtar.com - Pop Culure Perspectives">
+    <meta property="og:description" content="{{ site.description }}">
 </head>
