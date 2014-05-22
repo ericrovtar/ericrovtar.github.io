@@ -49,7 +49,9 @@ Simmons, being a bio-chem specialist, obviously understands this as the final pa
 
 So then what&rsquo;s really sentimental about any of this? If energy is the only thing we leave behind and it wasn't ours to begin with, who cares?
 
+{% comment %}
 Our physical bodies no longer exist. Our <i>borrowed</i> energy has been returned. What&rsquo;s so sentimental about returning something that never belonged to us?
+{% endcomment%}
 
 Here they are, expecting these to be their final moments, and they reflect on how something that was never really there's will still live on after they die? It seems rather depressing to be honest, because if that's the only thing to happen, then what's the point?
 
