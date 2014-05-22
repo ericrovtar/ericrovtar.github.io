@@ -33,11 +33,11 @@ tags: tv, agents of shield
     </cite>
 </blockquote>
 
-You have no idea how hard it was to label the above quote &ldquo;Simmons &amp; Fitz&rdquo; but my O.C.D. had me preserve the order of who said what. Fitz / Simmons are my favorite characters on <i>Agents of S.H.I.E.L.D.</i> Maybe it&rsquo;s because they&rsquo;re geeky and that part of me relates easily to them, but I think it&rsquo;s more their relationship &ndash; sibling-like, yet teetering on something more &ndash; that makes me want to see what happens next for these two. It&rsquo;s almost the will-they / won&rsquo;t they effect.
+You have no idea how hard it was to label the above quote &ldquo;Simmons &amp; Fitz&rdquo; but my O.C.D. had me preserve the order of who said what. Fitz / Simmons are my favorite characters on <i>Agents of S.H.I.E.L.D.</i> Maybe it&rsquo;s because they&rsquo;re geeky and that part of me relates easily to them, but I think it&rsquo;s more their relationship &ndash; sibling-like, yet teetering on something more &ndash; that makes me want to see what happens next for these two. It&rsquo;s the will-they / won&rsquo;t-they effect.
 
 All that aside, and since we really won&rsquo;t know what lies ahead for these characters until the fall premiere, this dialog between them from the Season One finale really struck me. Here they are, stranded together on the ocean floor, no hope for survival, lamenting on what&rsquo;s to become of them.
 
-It&rsquo;s a morbid scene, yet the writers manage to dive deep into what makes these two characters tick and give us insight into how they view life.
+It&rsquo;s a dire scene, yet the writers manage to dive deep into what makes these two characters tick and give us insight into how they view life.
 
 Simmons leads in by applying the <a href="http://en.wikipedia.org/wiki/First_law_of_thermodynamics" target="_blank">first law of thermodynamics</a>. I know this isn&rsquo;t a physics lesson, but just to be clear, even if you don't recall it by name, you probably remember the concept: Energy can be neither created nor destroyed.
 
@@ -45,13 +45,26 @@ So what Simmons is reflecting on is that, when they die, their energy won't die 
 
 The thing is, energy is energy. Sure, it comes in different forms &ndash; kinetic, potential, etc. &ndash; but energy isn't unique to any one individual. We don't even create our own energy. &ldquo;Energy is neither created nor destroyed,&rdquo; remember? So any energy we have has been passed along from something else &ndash; the food we eat, for example.
 
-Simmons, being a bio-chem specialist, obviously understands this as the final part of her statement shows: &ldquo;And every part of us now was once a part of some other thing. I mean, a storm cloud, a mammoth&hellip&rdquo;
+Simmons, being a bio-chem specialist, obviously understands this as the final part of her statement shows: &ldquo;And every part of us now was once a part of some other thing. I mean, a storm cloud, a mammoth&hellip;&rdquo;
 
-So then what&rsquo;s really sentimental about any of this? If energy is the only thing we leave behind and it wasn't ours to begin with, then have we simply ceased to exist?
+So then what&rsquo;s really sentimental about any of this? If energy is the only thing we leave behind and it wasn't ours to begin with, who cares?
 
-Our physical bodies no longer exist. Our <i>borrowed</i> energy has been returned. What&rsquo;s left?
+Our physical bodies no longer exist. Our <i>borrowed</i> energy has been returned. What&rsquo;s so sentimental about returning something that never belonged to us?
 
-Fitz and Simmons excel in analyzing and understanding the physical. As Fitz put it in the pilot episode, &ldquo;[he&rsquo;s] engineering; she&rsquo;s bio-chem.&rdquo; Both are great scientists who are able to look at how physical parts &ndash; whether they&rsquo;re mechanical or biological &ndash; fit and work together. So it&rsquo;s obvious that they would focus on our physical existence, our bodies and energy.
+Here they are, expecting these to be their final moments, and they reflect on how something that was never really there's will still live on after they die? It seems rather depressing to be honest, because if that's the only thing to happen, then what's the point?
+
+It would seem that everything we once were is now gone.
+
+Being so focused on the physical, they&rsquo;ve left out a very important part, though. We&rsquo;re more than just physical creatures because otherwise we'd only be a bunch of pieces and parts thrown together.
+
+
+
+
+
+
+
+Fitz and Simmons excel in analyzing and understanding the physical. As Fitz put it in the pilot episode, &ldquo;[he&rsquo;s] engineering; she&rsquo;s bio-chem.&rdquo; Both are great scientists who are able to look at how physical parts &ndash; whether they&rsquo;re mechanical or biological &ndash; fit and work together. So when they think about life, they think about the tangible parts that make it up.
+
 
 Is that all that we are, though?
 
