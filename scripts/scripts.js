@@ -62,8 +62,8 @@ $(document).ready(function() {
                     windowName = "PinterestShare";
                 
                     shareUrl = "http://pinterest.com/pin/create/button/?url=" +
-                        encodeURIComponent(location.href);
-                        "&media=" + $("meta[property='og:image']").attr("content");
+                        encodeURIComponent(location.href)" +
+                        "&media=" + encodeURIComponent($("meta[property='og:image']").attr("content"));
                     break;
                 case "Reddit":
                     width = 840;
