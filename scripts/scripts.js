@@ -30,7 +30,7 @@ $(document).ready(function() {
                     windowName = "FacebookShare";
                 
                     shareUrl = "https://www.facebook.com/sharer/sharer.php?u=" +
-                        location.href;
+                        encodeURIComponent(location.href);
                     break;
                 case "Twitter":
                     width = 550;
@@ -38,7 +38,7 @@ $(document).ready(function() {
                     windowName = "TwitterShare";
 
                     shareUrl = "https://twitter.com/share?url=" +
-                        location.href;
+                        encodeURIComponent(location.href);
                     break;
                 case "Google+":
                     width = 840;
@@ -46,7 +46,7 @@ $(document).ready(function() {
                     windowName = "GoogleShare";
 
                     shareUrl = "https://plus.google.com/share?url=" +
-                        location.href;
+                        encodeURIComponent(location.href);
                     break;
                 case "Tumblr":
                     width = 450;
@@ -54,7 +54,7 @@ $(document).ready(function() {
                     windowName = "TumblrShare";
                 
                     shareUrl = "http://www.tumblr.com/share/link?url=" +
-                        location.href;
+                        encodeURIComponent(location.href);
                     break;
                 case "Pinterest":
                     width = 450;
@@ -62,8 +62,8 @@ $(document).ready(function() {
                     windowName = "PinterestShare";
                 
                     shareUrl = "http://pinterest.com/pin/create/button/?url=" +
-                        location.href +
-                        "&media=" + $("meta[property='og:image']").attr("content");
+                        encodeURIComponent(location.href);
+                        "&media=" + encodeURIComponent($("meta[property='og:image']").attr("content"));
                     break;
                 case "Reddit":
                     width = 840;
@@ -71,11 +71,11 @@ $(document).ready(function() {
                     windowName = "RedditShare";
                 
                     shareUrl = "http://www.reddit.com/submit?url=" +
-                        location.href;
+                        encodeURIComponent(location.href);
                     break;
         }
         
-        window.open(encodeURIComponent(shareUrl), windowName, "width=" + width + "," + "height=" + height);
+        window.open(shareUrl, windowName, "width=" + width + "," + "height=" + height);
         return false;
     });
 });
