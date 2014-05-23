@@ -11,11 +11,15 @@ layout: default
         </p>
 
         <article class="post-content">
-          {{ content }}
+            {{ content }}
 
-          <div class="article__share addBottomMargin">
-              {% include sharing.html %}
-          </div> <!-- /article__share -->
+            <div class="article__share addBottomMargin">
+                {% include sharing.html %}
+            </div> <!-- /article__share -->
+            
+            <div class="article__comments addBottomMargin">
+                {% include disqus.html %}
+            </div> <!-- /article__comments -->
         </article>
     </div> <!-- /article__item -->
 </div> <!-- /article -->
