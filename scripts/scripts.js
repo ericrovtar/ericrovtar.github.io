@@ -75,7 +75,7 @@ $(document).ready(function() {
                     break;
         }
         
-        window.open(shareUrl, windowName, "width=" + width + "," + "height=" + height);
+        window.open(encodeURIComponent(shareUrl), windowName, "width=" + width + "," + "height=" + height);
         return false;
     });
 });
