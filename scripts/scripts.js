@@ -63,7 +63,7 @@ $(document).ready(function() {
                 
                     shareUrl = "http://pinterest.com/pin/create/button/?url=" +
                         location.href +
-                        "&media=" + $("meta[property='og:image']");
+                        "&media=" + $("meta[property='og:image']").attr("content");
                     break;
                 case "Reddit":
                     width = 840;
@@ -75,7 +75,7 @@ $(document).ready(function() {
                     break;
         }
         
-        window.open(shareUrl, windowName, width + "," + height);
+        window.open(shareUrl, windowName, "width=" + width + "," + "height=" + height);
         return false;
     });
 });
