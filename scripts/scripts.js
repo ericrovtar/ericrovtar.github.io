@@ -63,7 +63,7 @@ $(document).ready(function() {
                 
                     shareUrl = "http://pinterest.com/pin/create/button/?url=" +
                         encodeURIComponent(location.href);
-                        "&media=" + encodeURIComponent($("meta[property='og:image']").attr("content"));
+                        "&media=" + $("meta[property='og:image']").attr("content");
                     break;
                 case "Reddit":
                     width = 840;
