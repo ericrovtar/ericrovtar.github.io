@@ -1672,15 +1672,15 @@ body {
   max-width: 64px;
   cursor: pointer; }
   .share__tile.facebook {
-    background: url("../images/icons/64px/white/facebook.png") no-repeat scroll center center/50% auto #405d94; }
+    background: url("../images/icons/64px/white/facebook.png") no-repeat scroll center center/50% auto #3b5998; }
   .share__tile.twitter {
-    background: url("../images/icons/64px/white/twitter.png") no-repeat scroll center center/50% auto #4aade8; }
+    background: url("../images/icons/64px/white/twitter.png") no-repeat scroll center center/50% auto #00aced; }
   .share__tile.google {
-    background: url("../images/icons/64px/white/googleplus.png") no-repeat scroll center center/50% auto #cb5a45; }
+    background: url("../images/icons/64px/white/googleplus.png") no-repeat scroll center center/50% auto #dd4b39; }
   .share__tile.tumblr {
-    background: url("../images/icons/64px/white/tumblr.png") no-repeat scroll center center/50% auto #2c4762; }
+    background: url("../images/icons/64px/white/tumblr.png") no-repeat scroll center center/50% auto #32506d; }
   .share__tile.pinterest {
-    background: url("../images/icons/64px/white/pinterest.png") no-repeat scroll center center/50% auto #ff3300; }
+    background: url("../images/icons/64px/white/pinterest.png") no-repeat scroll center center/50% auto #cb2027; }
   .share__tile.reddit {
     background: url("../images/icons/64px/white/reddit.png") no-repeat scroll center center/50% auto #3e6895; }
 
