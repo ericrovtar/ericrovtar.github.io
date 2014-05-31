@@ -5,6 +5,7 @@ basedOn: "The Perks of Being a Wallflower"
 image:  the_perks_of_being_a_wallflower.jpg
 categories: movie, book
 tags: movies, books, the perks of being a wallflower
+published: false
 ---
 
 {% include spoilerWarning.html spoilersFor="The Perks of Being a Wallflower" %}
@@ -27,4 +28,4 @@ tags: movies, books, the perks of being a wallflower
 
 <p>
     Phasellus laoreet sem aliquam elementum laoreet. Nunc facilisis lacus aliquet odio lacinia porta. Suspendisse vestibulum urna vitae sodales dignissim. Praesent tincidunt orci euismod lorem scelerisque, id volutpat diam pretium. Sed tempor sem sit amet risus egestas aliquet. Ut at enim nec felis aliquet lacinia sed et ipsum. Nunc eget augue urna. Vestibulum posuere vulputate adipiscing. Cras pretium mauris mauris, quis condimentum ligula cursus nec.
-</p>
+</p
