@@ -5,6 +5,7 @@ basedOn: "The Perks of Being a Wallflower"
 image:  the_perks_of_being_a_wallflower.jpg
 categories: movie, book
 tags: movies, books, the perks of being a wallflower
+published: false
 ---
 
 {% include spoilerWarning.html spoilersFor="The Perks of Being a Wallflower" %}
@@ -23,6 +24,7 @@ tags: movies, books, the perks of being a wallflower
 
 I remember in High School when my friends and I would exchange Christmas presents. I tried to carefully plan out an item for each of them and before the holiday break, we’d swap them with each other.
 
+<<<<<<< HEAD
 I also remember this one time when someone gave me a gift, but I hadn’t gotten them a gift in return. I was quick to feel on uneven footing as this unseen balence shifted beneath me.
 
 What had I done to get this gift? I hadn’t given one in return. It’s a rather uncomfortable situation to be in.
@@ -80,3 +82,8 @@ Yet, that’s not often how we live. Instead, we’ve been given so much, so man
 I hope some of you are lucky to realize this and see the world through grateful eyes. Be mindful the next time you start a sentence with “I deserve” and remember how Charlie saw others. Try to see yourself and those around you as he would see you. Even when the world reminds you of what you really deserve, look upward and see all that you still have. 
 
 Even life is simply a gift you never earned.
+=======
+<p>
+    Phasellus laoreet sem aliquam elementum laoreet. Nunc facilisis lacus aliquet odio lacinia porta. Suspendisse vestibulum urna vitae sodales dignissim. Praesent tincidunt orci euismod lorem scelerisque, id volutpat diam pretium. Sed tempor sem sit amet risus egestas aliquet. Ut at enim nec felis aliquet lacinia sed et ipsum. Nunc eget augue urna. Vestibulum posuere vulputate adipiscing. Cras pretium mauris mauris, quis condimentum ligula cursus nec.
+</p
+>>>>>>> FETCH_HEAD

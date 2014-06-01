@@ -5,6 +5,7 @@ basedOn: "Agents of S.H.I.E.L.D."
 image:  fitz-simmons.jpg
 categories: tv
 tags: tv, agents of shield
+published: false
 ---
 
 {% include spoilerWarning.html spoilersFor="Agents of S.H.I.E.L.D." %}
