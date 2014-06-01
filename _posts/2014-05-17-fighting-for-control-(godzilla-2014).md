@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fighting for Control"
+date:   2014-06-01 01:00:00
 basedOn: "Godzilla (2014)"
 image: godzilla.jpg
 category: movie
