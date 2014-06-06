@@ -27,7 +27,7 @@ published: false
 
 <img class="float--left one-fifth palm--two-fifths" src="/images/posts/the_fault_in_our_stars_cover.jpg" />
 
-If you’ve seen the trailers for the movie, you probably think “The Fault In Our Stars” is just another “chick flick.” If that’s you’re initial assumption, I challenge you to read the book. John Green has such a unique way of taking the traditional coming of age story, twisting it and then using it to analyze different facets of life. 
+If you’ve seen the trailers for the movie, you probably think <i><a href="http://thefaultinourstarsmovie.com/" target="_blank">The Fault In Our Stars</a></i> is just another “chick flick.” If that’s you’re initial assumption, I challenge you to read the book. <a href="http://johngreenbooks.com/" target="_blank">John Green</a> has such a unique way of taking the traditional coming of age story, twisting it and then using it to analyze different facets of life. 
 
 That’s what we see in this scene as Hazel, a terminally ill cancer patient, dialogs with Isaac, one of her only friends and a cancer survivor. Isaac’s longterm girlfriend just dumped him after he received news that his cancer had returned. Understandably upset and trying to come to terms with how someone who once confessed her love for him can leave in his time of need, Isaac hits on a something most of us take too long to understand. 
 
@@ -69,4 +69,4 @@ It won’t be easy, that’s for certain, but if you make that choice, if you pr
 
 In the end, you’ll find yourself becoming more attractive than you’ve ever been. Now that’s a promise.
 
-{% include book-review.html image="/images/posts/the_fault_in_our_stars_cover.jpg" link="http://www.amazon.com/review/R32FV3S8XYOIHJ/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ericswebsite-20&linkId=EFY6KDSOTISPSN7C" %}
+{% include book-review.html image="/images/posts/the_fault_in_our_stars_cover.jpg" link="http://www.amazon.com/review/R32FV3S8XYOIHJ/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ericswebsite-20&linkId=EFY6KDSOTISPSN7C" %
