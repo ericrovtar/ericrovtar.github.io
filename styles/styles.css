@@ -1554,6 +1554,8 @@ body {
   font-style: italic;
   letter-spacing: 1px;
   text-align: right; }
+  .article__item blockquote i {
+    font-style: normal; }
   .article__item blockquote p {
     text-align: left; }
     .article__item blockquote p:last-of-type {
