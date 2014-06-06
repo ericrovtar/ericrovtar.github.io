@@ -1541,6 +1541,10 @@ body {
   position: relative;
   z-index: 200; }
 
+.article__item .float--left {
+  float: left;
+  margin-right: 24px;
+  height: auto; }
 .article__item blockquote {
   margin-bottom: 23px;
   padding: 23px 0 0 0;

@@ -25,6 +25,8 @@ published: false
     </cite>
 </blockquote>
 
+<img class="float--left one-fifth palm--two-fifths" src="/images/posts/the_fault_in_our_stars_cover.jpg" />
+
 If you’ve seen the trailers for the movie, you probably think “The Fault In Our Stars” is just another “chick flick.” If that’s you’re initial assumption, I challenge you to read the book. John Green has such a unique way of taking the traditional coming of age story, twisting it and then using it to analyze different facets of life. 
 
 That’s what we see in this scene as Hazel, a terminally ill cancer patient, dialogs with Isaac, one of her only friends and a cancer survivor. Isaac’s longterm girlfriend just dumped him after he received news that his cancer had returned. Understandably upset and trying to come to terms with how someone who once confessed her love for him can leave in his time of need, Isaac hits on a something most of us take too long to understand. 
