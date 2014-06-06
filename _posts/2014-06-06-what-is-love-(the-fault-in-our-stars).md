@@ -41,6 +41,8 @@ I was naïve. Real life doesn’t work that way. Things are never as I picture t
 
 Needless to say, I didn’t have much luck dating, but I digress…. 
 
+{% include figure.html src="/images/posts/the_fault_in_our_stars_isaac.jpg" caption="Isaac" %}
+
 It took me a long time to realize the truth about love – longer than it took Isaac. 
 
 True love isn’t this mystical thing we all search for, waiting for that special moment to occur. True love is what we make of it. You see, love isn’t really about an emotion or attraction. It’s about a choice, a choice to commit to someone by putting them and their needs above your own. 
@@ -64,3 +66,5 @@ Try to think about this as you interact with other people this week. Try to put 
 It won’t be easy, that’s for certain, but if you make that choice, if you promise to love others, something will change and people will notice.  
 
 In the end, you’ll find yourself becoming more attractive than you’ve ever been. Now that’s a promise.
+
+{% include book-review.html image="/images/posts/the_fault_in_our_stars_cover.jpg" link="http://www.amazon.com/review/R32FV3S8XYOIHJ/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ericswebsite-20&linkId=EFY6KDSOTISPSN7C" %}
