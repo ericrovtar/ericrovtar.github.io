@@ -63,10 +63,6 @@ Think about a wedding ceremony and the words the pastor leads the couple to say 
 
 All too often, we forget this and love becomes more about what we can get out of the relationship rather than what we can give to it, and when that happens – when we choose to not put the other person first – things begin to fall apart. 
 
-{% comment %} 
-Have you ever done that? Have you ever caught yourself being more concerned with what you need or want than what the person you’re claiming to “love” needs or wants? 
-{% endcomment %}
-
 We’ve all been there. Relationships – romantic or otherwise – are a learning experience, after all, and in any long-term one, we’re bound to make mistakes. It doesn’t matter if we’re talking about a family member, friend or significant other; it’s hard for us to always choose to love others, to put them first. 
 
 Here’s a challenge for us all: try to put the need of others above your own. See what happens. Try to think about this as you interact with other people this week. 
@@ -79,4 +75,4 @@ Isn’t that a world you’d like to live in, though? Isn’t is worth trying to
 
 Give it a try and see what happens. A world where we promise to always love each other more than we love ourselves would be a great world indeed. Now, that's a promise worth keeping… always.
 
-{% include book-review.html image="/images/posts/the_fault_in_our_stars_cover.jpg" link="http://www.amazon.com/review/R32FV3S8XYOIHJ/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ericswebsite-20&linkId=EFY6KDSOTISPSN7C"
+{% include book-review.html image="/images/posts/the_fault_in_our_stars_cover.jpg" link="http://www.amazon.com/review/R32FV3S8XYOIHJ/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ericswebsite-20&linkId=EFY6KDSOTISPSN7C" %}
