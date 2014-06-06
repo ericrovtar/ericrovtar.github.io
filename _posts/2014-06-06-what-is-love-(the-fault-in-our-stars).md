@@ -33,17 +33,17 @@ That’s what we see in this scene as Hazel, a terminally ill cancer patient, di
 
 Isaac and his girlfriend had this habit of saying “always” to each other, making a promise of their eternal love. Unfortunately, she decided to break that promise.
 
-Understandably upset and trying to come to terms with how someone who once confessed her love for him can leave in his time of need, Isaac hits on a something most of us take too long to understand.
+Understandably upset and trying to come to terms with how someone who once confessed her love for him can leave in his time of need, Isaac hits on something most of us take too long to understand.
 
 Like most people, I grew up hearing the fairy tales where the attractive prince falls in love with the equally attractive princess at first sight. The soundtrack swoons and sways as it climaxes, highlighting what a monumental moment this is.
 
-Without even being told to, I quickly began to expect love to be like that, waiting for this overly romantic moment where I would “fall” in love and know it beyond a doubt. She would feel the same way and instantly we’d be together forever so we could live happily ever after. 
+Without even being told to, I quickly began to expect love to be like that, waiting for this overly romantic moment where I would “fall” in love and know it beyond a doubt. She would feel the same way and instantly we’d be together forever, living happily ever after well beyond the end credits.
 
 Throughout high school and college, I kept waiting for that perfect moment. I’d even go so far as to try to force it to happen, only to see it never work out the way I wanted it to, and too often missing the opportunity all together. 
 
 I’d try to find the right moment to ask a girl out, playing it over and over in my head, “knowing” exactly what I would say and how she would reply. 
 
-I was naïve. Real life doesn’t work that way. Things would never happen exactly as I role-played them in my head. The words never come out as clearly as I planned as I all too often became an inarticulate mess.
+I was naïve. Real life doesn’t work that way. Things were never going to happen exactly as I role-played them in my head. The words never come out as clearly as I planned as I all too often became an inarticulate mess.
 
 Needless to say, I didn’t have much luck dating, but I digress&hellip;.
 
@@ -53,7 +53,7 @@ I kept waiting for my fairy tale moment to find my true love, but those moments 
 
 True love isn’t this mystical thing we all search for, waiting for that special moment to occur. True love is what we make of it. You see, love isn’t really about an emotion or attraction. It’s about a choice, a choice to commit to someone by putting them and their needs above your own. 
 
-Now, I’m not trying to totally negate emotion and attraction. I do believe it’s healthy and plays a part, but we tend to over emphasize it. The underlying aspect of love we all miss is that to love someone means we choose to love them every single day, or as Isaac and his girlfriend put it, for “always.” 
+Now, I’m not trying to totally negate emotion and attraction. I do believe they are healthy and plays a part, but we tend to over emphasize then. We “over romanticize” rather than seeing that the underlying aspect of love is choice, that we choose to love them every single day. Or as Isaac and his girlfriend put it, for “always.” 
 
 Think about a wedding ceremony and the words the pastor leads the couple to say to each other, the promises they make. They promise to put the other person first, thinking and caring for their needs prior to worrying about their own. They vow to love the other “in sickness and in health until death” – always.
 
@@ -63,11 +63,11 @@ All too often, we forget this and love becomes more about what we can get out of
 Have you ever done that? Have you ever caught yourself being more concerned with what you need or want than what the person you’re claiming to “love” needs or wants? 
 {% endcomment %}
 
-We’ve all been there. It’s a learning experience, after all, and in any long-term relationship, we’re all bound to make mistakes. It doesn’t matter if we’re talking about a family member, friend or significant other, it’s hard for us to always choose to love others, to put them first. 
+We’ve all been there. It’s a learning experience, after all, and in any long-term relationship, we’re all bound to make mistakes. It doesn’t matter if we’re talking about a family member, friend or significant other; it’s hard for us to always choose to love others, to put them first. 
 
-Here’s a challenge for us all: try to think about this as you interact with other people this week. Try to put their needs above your own. See what happens.  
+Here’s a challenge for us all: try to put their needs above your own. See what happens.   Try to think about this as you interact with other people this week. 
 
-It won’t be easy, that’s for certain. Always is a long time, but if you try to continually make that choice, if you promise to love others, something will change and people will notice. They will see that there’s something different you and wonder what that is.
+It won’t be easy, that’s for certain. Always is a long time, but if you try to continually make that choice, if you promise to love others, something will change and people will notice. They will see that there’s something different about you and wonder what that is.
 
 Think about a world where that’s the norm. What would that world look like? It’s almost impossible to fathom a place where we all choose to love one another and think of others prior to thinking of ourselves.
 
