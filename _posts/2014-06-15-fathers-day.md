@@ -43,3 +43,12 @@ So today as we celebrate our fathers, let&rsquo;s especially reflect on the sacr
 
 Dads, thanks for doing that. Thanks for being there. Thanks for the advice and wisdom. Thanks for the cash you snuck us even though we didn&rsquo;t earn it. Thanks for life.
 
+<aside class="bookReview">
+    <p>
+        This post is based on the <a href="http://www.huffingtonpost.com" target="_blank">Huffington Post</a> article 
+        <a href="http://www.huffingtonpost.com/2014/06/13/the-truth-about-being-a-dad-funny-dudes_n_5481560.html target="_blank">
+          &ldquo;The Truth About Being A Dad, According To 14 Really Funny Famous Guys&rdquo;
+        </a>.
+    </p>
+</aside>
+
