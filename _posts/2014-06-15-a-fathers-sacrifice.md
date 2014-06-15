@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Father's Sacrifice"
+title:  "A Father’s Sacrifice"
 image:  fathers_day.jpg
 categories: random
 tags: holiday, father's day, parenting, chris rock
