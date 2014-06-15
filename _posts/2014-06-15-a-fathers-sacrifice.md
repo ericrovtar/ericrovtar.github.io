@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Father's Day"
-image:  the_fault_in_our_stars.jpg
+title:  "A Father's Sacrifice"
+image:  fathers_day.jpg
 categories: random
 tags: holiday, father's day, parenting, chris rock
 published: false
