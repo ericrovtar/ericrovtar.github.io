@@ -34,7 +34,6 @@ The theme of the episode is pretty set: What’s life like when you’re unable 
 
 {% include figure.html src="/images/posts/2014/06/27/perception_rachael_leigh_cook.jpg" caption="Rachael Leigh Cook as Kate Moretti" %}
 
-
 Let’s stick with the concept of physical pain for a moment. What would it be like if you had congenital analgesia and were completely unable to feel anything, including pain?
 
 Think about that for a minute. If someone punched you – whether provoked or not – you could stand there like Superman as if it didn’t phase you at all. Anytime you needed a shot, you wouldn’t have to squirm waiting for the prick of the needle because you’d never feel it. This condition could be seen as beneficial.
@@ -73,7 +72,9 @@ I went to bed that evening, knowing that at any moment I could be awoken to hear
 
 We knew it was coming. We knew we couldn’t stop it. But as we entered his room to see his lifeless body laying there, I couldn't help but weep. (Even now I’m struggling to not cry as I recall that day.) It didn’t make sense. I knew this day was coming. I knew that the grandfather I remembered had long since passed, but still, I couldn’t help but feel sad.
 
-You know what that sadness taught me, though? It taught me how to appreciate the time we do have. It taught me to be grateful for the joy, laughter and happiness we get to experience with others as we walk through life.
+I’d have given a lot to numb the pain of that day. It isn’t a moment I like to reflect on or relive in my mind as it obviously recalls emotions that I try to avoid. But you know what that sadness taught me? It taught me how to appreciate the time we do have. It taught me to be grateful for the joy, laughter and happiness we get to experience with others as we walk through life.
+
+That’s not something I could have learned if I had been numb.
 
 {% comment %}
 Think back to the baby. What expression is on their face as the adults cheer after taking that first step? Joy results from a constant struggle.
