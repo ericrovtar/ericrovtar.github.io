@@ -2,7 +2,7 @@
 layout: post
 title:  "What Is Love?"
 basedOn: "The Fault In Our Stars"
-image:  the_fault_in_our_stars.jpg
+image:  "2014/06/06/the_fault_in_our_stars.jpg"
 categories: movie, book
 tags: movies, books, the fault in our starts, love
 published: true
@@ -25,7 +25,7 @@ published: true
     </cite>
 </blockquote>
 
-<img class="float--left one-fifth palm--two-fifths" src="/images/posts/the_fault_in_our_stars_cover.jpg" />
+<img class="float--left one-fifth palm--two-fifths" src="/images/posts/2014/06/06/the_fault_in_our_stars_cover.jpg" />
 
 If you’ve seen the trailers for the movie, you probably think <i><a href="http://thefaultinourstarsmovie.com/" target="_blank">The Fault In Our Stars</a></i> is just another “chick flick.” If that’s you’re initial assumption, I challenge you to read the book. <a href="http://johngreenbooks.com/" target="_blank">John Green</a> has a unique way of taking the traditional coming of age story, twisting it and then using it to analyze different facets of life. 
 
@@ -47,7 +47,7 @@ I was naïve. Real life doesn’t work that way. Things were never going to happ
 
 Needless to say, I didn’t have much luck dating, but I digress&hellip;.
 
-{% include figure.html src="/images/posts/the_fault_in_our_stars_isaac.jpg" caption="Nat Wolff as Isaac" %}
+{% include figure.html src="/images/posts/2014/06/06/the_fault_in_our_stars_isaac.jpg" caption="Nat Wolff as Isaac" %}
 
 I kept waiting for my fairy tale moment to find my true love, but those moments don’t exist because love doesn’t work like that, no matter how hard we plan or try. Love isn’t a solely emotional experience. It took me a long time to realize this &ndash; longer than it took Isaac.
 

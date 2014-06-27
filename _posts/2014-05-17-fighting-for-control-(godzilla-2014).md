@@ -3,7 +3,7 @@ layout: post
 title: "Fighting for Control"
 date:   2014-06-01 01:00:00
 basedOn: "Godzilla (2014)"
-image: godzilla.jpg
+image: "2014/06/01/godzilla.jpg"
 category: movie
 tags: movies, godzilla, control
 ---
@@ -27,7 +27,7 @@ I’d manipulate people in an effort to make whatever I wanted to happen happen 
 
 I was good at it too.
 
-{% include figure.html src="/images/posts/godzilla_godzilla.jpg" caption="&ldquo;Who you calling fat?&rdquo;" %}
+{% include figure.html src="/images/posts/2014/06/01/godzilla_godzilla.jpg" caption="&ldquo;Who you calling fat?&rdquo;" %}
 
 In some ways, the way I lived my life was the same way humanity was trying to save theirs in the latest <i>Godzilla</i> movie. 
 
@@ -63,7 +63,7 @@ Maybe it’s because when we give up control, we’re no longer in control. Coul
  
 Perhaps it does go a bit deeper than that and the problem results from our struggle to trust others rather than ourselves. We’ve all been let down at one point or another because someone didn’t follow through the way they promised, haven’t we?
 
-{% include figure.html src="/images/posts/godzilla_serizawa.jpg" caption="Ken Watanabe as Dr. Ichiro Serizawa" %}
+{% include figure.html src="/images/posts/2014/06/01/godzilla_serizawa.jpg" caption="Ken Watanabe as Dr. Ichiro Serizawa" %}
 
 What was it Dr. Serizawa said? “Let them fight.” He knew that this was a situation we couldn’t control, yet he also knew that there was something bigger in control to begin with, and he placed his trust in whatever that &ldquo;something bigger&rdquo; was. That’s why he could utter those words so decisively. Even though he may not have fully understood who or what was in control, he trusted in the bigger plan, a plan that he couldn’t fully see, understand or have control of, but a plan that would help save humanity.
  
