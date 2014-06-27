@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Strength of Pain"
+title:  "Numbing the Pain"
 basedOn: "Perception (TV Series)"
 image:  "2014/06/27/perception_eric_mccormack2.jpg"
 categories: tv
@@ -28,7 +28,7 @@ Pierce has this ability to analyze and assess situations that always lead him to
 
 In this past week’s episode, we found the good doctor identifying a victim with the medical condition <a href="http://en.wikipedia.org/wiki/Congenital_analgesia" target="_blank">congenital analgesia</a>, a rare genetic disorder that causes a person to have no sensation or feeling to physical pain.
 
-True to form, this new case coincides with Pierce having just been dumped. Everyone in his life keeps asking if he’s okay, and like most of us, he doesn’t respond openly when asked. He tries to push people away because doing so also allows him to push any emotional pain away as well.
+True to form, this new case coincides with Pierce having just been dumped. Everyone in his life keeps asking if he’s okay, and like most of us, he doesn’t respond openly when asked. He tries to push people away because doing so also allows him to push any emotional pain away as well. He’s trying to stay numb.
 
 The theme of the episode is pretty set: What’s life like when you’re unable – or unwilling – to experience and process pain?
 
