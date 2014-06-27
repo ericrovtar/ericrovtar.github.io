@@ -81,7 +81,7 @@ Think back to the baby. What expression is on their face as the adults cheer aft
 
 The pain of loss is something we all must face at one point or another in our lives. While it may appear to be easier for some of us than others, it’s still a pain that we must endure.
 
-I wasn’t the only one who weeped that day. My dad and the rest of my family all were in pain over the loss of someone with whom we’d accumulated many fond memories with.
+I wasn’t the only one who weeped that day. My dad and the rest of my family all were in pain over the loss of someone with whom we’d accumulated many fond memories.
 
 Pain isn’t something that can be out run. While none of us ever go looking for pain, it will still find us.
 
