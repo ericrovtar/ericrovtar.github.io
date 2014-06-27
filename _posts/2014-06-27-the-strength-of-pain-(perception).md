@@ -2,7 +2,7 @@
 layout: post
 title:  "The Strength of Pain"
 basedOn: "Perception (TV Series)"
-image:  "2014/06/27/perception_eric_mccormick2.jpg"
+image:  "2014/06/27/perception_eric_mccormack2.jpg"
 categories: tv
 tags: tv, perception, pain
 published: true
@@ -31,6 +31,9 @@ In this past week’s episode, we found the good doctor identifying a victim wit
 True to form, this new case coincides with Pierce having just been dumped. Everyone in his life keeps asking if he’s okay, and like most of us, he doesn’t respond openly when asked. He tries to push people away because doing so also allows him to push any emotional pain away as well.
 
 The theme of the episode is pretty set: What’s life like when you’re unable – or unwilling – to experience and process pain?
+
+{% include figure.html src="/images/posts/2014/06/27/perception_rachael_leigh_cook.jpg" caption="Rachael Leigh Cook as Kate Moretti" %}
+
 
 Let’s stick with the concept of physical pain for a moment. What would it be like if you had congenital analgesia and were completely unable to feel anything, including pain?
 
@@ -82,7 +85,7 @@ I wasn’t the only one who weeped that day. My dad and the rest of my family al
 
 Pain isn’t something that can be out run. While none of us ever go looking for pain, it will still find us.
 
-You, like everyone else, have stories of pain from your past. You also have stories that have yet to be written, stories that will leave you in tears. You may try to avoid them. You may try to pretend they never happened, but they did.
+You, like everyone else, have stories of pain from your past. You also have stories that have yet to be written, stories that will leave you in tears. You may try to avoid them. You may try to stay numb, but they will happen and you have a choice on how to respond to them when they do.
 
 The next time you find yourself in pain from loss or from having a bad day or from whatever, I hope you remember what Dr. Pierce has said because it will remind you of what’s on the other side of that struggle:
 
