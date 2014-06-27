@@ -43,7 +43,7 @@ But wait, you could accidentally touch a hot stove top and seriously burn your h
 
 Some unique life problems begin to present themselves that make us realize that this wouldn’t be an easy condition to live with. You would constantly have to monitor yourself and have someone’s help.
 
-So wait&hellip; pain – at least physical pain – serves a purpose. Pain serves as a mirro to the other emotions of life, as Dr. Pierce points out: 
+So wait&hellip; pain – at least physical pain – serves a purpose. Pain serves as a mirror to the other emotions of life, as Dr. Pierce points out: 
 
 <blockquote>
     <p>
@@ -81,7 +81,7 @@ Think back to the baby. What expression is on their face as the adults cheer aft
 
 The pain of loss is something we all must face at one point or another in our lives. While it may appear to be easier for some of us than others, it’s still a pain that we must endure.
 
-I wasn’t the only one who weeped that day. My dad and the rest of my family all were in pain over the loss of someone with whom we’d accumulated many fond memories.
+I wasn’t the only one who wept that day. My dad and the rest of my family all were in pain over the loss of someone with whom we’d accumulated many fond memories.
 
 Pain isn’t something that can be out run. While none of us ever go looking for pain, it will still find us.
 
