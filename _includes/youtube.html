@@ -1,0 +1,28 @@
+<figure class="article__figure--video">
+    <iframe class="video__youtube" width="100%" height="auto" src="{{ include.src }}" 
+            frameborder="0" allowfullscreen></iframe>
+
+    <figcaption>
+        {{ include.caption }}
+    </figcaption>
+</figure>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        resizeVideo();
+    });
+    
+    function resizeVideo() {
+        var ratio = {{ include.width }} / {{ include.height }};
+        
+        var width = $(".video__youtube").width();    
+        var height = Math.round(width * ratio) + "px";
+
+        $(".video__youtube").attr("height", height);
+    }
+    
+    //resize when window changes
+    window.onresize = function(event) { 
+        resizeVideo();
+    }
+</script>

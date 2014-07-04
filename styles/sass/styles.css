@@ -1387,6 +1387,10 @@ body {
   position: relative;
   z-index: 200; }
 
+.article__item .float--left {
+  float: left;
+  margin-right: 24px;
+  height: auto; }
 .article__item blockquote {
   margin-bottom: 23px;
   padding: 23px 0 0 0;
@@ -1396,6 +1400,8 @@ body {
   font-style: italic;
   letter-spacing: 1px;
   text-align: right; }
+  .article__item blockquote i {
+    font-style: normal; }
   .article__item blockquote p {
     text-align: left; }
     .article__item blockquote p:last-of-type {
@@ -1525,6 +1531,32 @@ body {
     background: url("../images/icons/64px/white/pinterest.png") no-repeat scroll center center/50% auto #cb2027; }
   .share__tile.reddit {
     background: url("../images/icons/64px/white/reddit.png") no-repeat scroll center center/50% auto #3E6895; }
+
+.bookReview {
+  margin-bottom: 23px;
+  padding: 23px 0 0 0;
+  border-top: 1px solid #AAA;
+  border-bottom: 1px solid #AAA;
+  font-family: Georgia, serif;
+  color: #AAA;
+  font-style: italic;
+  letter-spacing: 1px; }
+  .bookReview p {
+    text-align: left; }
+    .bookReview p:last-of-type {
+      margin-bottom: 0;
+      padding-bottom: 23px; }
+  .bookReview a {
+    font-weight: normal; }
+    .bookReview a .amazon__logo {
+      display: inline;
+      height: 2em;
+      position: relative;
+      top: 3px;
+      vertical-align: middle; }
+
+.bookReview__cover {
+  width: 100%; }
 
 /*--- HEADINGS ---*/
 h1, h2, h3, h4, h5, h6 {
