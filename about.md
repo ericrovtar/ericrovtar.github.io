@@ -35,7 +35,7 @@ permalink: /about/
                 If you like what I have to say or have any comments, feel free to find me on 
                 <a href="{{ site.facebookUrl }}" target="_blank">Facebook</a>, 
                 <a href="{{ site.twitterUrl }}" target="_blank">Twitter</a>, 
-                <a href="{{ site.psnUrl }}" target="_blank">PSN</a>, or if you prefer, shoot me an 
+                <a href="{{ site.psnUrl }}" target="_blank">PSN (airic82)</a>, or if you prefer, shoot me an 
                 <a href="mailto:{{ site.email }}">email</a>.
             </p>
             
