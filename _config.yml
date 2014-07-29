@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://ericrovtar.com"
 twitterUrl: "http://twitter.com/ericrovtar"
 facebookUrl: "http://facebook.com/eric.rovtar"
+psnUrl: "http://us.playstation.com/playstation/psn/visit/profiles/airic82"
 
 # Build settings
 markdown: kramdown
