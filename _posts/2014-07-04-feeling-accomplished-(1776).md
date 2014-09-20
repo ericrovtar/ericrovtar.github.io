@@ -30,7 +30,7 @@ More so, I often forget to humanize these historic figures that made up the stor
 
 In 10th grade American History we watched the theatrical version of <i><a href="http://www.imdb.com/title/tt0068156/?ref_=fn_al_tt_1" target="_blank">1776</a></i>, starring <a href="http://www.imdb.com/name/nm0200122/?ref_=tt_cl_t1" target="_blank">William Daniels</a> as John Adams who we all cheered for because of our obsession with <i>Boy Meets World</i>. It may just be my sense of humor, but that movie / musical is so entertaining and the songs instantly stick in my head, so I try to DVR it when it airs in early July and watch it every year around the 4th.
 
-{% include youtube.html src="//www.youtube.com/embed/lBQglyde0aY" height="560" width="315" caption="A performance of “Sit Down, John” from the movie adaptation of 1776." %}
+{% include youtube.html src="//www.youtube.com/embed/lBQglyde0aY" width="560" height="315" caption="A performance of “Sit Down, John” from the movie adaptation of 1776." %}
 
 As I mentioned, the soundtrack is classic (even if the recording is missing the original Benjamin Franklin due to illness). Recently, as I was driving, <a href="http://siriusxm.com" target="_blank">SiriusXM</a>’s “<a href="http://www.siriusxm.com/onbroadway" target="_blank">On Broadway</a>” played the track “But, Mr. Adams,” where John Adams and the rest of the committee discuss who should pen what is to become the “Declaration of Independence” so the Continental Congress can finally vote on whether or not to pursue freedom from King George’s tyranny. 
 

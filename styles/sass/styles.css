@@ -294,7 +294,6 @@ $WIDTHS
 .one-quarter, .two-eighths, .three-twelfths {
   width: 25%; }
 
-
 .three-quarters, .six-eighths, .nine-twelfths {
   width: 75%; }
 
@@ -319,9 +318,6 @@ $WIDTHS
 .one-sixth, .two-twelfths {
   width: 16.666%; }
 
-
-
-
 .five-sixths, .ten-twelfths {
   width: 83.333%; }
 
@@ -331,14 +327,11 @@ $WIDTHS
 .one-eighth {
   width: 12.5%; }
 
-
 .three-eighths {
   width: 37.5%; }
 
-
 .five-eighths {
   width: 62.5%; }
-
 
 .seven-eighths {
   width: 87.5%; }
@@ -349,16 +342,11 @@ $WIDTHS
 .one-tenth {
   width: 10%; }
 
-
 .three-tenths {
   width: 30%; }
 
-
-
-
 .seven-tenths {
   width: 70%; }
-
 
 .nine-tenths {
   width: 90%; }
@@ -369,18 +357,11 @@ $WIDTHS
 .one-twelfth {
   width: 8.333%; }
 
-
-
-
 .five-twelfths {
   width: 41.666%; }
 
-
 .seven-twelfths {
   width: 58.333%; }
-
-
-
 
 .eleven-twelfths {
   width: 91.666%; }
@@ -735,7 +716,6 @@ $PUSH
 .push--one-quarter, .push--two-eighths, .push--three-twelfths {
   left: 25%; }
 
-
 .push--three-quarters, .push--six-eighths, .push--nine-twelfths {
   left: 75%; }
 
@@ -760,9 +740,6 @@ $PUSH
 .push--one-sixth, .push--two-twelfths {
   left: 16.666%; }
 
-
-
-
 .push--five-sixths, .push--ten-twelfths {
   left: 83.333%; }
 
@@ -772,14 +749,11 @@ $PUSH
 .push--one-eighth {
   left: 12.5%; }
 
-
 .push--three-eighths {
   left: 37.5%; }
 
-
 .push--five-eighths {
   left: 62.5%; }
-
 
 .push--seven-eighths {
   left: 87.5%; }
@@ -790,16 +764,11 @@ $PUSH
 .push--one-tenth {
   left: 10%; }
 
-
 .push--three-tenths {
   left: 30%; }
 
-
-
-
 .push--seven-tenths {
   left: 70%; }
-
 
 .push--nine-tenths {
   left: 90%; }
@@ -810,18 +779,11 @@ $PUSH
 .push--one-twelfth {
   left: 8.333%; }
 
-
-
-
 .push--five-twelfths {
   left: 41.666%; }
 
-
 .push--seven-twelfths {
   left: 58.333%; }
-
-
-
 
 .push--eleven-twelfths {
   left: 91.666%; }
@@ -1557,6 +1519,24 @@ body {
 
 .bookReview__cover {
   width: 100%; }
+
+.article__figure--video, .article__figure--image {
+  margin: 0 auto 21px auto;
+  padding: 10px;
+  clear: both;
+  border: 1pt solid #EEE;
+  border-radius: 5px;
+  box-shadow: 0px 2px 10px #AAA;
+  width: 90%; }
+  .article__figure--video figcaption, .article__figure--video .article__figure--image {
+    padding: 0.5rem 0.5rem 0 0.5rem;
+    font-family: Georgia, serif;
+    font-style: italic;
+    text-align: center; }
+
+.article__figure--image img {
+  width: 100%;
+  height: auto; }
 
 /*--- HEADINGS ---*/
 h1, h2, h3, h4, h5, h6 {

@@ -1716,7 +1716,7 @@ body {
 .bookReview__cover {
   width: 100%; }
 
-.article__figure--video {
+.article__figure--video, .article__figure--image {
   margin: 0 auto 21px auto;
   padding: 10px;
   clear: both;
@@ -1724,11 +1724,15 @@ body {
   border-radius: 5px;
   box-shadow: 0px 2px 10px #aaaaaa;
   width: 90%; }
-  .article__figure--video figcaption {
+  .article__figure--video figcaption, .article__figure--image figcaption {
     padding: 0.5rem 0.5rem 0 0.5rem;
     font-family: Georgia, serif;
     font-style: italic;
     text-align: center; }
+
+.article__figure--image img {
+  width: 100%;
+  height: auto; }
 
 /*--- HEADINGS ---*/
 h1, h2, h3, h4, h5, h6 {

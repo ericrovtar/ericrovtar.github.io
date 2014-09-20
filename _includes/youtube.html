@@ -13,7 +13,7 @@
     });
     
     function resizeVideo() {
-        var ratio = {{ include.width }} / {{ include.height }};
+        var ratio = {{ include.height }} / {{ include.width }};
         
         var width = $(".video__youtube").width();    
         var height = Math.round(width * ratio) + "px";
