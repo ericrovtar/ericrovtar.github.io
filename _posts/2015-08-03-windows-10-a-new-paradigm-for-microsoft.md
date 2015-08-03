@@ -22,7 +22,7 @@ Before I begin, I want to make one thing clear: <b>this isn&rsquo;t a review or 
 ## Tonight at 11
 When you grow up, there are these pillar moments in history where the whole world stops and focuses on one thing. Memories of the new millenium and Y2K stick vividly in my mind. The media encompasses these events, highlighting them as everyone watches.
 
-When I was 13, I remember seeing headlines about was the launch of Windows 95. People lined up for a midnight release to have the latest and greated version of <a href="http://microsoft.com" target="_blank">Microsoft</a>&rsquo;s operating system. They couldn&rsquo;t wait to experience the &ldquo;revolutionary&rdquo; start menu and better multitasking design.
+When I was 13, I remember seeing headlines about the launch of Windows 95. People lined up for a midnight release to have the latest and greated version of <a href="http://microsoft.com" target="_blank">Microsoft</a>&rsquo;s operating system. They couldn&rsquo;t wait to experience the &ldquo;revolutionary&rdquo; start menu and better multitasking design.
 
 In a day where midnight releases have become an everyday event, this probably doesn&rsquo;t seem like a big deal, but on August 24, 1995 it was &ldquo;Tonight at 11&rdquo; material.
 
