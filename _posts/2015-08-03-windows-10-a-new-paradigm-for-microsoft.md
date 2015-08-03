@@ -16,8 +16,7 @@ published: true
     </cite>
 </blockquote>
 
-## Disclaimer
-Before I begin, I want to make one thing clear: <b>this isn&rsquo;t a review or how-to guide</b>. There are plenty of those around the internet and I&rsquo;ve linked to some of my favorites at the <a href="#HelpfulResources">bottom of this post</a>. What I want to do instead is provide some insight into the changes Microsoft has been making as a company and what they means for people like you and me.
+<i><b>Disclaimer</b> Before I begin, I want to make one thing clear: <b>this isn&rsquo;t a review or how-to guide</b>. There are plenty of those around the internet and I&rsquo;ve linked to some of my favorites at the <a href="#HelpfulResources">bottom of this post</a>. What I want to do instead is provide some insight into the changes Microsoft has been making as a company and what they means for people like you and me.</i>
 
 ## Tonight at 11
 When you grow up, there are these pillar moments in history where the whole world stops and focuses on one thing. Memories of the new millenium and Y2K stick vividly in my mind. The media encompasses these events, highlighting them as everyone watches.
@@ -29,7 +28,7 @@ In a day where midnight releases have become an everyday event, this probably do
 ## The Future Starts Now
 It&rsquo;s taken nearly 20 years for us to see Microsoft put so much effort behind marketing a new version, but with the launch of <a href="http://www.microsoft.com/en-us/software-download/windows10" target="_blank">Windows 10</a> it&rsquo;s hard to not witness product placement or advertisements in your everyday life.
 
-{% include youtube.html src="//www.youtube.com/embed/Gu6vmNz-PhE" height="420" width="315" caption="Introducing Windows 10 &ndash; The Future Starts Now" %}
+{% include youtube.html src="//www.youtube.com/embed/Gu6vmNz-PhE" height="315" width="420" caption="Introducing Windows 10 &ndash; The Future Starts Now" %}
 
 Microsoft has taken to social media, television and even movies (there&rsquo;s not an Apple product in sight in the newest Mission Impossible movie, where other installments were laden with them).
 
@@ -42,14 +41,14 @@ A few months ago, Windows launched the <a href="https://insider.windows.com" tar
 
 You actually see the same thing with the release of <a href="https://products.office.com/en-US/mac/microsoft-office-for-mac" target="_blank">Office for Mac 2016</a>. Built into the interface is an icon that allows you to provide instant feedback to Microsoft. You don&rsquo;t like something? Let them know. And it all takes less than a minute.
 
-{% include youtube.html src="//www.youtube.com/embed/iMTKbWix3k4" height="420" width="315" caption="Office for Mac 2016: Top 10 Reasons To Get the New Version" %}
+{% include youtube.html src="//www.youtube.com/embed/iMTKbWix3k4" height="315" width="420" caption="Office for Mac 2016: Top 10 Reasons To Get the New Version" %}
 
 ## A New Outlook
 So what does this all mean? Why does it even matter?
 
 In a day when life is full of choices and various companies are all vying for even a moment of your attention, there&rsquo;s one thing that will make them stand out: how they treat you. Customer service matters. Listening to what people want matters. Giving them what they want shows that you've listened and that you care.
 
-{% include youtube.html src="//www.youtube.com/embed/j3ZLphVaxkg?list=PLWs4_NfqMtoyDaqWDdhRzbSnMFLxriPiQ" height="420" width="315" caption="Introducing Windows 10 Highlights Reel" %}
+{% include youtube.html src="//www.youtube.com/embed/j3ZLphVaxkg?list=PLWs4_NfqMtoyDaqWDdhRzbSnMFLxriPiQ" height="315" width="420" caption="Introducing Windows 10 Highlights Reel" %}
 
 The Microsoft of a decade ago isn&rsquo;t the same Microsoft of today. 10 years ago (around the time I bought my first MacBook), Microsoft was adamanent about doing things their own way or no way at all. 
 
