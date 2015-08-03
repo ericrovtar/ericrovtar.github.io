@@ -55,7 +55,7 @@ The Microsoft of a decade ago isn&rsquo;t the same Microsoft of today. 10 years 
 
 You can see that in the technology behind their built-in web browser Internet Explorer. Want to know why everyone will tell you to not use IE and to use <a href="http://getfirefox.com" target="_blank">Firefox</a> of <a href="https://www.google.com/chrome/browser/" target="_blank">Chrome</a> instead? It's because it wasn't compliant to the defined standards of the internet making things not work.
 
-But that&rsquo;s an discussion for a different day. (<a href="http://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Internet Explorer has been replaced in Windows 10, by the way.</a>)
+But that&rsquo;s an discussion for a different day. (<a href="http://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Internet Explorer has been replaced in Windows 10</a>, by the way.)
 
 The point now is that the paradigm has changed. Microsoft has changed their approach and we&rsquo;re the ones who get to benefit from it.
 
