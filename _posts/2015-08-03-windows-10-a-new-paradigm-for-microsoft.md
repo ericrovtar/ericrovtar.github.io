@@ -36,9 +36,9 @@ Microsoft has taken to social media, television and even movies (there&rsquo;s n
 ## An Inside Perspective
 While marketing is important, there&rsquo;s one other piece to this launch that Microsoft has excelled (is that a pun?) in: customer service. They want your feedback. They want to know what you like and what you don't like. Further, they're making changes based on what they're hearing.
 
-A few months ago, Windows launched the <a href="https://insider.windows.com" target="_blank">Insider program</a> where anyone could experience Windows 10 in it&rsquo;s <a href="https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta" target="_blank">beta stage</a>. While it&rsquo;s not for everyone &ndash; you have to be okay with experiencing prominent bugs and quirks &ndash; it allows users to experience their new product early and provide feedback. In fact, the insider build of Windows 10 went as far as prompting you to rate specific aspects and changes were made in future builds based on what people submitted.
-
 {% include figure.html src="/images/posts/2015/08/03/office_mac_feedback.jpg" caption="It Happily Awaits Your Feedback" %}
+
+A few months ago, Windows launched the <a href="https://insider.windows.com" target="_blank">Insider program</a> where anyone could experience Windows 10 in it&rsquo;s <a href="https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta" target="_blank">beta stage</a>. While it&rsquo;s not for everyone &ndash; you have to be okay with experiencing prominent bugs and quirks &ndash; it allows users to experience their new product early and provide feedback. In fact, the insider build of Windows 10 went as far as prompting you to rate specific aspects and changes were made in future builds based on what people submitted.
 
 You actually see the same thing with the release of <a href="https://products.office.com/en-US/mac/microsoft-office-for-mac" target="_blank">Office for Mac 2016</a>. Built into the interface is an icon that allows you to provide instant feedback to Microsoft. You don&rsquo;t like something? Let them know. And it all takes less than a minute.
 
