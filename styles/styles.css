@@ -1789,4 +1789,7 @@ small {
 i {
   font-style: italic; }
 
+b, em {
+  font-weight: bold; }
+
 /*# sourceMappingURL=styles.css.map */
