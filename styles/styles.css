@@ -1298,7 +1298,7 @@ $VARIABLES
 \*------------------------------------*/
 html {
   font-family: "Open Sans", Verdana, sans-serif;
-  color: #333333;
+  color: #333;
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
   -ms-text-size-adjust: none;
@@ -1448,7 +1448,7 @@ body {
     text-indent: -1rem;
     color: #FFF;
     line-height: 2.5rem;
-    text-shadow: 2px 2px 2px rgba(51, 51, 51, 0.8);
+    text-shadow: 2px 2px 2px #3c617a;
     text-transform: lowercase;
     font-weight: normal; }
     @media only screen and (max-width: 480px) {
@@ -1491,7 +1491,7 @@ body {
   z-index: 200; }
 
 .articleList__item {
-  border-bottom: 1px solid #cccccc;
+  border-bottom: 1px solid #CCC;
   padding-bottom: 22px;
   margin-bottom: 23px; }
   .articleList__item:last-child {
@@ -1506,7 +1506,7 @@ body {
       margin-top: 0px; } }
 
 .articleList__thumbnail {
-  background: none no-repeat scroll center center/cover padding-box content-box #3c617a; }
+  background: none no-repeat scroll center center/cover padding-box content-box #3C617A; }
 
 .articleList__details {
   padding-left: 24px;
@@ -1548,9 +1548,9 @@ body {
 .article__item blockquote {
   margin-bottom: 23px;
   padding: 23px 0 0 0;
-  border-top: 1px solid #aaaaaa;
+  border-top: 1px solid #AAA;
   font-family: Georgia, serif;
-  color: #aaaaaa;
+  color: #AAA;
   font-style: italic;
   letter-spacing: 1px;
   text-align: right; }
@@ -1559,13 +1559,13 @@ body {
   .article__item blockquote p {
     text-align: left; }
     .article__item blockquote p:last-of-type {
-      border-bottom: 1pt solid #aaaaaa;
+      border-bottom: 1pt solid #AAA;
       margin-bottom: 0;
       padding-bottom: 23px; }
     .article__item blockquote p.right {
       text-align: right; }
   .article__item blockquote cite {
-    background: none repeat scroll 0% 0% #aaaaaa;
+    background: none repeat scroll 0% 0% #AAA;
     display: inline-block;
     position: relative;
     margin-bottom: 0px;
@@ -1589,7 +1589,7 @@ body {
     width: auto; }
   .article__figure--left figcaption,
   .article__figure--right figcaption {
-    background: none repeat scroll 0% 0% #aaaaaa;
+    background: none repeat scroll 0% 0% #AAA;
     position: relative;
     padding: 4rem 0.5rem 0.5rem;
     margin-top: -4rem;
@@ -1624,7 +1624,7 @@ body {
   letter-spacing: 1px; }
 
 .aboutMe {
-  background: #eeeeee;
+  background: #EEE;
   padding-top: 1em;
   padding-bottom: 1em; }
   @media only screen and (min-width: 1024px) {
@@ -1647,7 +1647,7 @@ body {
   .footer p {
     margin-bottom: 0;
     font-size: 0.75rem;
-    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2); }
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5); }
   .footer a {
     color: #FFF; }
 
@@ -1688,15 +1688,15 @@ body {
   .share__tile.pinterest {
     background: url("../images/icons/64px/white/pinterest.png") no-repeat scroll center center/50% auto #cb2027; }
   .share__tile.reddit {
-    background: url("../images/icons/64px/white/reddit.png") no-repeat scroll center center/50% auto #3e6895; }
+    background: url("../images/icons/64px/white/reddit.png") no-repeat scroll center center/50% auto #3E6895; }
 
 .bookReview {
   margin-bottom: 23px;
   padding: 23px 0 0 0;
-  border-top: 1px solid #aaaaaa;
+  border-top: 1px solid #AAA;
   border-bottom: 1px solid #AAA;
   font-family: Georgia, serif;
-  color: #aaaaaa;
+  color: #AAA;
   font-style: italic;
   letter-spacing: 1px; }
   .bookReview p {
@@ -1720,9 +1720,9 @@ body {
   margin: 0 auto 21px auto;
   padding: 10px;
   clear: both;
-  border: 1pt solid #eeeeee;
+  border: 1pt solid #EEE;
   border-radius: 5px;
-  box-shadow: 0px 2px 10px #aaaaaa;
+  box-shadow: 0px 2px 10px #AAA;
   width: 90%; }
   .article__figure--video figcaption, .article__figure--image figcaption {
     padding: 0.5rem 0.5rem 0 0.5rem;
@@ -1788,3 +1788,5 @@ small {
 
 i {
   font-style: italic; }
+
+/*# sourceMappingURL=styles.css.map */
