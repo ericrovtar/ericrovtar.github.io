@@ -4,7 +4,7 @@ title:  "Windows 10: A New Paradigm for Microsoft"
 image:  "2015/08/03/windows-10.jpg"
 categories: technology
 tags: technology, windows, apple
-published: false
+published: true
 ---
 <blockquote>
     <p>
