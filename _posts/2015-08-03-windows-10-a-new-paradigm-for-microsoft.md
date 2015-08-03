@@ -16,7 +16,7 @@ published: true
     </cite>
 </blockquote>
 
-<i><b>Disclaimer</b> Before I begin, I want to make one thing clear: <b>this isn&rsquo;t a review or how-to guide</b>. There are plenty of those around the internet and I&rsquo;ve linked to some of my favorites at the <a href="#HelpfulResources">bottom of this post</a>. What I want to do instead is provide some insight into the changes Microsoft has been making as a company and what they means for people like you and me.</i>
+<i><b>Disclaimer:</b> Before I begin, I want to make one thing clear: <b>this isn&rsquo;t a review or how-to guide</b>. There are plenty of those around the internet and I&rsquo;ve linked to some of my favorites at the <a href="#HelpfulResources">bottom of this post</a>. What I want to do instead is provide some insight into the changes Microsoft has been making as a company and what they means for people like you and me.</i>
 
 ## Tonight at 11
 When you grow up, there are these pillar moments in history where the whole world stops and focuses on one thing. Memories of the new millenium and Y2K stick vividly in my mind. The media encompasses these events, highlighting them as everyone watches.
