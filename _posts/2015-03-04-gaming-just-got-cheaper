@@ -5,18 +5,8 @@ basedOn: "Best Buy Gamers Club"
 image:  "2015/03/04/best-buy.jpg"
 categories: technology
 tags: technology, gaming, best buy, playstation, xbox
-published: false
+published: true
 ---
-<blockquote>
-    <p>
-        “We want to move people from needing Windows to choosing Windows to loving Windows.”
-    </p>
-
-    <cite>
-        &ndash; Microsoft CEO Satya Nadella
-    </cite>
-</blockquote>
-
 Gaming is one of my most expensive hobbies. Every year, I buy at least three games on release date because my anticipation for them is just too great and I can&rsquo;t wait to dive into a new story. Fortunately, games themselves haven&rsquo;t changes costs in almost a decade, sticking at the $59.99 retail price and sometimes less.
 
 Until now, I&rsquo;ve relied on Amazon to run a preorder bonus in order to make the most of my purchase because &ndash; if you know me at all &ndash; you know I love a good deal.
@@ -24,6 +14,9 @@ Until now, I&rsquo;ve relied on Amazon to run a preorder bonus in order to make 
 All of that is set to change as Best Buy <a href="https://corporate.bestbuy.com/just-30-the-new-price-to-join-my-best-buys-gamers-club-unlocked/" target="_blank">announced an update</a> to their <a href="http://www.bestbuy.com/site/My-Best-Buy/Gamers-Club/pcmcat338600050004.c?id=pcmcat338600050004" target="_blank">Gamers Club Unlocked</a> program today.
 
 ## What&rsquo;s Changing
+
+{% include figure.html src="/images/posts/2015/03/04/gamers-club-card.jpg" caption="$30 well spent" %}
+
 Previously, Best Buy&rsquo;s pay-to-save subscription has costed you $100 for two years of service, but beginning March 8, that price will drop to only $30. Meanwhile, the benefits are not changing. Members will still receive:
 
 * 20% off new physical games
