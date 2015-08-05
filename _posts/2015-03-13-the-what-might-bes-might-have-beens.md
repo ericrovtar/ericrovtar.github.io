@@ -33,6 +33,8 @@ Obviously, all I can do is speculate, but this is the concept <i>If/Then</i> toy
 
 Whenever I find myself wondering how different my life would be if I had done something differently in the past, it&rsquo;s easy to get lost &ldquo;might-have-been&rsquo;s.&rsquo; Still, there&rsquo;s no way to be sure. Perhaps I&rsquo;d be in the same exact place I am today or maybe it&rsquo;d only be slightly altered.
 
+{% include inline-image.html src="/images/posts/2015/03/13/menzel-rapp.jpg" caption="Idina Menzel &amp; Anthony Rapp" %}
+
 Yet, when I start to think of all the things I have and am grateful for, it&rsquo;s hard to not look back and recognize that I have those things because of the choices I made because, despite how hard we try, the past isn&rsquo;t malleable. We can&rsquo;t change it, even though glimpses of it linger in our minds calling to question the &ldquo;might-have-been&rsquo;s.&rdquo;
 
 Had I not gone to Ohio State, I wouldn&rsquo;t have ended up transferring to Kent State. I wouldn&rsquo;t have made the friends at Kent that changed my life, and I most certainly wouldn&rsquo;t have the job I do today.
