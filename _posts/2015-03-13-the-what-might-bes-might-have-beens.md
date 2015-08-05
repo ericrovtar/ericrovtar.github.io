@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The What-Might-Be&rsquo;s & Might-Have-Been&rsquo;s"
+title:  "The What-Might-Be&rsquo;s &amp; Might-Have-Been&rsquo;s"
 basedOn: "If/Then: The Musical"
 image:  "2015/03/03/if-then-main-cast.jpg"
 categories: musical
@@ -10,10 +10,10 @@ published: true
 
 <blockquote>
   <p>
-    Now we&lsquo;re old enough to know that<br />
+    Now we&rsquo;re old enough to know that<br />
     One road ends where one begins<br />
-    The moment where the what-might-be&lsquo;s<br />
-    Turn into might-have-been&lsquo;s
+    The moment where the what-might-be&rsquo;s<br />
+    Turn into might-have-been&rsquo;s
   </p>
   
   <cite>
