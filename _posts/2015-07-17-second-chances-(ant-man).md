@@ -29,6 +29,6 @@ Can Scott redeem himself from his past? Can Hank do the same?
 
 {% include inline-image.html src="/images/posts/2015/07/17/michael-douglas.jpg" caption="Michael Douglas as Dr. Hank Pym" %}
 
-We all have parts of our past that we with we could change, wrongs we&rsquo;ve committed that we wish could be righted, relationships ended that we with we could mend.
+We all have parts of our past that we wish we could change, wrongs we&rsquo;ve committed that we wish could be righted, relationships ended that we with we could mend.
 
 If we&rsquo;re lucky, every once and a while we get that chance to at least apologize and try to start over. It&rsquo;s never easy and sometimes the damage is too great. Still, when a second chance comes along, I urge you to take it. Don&rsquo;t let pride or something else get in the way. Life&rsquo;s too short for that.
