@@ -5,7 +5,7 @@ basedOn: "Marvel&rsquo;s Ant-Man"
 image:  "2015/07/17/ant-man.jpg"
 categories: movies
 tags: marvel, ant-man
-published: false
+published: true
 ---
 
 {% include spoilerWarning.html spoilersFor="Marvel&rsquo;s Ant-Man" %}
