@@ -28,28 +28,28 @@ You can also push notifications from your phone to your Microsoft Band from any 
 Finally, if you&rsquo;re a Windows Phone user, you also get a couple extra features like <a href="http://www.windowsphone.com/en-us/how-to/wp8/cortana/meet-cortana" target="_blank">Cortana</a> and replying to messages right from Microsoft Band.
 
 ## Lifespan
-One of my biggest questions about the Apple Watch is <i>how many years is it supposed to last me?</i> 
+One of my biggest questions about the Apple Watch is, &ldquo;how many years is it supposed to last me?&rdquo; 
 
-Apple seems to operate under the assumption that people are upgrading their phones every two years. If you don&rsquo;t you&rsquo;ll start to notice your phone running slow on the latest version of iOS.
+Apple seems to operate under the assumption that people are upgrading their phones every two years. If you don&rsquo;t, you&rsquo;ll start to notice your phone running slow on the latest version of iOS.
 
-To be honest, I don&rsquo;t want another device I&rsquo;m looking to upgrade every other year, especially one where the price isn&rsquo;t subsidize by a contract. Who wants to spend another $400 every two years?
+To be honest, I don&rsquo;t want another device I&rsquo;m looking to upgrade every other year, especially one where the price isn&rsquo;t subsidize by a contract. Who wants to spend $400 every two years?
 
-The same problem could arise with Microsoft Band, but since it&rsquo;s more of a fitness tracker than watch, it&rsquo;s fair to say it&rsquo;ll last a bit longer as it&rsquo;s operating system isn&rsquo;t going to advance beyond the hardware as quickly.
+The same problem could arise with Microsoft Band, but since it&rsquo;s more of a fitness tracker than watch, it&rsquo;s fair to say it&rsquo;ll last a bit longer as its operating system isn&rsquo;t going to advance beyond the hardware as quickly.
 
 ## Price
-The Microsoft Band is half the price and less if you can find it on sale.
+The Microsoft Band is half the price &ndash; and less if you can find it on sale.
 
-Add in the fact that I haven&rsquo;t worn a device on my wrist since I figure got a cell phone in 2002. It&rsquo;s a bit difficult for me to invest $400 for a device that may annoy me and I end up never using.
+Add in the fact that I haven&rsquo;t worn a device on my wrist since I first got a cell phone in 2002. It&rsquo;s a bit difficult for me to invest $400 for a device that may annoy me and end up never using.
 
 ## Battery Life
 How long a device will last between charges is fairly important. I don&rsquo;t really want something else I have to remember to plug in every night.
 
-Until the Apple Watch is actually released, we can&rsquo;t be certain just how long it&rsquo;s battery will last. Apple is stating 18 hours, but those numbers are usually not entirely accurate.
+Until the Apple Watch is actually released, we can&rsquo;t be certain just how long it&rsquo;s battery will last. <a href="http://www.apple.com/watch/battery.html" target="_blank">Apple is stating 18 hours</a>, but those numbers are usually not entirely accurate.
 
 By comparison, the Microsoft Band has a reported battery life of three days. That also allows it to be used to track your sleep, and to be honest, that&rsquo;s a feature that really interests me.
 
 ## Conclusion
-Microsoft may end up just as a stepping stone for me, but it&rsquo;s still a device I&rsquo;m excited about. After reading numerous reviews, people seem generally happy with it when it comes to handling the functions it was designed to.
+Microsoft Band may end up just as a stepping stone for me, but it&rsquo;s still a device I&rsquo;m excited about. After reading numerous reviews, people seem generally happy with it when it comes to handling the functions it was designed to.
 
 With a battery that won&rsquo;t need charged nightly and the ability to track your sleep patterns, it even has features and functions the first Apple Watch will not.
 
