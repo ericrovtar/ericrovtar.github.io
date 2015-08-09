@@ -8,9 +8,7 @@ tags: technology, windows, apple, microsoft, microsoft band, apple watch
 published: true
 ---
 
-&ldquo;Wearables&rdquo; have crept into the spotlight lately as Apple prepares to launch the <a href="http://www.apple.com/watch/" target="_blank">Apple Watch</a> next week.
-
-As an iPhone user, I&rsquo;ve decided to go a slightly different route than some may expect. Let me explain why.
+&ldquo;Wearables&rdquo; have crept into the spotlight lately as Apple prepares to launch the <a href="http://www.apple.com/watch/" target="_blank">Apple Watch</a> next week, but even as an iPhone user, I&rsquo;ve decided to go a slightly different route than some may expect. Let me explain why.
 
 ## What the Microsoft Band Is &amp; Is Not
 First, it&rsquo;s important to make the distinction that the <a href="http://www.microsoft.com/Microsoft-Band/en-us" target="_blank">Microsoft Band</a> is not a smart watch. It&rsquo;s a fitness tracker, though it has some smart watch type features.
