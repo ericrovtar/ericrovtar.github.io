@@ -41,6 +41,8 @@ The Microsoft Band is half the price &ndash; and less if you can find it on sale
 
 Add in the fact that I haven&rsquo;t worn a device on my wrist since I first got a cell phone in 2002. It&rsquo;s a bit difficult for me to invest $400 for a device that may annoy me and end up never using.
 
+{% include inline-image.html src="/images/posts/2015/04/17/microsoft-band-devices.jpg" caption="Microsoft Band works with Apple, Android and Windows devices" %}
+
 ## Battery Life
 How long a device will last between charges is fairly important. I don&rsquo;t really want something else I have to remember to plug in every night.
 
