@@ -15,7 +15,7 @@ Let me explain why.
 ## What the Microsoft Band Is &amp; Is Not
 First, it&rsquo;s important to make the distinction that the <a href="http://www.microsoft.com/Microsoft-Band/en-us" target="_blank">Microsoft Band</a> is not a smart watch. It&rsquo;s a fitness tracker, though it has some smart watch type features.
 
-For example, it may not have the library of apps Apple Watch will offer, but it has a handful like calendar, Starbucksand alarm. From what I can tell, all the apps seem to be provided by Microsoft, so I&rsquo;m not sure if that&rsquo;s by design or if third-parties have just opted to not support it. It seems more the former.
+For example, it may not have the library of apps Apple Watch will offer, but it has a handful like calendar, Starbucks and alarm. From what I can tell, all the apps seem to be provided by Microsoft, so I&rsquo;m not sure if that&rsquo;s by design or if third-parties have just opted to not support it. It seems more the former.
 
 {% include youtube.html src="//www.youtube.com/embed/CEvjulEJH9w" width="560" height="315" caption="Microsoft Band: Live Healthier" %}
 
