@@ -25,7 +25,7 @@ One nice feature is the ability to sync your health data between Microsoft and o
 
 You can also push notifications from your phone to your Microsoft Band from any device. This is what gives it more of a &ldquo;smart watch&rdquo; feel.
 
-Finally, if you&rsquo;re a Windows Phone user, you also get a couple extra features like Cortana and replying to messages right from Microsoft Band.
+Finally, if you&rsquo;re a Windows Phone user, you also get a couple extra features like <a href="http://www.windowsphone.com/en-us/how-to/wp8/cortana/meet-cortana" target="_blank">Cortana</a> and replying to messages right from Microsoft Band.
 
 ## Lifespan
 One of my biggest questions about the Apple Watch is <i>how many years is it supposed to last me?</i> 
