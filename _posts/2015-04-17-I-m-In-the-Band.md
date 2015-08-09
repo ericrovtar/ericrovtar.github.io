@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I'm In the Band"
+title:  "I'm in the Band"
 basedOn: "Microsoft Band"
 image:  "2015/04/17/microsoft-band.jpg"
 categories: technology
