@@ -21,7 +21,7 @@ For example, it may not have the library of apps Apple Watch will offer, but it 
 
 Microsoft Band also works with not only <a href="http://www.windowsphone.com/en-US/" target="_blank">Windows Phone</a>, but Android and iOS devices. By downloading the <a href="http://www.microsoft.com/Microsoft-Health/en-us" target="_blank">Microsot Health app</a>, you can sync Microsoft Band with your phone for fitness tracking, apps, themes and more.
 
-One nice feature is the ability to sync your health data between Microsoft and other systems like <a href="http://www.myfitnesspal.com/" target="_blank">MyFitnessPal</a>.
+One nice feature is the ability to sync your health data between Microsoft and other systems like <a href="http://www.myfitnesspal.com/" target="_blank">MyFitnessPal</a>. Microsoft even provides an <a href="https://www.microsoft.com/microsoft-health/en-us" target="_blank">online dashboard</a> where you can check all of your fitness data and continue linking it with other services, similar to what you can do in the app. So no matter where you are, your data is with you. That&rsquo;s not even mentioning that it&rsquo;s all presented in a very easy and clean format, so you don&rsquo;t have to be an expert to decipher anything.
 
 You can also push notifications from your phone to your Microsoft Band from any device. This is what gives it more of a &ldquo;smart watch&rdquo; feel.
 
