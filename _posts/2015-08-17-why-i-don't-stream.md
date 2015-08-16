@@ -16,6 +16,8 @@ It&rsquo;s not surprising the music industry followed suit. <a href="http://pand
 
 Now Apple is on the scene with the launch of their <a href="http://www.apple.com/music/" target="_blank">Apple Music</a> service. Similar to Spotify, but toting an impressive library, it&rsquo;s now easier to listen to what you want when you want for <a href="http://www.apple.com/music/membership/" target="_blank">only $10 a month</a>.
 
+{% include youtube.html src="//www.youtube.com/embed/Y1zs0uHHoSw" height="315" width="560" caption="Apple Music Television Ad" %}
+
 Slowly, I&rsquo;m beginning to realize that I&rsquo;ve become the minority: a person who still pays $1.29 per song or &ndash; gasp &ndash; buys an entire album digitially and sometimes physically.
 
 So why do I still prefer to buy and own my music?
