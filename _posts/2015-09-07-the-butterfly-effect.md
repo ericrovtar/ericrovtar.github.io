@@ -20,8 +20,7 @@ It&rsquo;s hard to say, but interesting to speculate. I know that there are dist
 
 What if I&rsquo;d stayed at Ohio State? What if I hadn&rsquo;t gone on that trip? What if I&rsquo;d never known ____?
 
-The concept of choice is the core game mechanic in <a href="http://www.supermassivegames.com/" target="_target"
->Supermassive</a>&rsquo;s <i>Until Dawn</i> on Playstation 4. You play through a teen horror movie, making choices as you go, and every choice you make helps determine if one of eight characters does or doesn&rsquo;t survive until dawn. Every probable outcome is potentially possible &ndash; every character can die, every character survive or any combination in between.
+The concept of choice is the core game mechanic in <a href="http://www.supermassivegames.com/" target="_target">Supermassive</a>&rsquo;s <i>Until Dawn</i> on Playstation 4. You play through a teen horror movie, making choices as you go, and every choice you make helps determine if one of eight characters does or doesn&rsquo;t survive until dawn. Every probable outcome is potentially possible &ndash; every character can die, every character survive or any combination in between.
 
 When I played, only two ended up surviving. One of which I tried my best to kill off because she is just a b*&$h. It&rsquo;s this so-called &ldquo;butterfly effect&rsquo; mechanic where the game definitely excels (and it doesn&rsquo;t hurt that characters are a bit self-aware of it as well).
 
