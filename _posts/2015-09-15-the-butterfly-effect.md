@@ -10,7 +10,11 @@ published: true
 
 {% include spoilerWarning.html spoilersFor="Until Dawn (Playstation)" %}
 
-&ldquo;A tiny butterfly flapping its wings today may lead to a devastating hurricane weeks from now.&rdquo;
+<blockquote>
+    <p>
+        &ldquo;A tiny butterfly flapping its wings today may lead to a devastating hurricane weeks from now.&rdquo;
+    </p>
+</blockquote>
 
 When you look at your life, you begin to see a series of moments in your past that have taken you to the point you&rsquo;re at today. But what if one of those moments hadn&rsquo;t occurred? What if you&rsquo;d made a different choice?
 
