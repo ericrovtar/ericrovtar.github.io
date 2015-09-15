@@ -2,10 +2,10 @@
 layout: post
 title:  "The Butterfly Effect"
 basedOn: "Until Dawn"
-image:  "2015/09/07/butterfly-effect.jpg"
+image:  "2015/09/15/Until-Dawn.jpg"
 categories: games
 tags: playstation, until dawn, playstation 4
-published: false
+published: true
 ---
 
 {% include spoilerWarning.html spoilersFor="Until Dawn (Playstation)" %}
