@@ -6,9 +6,9 @@ permalink: /about/
 
 <div class="article palm--padding">
     <div class="article__item">
-        <p class="article__date h2">
+        <h2>
             Hello There
-        </p>
+        </h2>
 
         <article class="post-content">
             <p>
@@ -41,10 +41,11 @@ permalink: /about/
             
             <p>
                 <small>
-                    Oh! Before I go&hellip; opinions here are my own. You can take them of leave them. I&rsquo;m always
-                    open to discussing them, so contact me if you want to talk.
+                    Oh! Before I go&hellip; opinions here are my own. You can take them of leave them. 
+                    I&rsquo;m always to discussing what I&rsquo;ve written, so be sure to leave your thoughts in the 
+                    comments or contact me.
                 </small>
-                </p>
+            </p>
         </article>
     </div> <!-- /article__item -->
 </div> <!-- /article -->
