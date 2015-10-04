@@ -42,8 +42,8 @@ permalink: /about/
             <p>
                 <small>
                     Oh! Before I go&hellip; opinions here are my own. You can take them of leave them. 
-                    I&rsquo;m always to discussing what I&rsquo;ve written, so be sure to leave your thoughts in the 
-                    comments or contact me.
+                    I&rsquo;m always to open todiscussing what I&rsquo;ve written, so be sure to leave 
+                    your thoughts in the comments or contact me.
                 </small>
             </p>
         </article>
