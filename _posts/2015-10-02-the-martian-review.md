@@ -43,4 +43,4 @@ Overall, this is science-fiction at it&rsquo;s best. While remaining grounded an
 Accompanied by visually stunning effects, you&rsquo;ll quickly forget that this wasn&rsquo;t actually filmed on Mars making this movie definitely one to see in theaters.
 
 ##The Score
-4 out of 5
+<span class="h1">4</span> / 5
