@@ -17,7 +17,7 @@ permalink: /about/
             
             <p>
                 You&rsquo;ve found my blog. I try to write posts regularly or as I think of them. Primarily, I like to 
-                write about pop culture and ways that truths are tucked away within tv, movies, music and books.
+                write about pop culture and ways truths are tucked away within tv, movies, music and books.
             </p>
             
             <p>
