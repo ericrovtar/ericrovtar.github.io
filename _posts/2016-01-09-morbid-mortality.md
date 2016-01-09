@@ -2,7 +2,7 @@
 layout: post
 title:  "Morbid Mortality"
 basedOn: 
-image:  "2016/01/09/picard_nexus.jpg"
+image:  "2016/01/09/picard_nexus2.jpg"
 categories: general
 tags: 
 published: true
