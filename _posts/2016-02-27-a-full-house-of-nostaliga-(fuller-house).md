@@ -20,7 +20,7 @@ published: true
     </cite>
 </blockquote>
 
-##You Got It, Dude
+<h2>You Got It, Dude</h2>
 
 It&rsquo;s been really entertaining to see how many of my friends on Twitter and Facebook are sharing their
 binges of Netflix&rsquo;s Fuller House.
@@ -29,7 +29,7 @@ Cashing in the on 90&rsquo;s nostalgia, Netflix has revived a show every family 
 many years. Full House still airs to this day on Nick @ Nite, so there is obviously still an audience out there
 that cares about the Tanner clan and might be open to revisiting these characters 20-some years later.
 
-##Oh, Mylanta
+<h2>Oh, Mylanta</h2>
 
 Personally, I don&rsquo;t think the original series translates well to a modern audience. The rising violins
 (as Uncle Jesse points out in Fuller House) to highlight a neat bow being tied on a life lesson simplify life
@@ -40,7 +40,7 @@ heritage, but it will also want to try and reach a new audience of families grow
 
 {% include youtube.html src="//www.youtube.com/embed/CXuGLswn2l0" width="560" height="315" caption="This trailer highlights what works in Fuller House" %}
 
-##Cut It Out
+<h2>Cut It Out</h2>
 
 Ultimately, Fuller House is strongest when it keeps the nostaliga to a minimum and weakest when it won&rsquo;t
 let go of its past.
@@ -51,7 +51,7 @@ Further, the visiting actor usually doesn&rsquo;t play any key role in the half-
 When the show focuses on its new core cast of stars &ndash; DJ, Stephanie, Kimmy and the kids &ndash; it&rsquo;s
 actually an enjoyable sitcom.
 
-##Do It Gibbler Style
+<h2>Do It Gibbler Style</h2>
 
 While on the subject, props to the creaters for allowing this to still be a sitcom. Too many of our comedies
 these days are centered around one-liners. The situation comedy is a dying art, but it&rsquo;s also something
@@ -61,7 +61,7 @@ Having seen all 13 episodes now in just over 24 hours, I can&rsquo;t say I didn&
 revisit characters I cared about as a kid. It was also interesting to see the show center on the adults in a
 different way from the original (when it allowed itself time to do so)
 
-##J-Money in the House
+<h2>J-Money in the House</h2>
 
 Another point where Fuller House shines a bit is in its youngest stars. All four kids (three for DJ, one for Kimmy) have moments to capture us through these initial episodes. If anything, they&rsquo;re not given enough time to do so.
 
@@ -71,7 +71,7 @@ One key differentiation between Full House and Fuller House is how the kid and a
 
 {% include youtube.html src="//www.youtube.com/embed/fLw8at0VT1M" width="560" height="315" caption="Yes, the theme song is back &ndash; and updated." %}
 
-#Holy Chalupas
+<h2>Holy Chalupas<h2>
 
 Finally, Netflix's binge-watch format again works well to inspire Fuller House to have some nice &ndash; if yet simplistic &ndash; season-long arcs.
 
@@ -81,7 +81,7 @@ DJ and Kimmy's arc maintain most of the focus, as DJ wrestles with starting to d
 
 Stephanie isn't as lucky, though she does get some shorter story points. We just don't see as much from her as a whole.
 
-##Have Mercy
+<h2>Have Mercy</h2>
 So what did you think? Have you been watching Fuller House this weekend? Is it everything you wanted it to be?
 Were you hoping for more? 
 
@@ -89,5 +89,5 @@ Do you want more Fuller House? Or was this one season enough to satisfy your nos
 
 Let me know in the comments.
 
-##The Score
+<h2>The Score</h2>
 <span class="h1">3.5</span> / 5
