@@ -71,7 +71,7 @@ One key differentiation between Full House and Fuller House is how the kid and a
 
 {% include youtube.html src="//www.youtube.com/embed/fLw8at0VT1M" width="560" height="315" caption="Yes, the theme song is back &ndash; and updated." %}
 
-<h2>Holy Chalupas<h2>
+<h2>Holy Chalupas</h2>
 
 Finally, Netflix's binge-watch format again works well to inspire Fuller House to have some nice &ndash; if yet simplistic &ndash; season-long arcs.
 
