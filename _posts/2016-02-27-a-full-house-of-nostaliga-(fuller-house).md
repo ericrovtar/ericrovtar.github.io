@@ -21,6 +21,7 @@ published: true
 </blockquote>
 
 ##You Got It, Dude
+
 It&rsquo;s been really entertaining to see how many of my friends on Twitter and Facebook are sharing their
 binges of Netflix&rsquo;s Fuller House.
 
@@ -29,6 +30,7 @@ many years. Full House still airs to this day on Nick @ Nite, so there is obviou
 that cares about the Tanner clan and might be open to revisiting these characters 20-some years later.
 
 ##Oh, Mylanta
+
 Personally, I don&rsquo;t think the original series translates well to a modern audience. The rising violins
 (as Uncle Jesse points out in Fuller House) to highlight a neat bow being tied on a life lesson simplify life
 in a way that people aren&rsquo;t ignorant to in today&rsquo;s culture.
@@ -39,6 +41,7 @@ heritage, but it will also want to try and reach a new audience of families grow
 {% include youtube.html src="//www.youtube.com/embed/CXuGLswn2l0" width="560" height="315" caption="This trailer highlights what works in Fuller House" %}
 
 ##Cut It Out
+
 Ultimately, Fuller House is strongest when it keeps the nostaliga to a minimum and weakest when it won&rsquo;t
 let go of its past.
 
@@ -49,6 +52,7 @@ When the show focuses on its new core cast of stars &ndash; DJ, Stephanie, Kimmy
 actually an enjoyable sitcom.
 
 ##Do It Gibbler Style
+
 While on the subject, props to the creaters for allowing this to still be a sitcom. Too many of our comedies
 these days are centered around one-liners. The situation comedy is a dying art, but it&rsquo;s also something
 that allows a show to be timeless.
