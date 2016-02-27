@@ -61,8 +61,25 @@ Having seen all 13 episodes now in just over 24 hours, I can&rsquo;t say I didn&
 revisit characters I cared about as a kid. It was also interesting to see the show center on the adults in a
 different way from the original (when it allowed itself time to do so)
 
+##J-Money in the House
+
+Another point where Fuller House shines a bit is in its youngest stars. All four kids (three for DJ, one for Kimmy) have moments to capture us through these initial episodes. If anything, they&rsquo;re not given enough time to do so.
+
+Elias Harger as Max specifically captures the screen as Max. After a short-live, straight man stint in the pilot, the writers let him act our his goofball nature through his character, which inevitably left me smiling.
+
+One key differentiation between Full House and Fuller House is how the kid and adult storylines don&rsquo;t intermingle. Instead, they're usually left entirely separate. At times, this benefits Fuller House as we get to see DJ, Stephanie and Kimmy acting as adults, but in that process, you lose the tranditional moral lesson that is to be learnt from whatever situation the characters are currently facing.
+
 {% include youtube.html src="//www.youtube.com/embed/fLw8at0VT1M" width="560" height="315" caption="Yes, the theme song is back &ndash; and updated." %}
 
+#Holy Chalupas
+
+Finally, Netflix's binge-watch format again works well to inspire Fuller House to have some nice &ndash; if yet simplistic &ndash; season-long arcs.
+
+Full House aired in a day when episodic television remained very encapsulated, but today&rsquo;s audience, and specifically the generation of watchers that grew up on Full House, expect to see characters change and mature. Fuller House delivers this with a nice arc for most of the adults and the teenaged children.
+
+DJ and Kimmy's arc maintain most of the focus, as DJ wrestles with starting to date again and Kimmy works through a complicated relationship with her soon-to-be ex-husband.
+
+Stephanie isn't as lucky, though she does get some shorter story points. We just don't see as much from her as a whole.
 
 ##Have Mercy
 So what did you think? Have you been watching Fuller House this weekend? Is it everything you wanted it to be?
