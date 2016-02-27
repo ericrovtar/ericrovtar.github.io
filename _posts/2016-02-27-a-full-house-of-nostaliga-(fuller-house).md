@@ -2,7 +2,7 @@
 layout: post
 title:  "A Full House of Nostalgia"
 basedOn: "Fuller House"
-image:  "2016/02/27/fuller-house.jpg"
+image:  "2016/02/27/fuller-house2.jpg"
 categories: general, tv, netflix
 tags: fuller house
 published: true
