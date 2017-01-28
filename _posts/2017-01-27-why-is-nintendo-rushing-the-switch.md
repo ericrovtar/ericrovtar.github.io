@@ -18,7 +18,7 @@ hadn't seemed to learn from recent missteps.
 With the <a href="http://nintendowire.com/blog/2017/01/27/nintendo-switch-specifications-revealed/">release of more systems specs</a> 
 came yet another realization: SD and USB 3.0 support has to be patched in.
 
-Now, I'm not the first to ask the question, but I am one of many wondering why Nintedo is releasing a console
+Now, I'm not the first to ask the question, but I am one of many wondering why Nintendo is releasing a console
 that they don't seem to have completed yet. Why does the Switch have to launch in March? Why are there
 so many details they seem to be "working out?"
 
@@ -69,5 +69,5 @@ be doing themselves any favors. We've finally gotten to see a bit of the
 and they seem to have at least fix that problem from the Wii U, but there is so much left to be seen, and
 news like these patches needed to enable basic functionality are right to leave some concern.
 
-Do I have a Switch preordered? Yes. Will I keep it? I don't know yet. I want Nintedo to succeed, but
+Do I have a Switch preordered? Yes. Will I keep it? I don't know yet. I want Nintendo to succeed, but
 I also want to make certain I'm getting a full-fledged product, not an unproven concept.
