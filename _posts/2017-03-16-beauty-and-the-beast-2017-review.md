@@ -41,6 +41,7 @@ thought of the film.
 
 Let me be clear: I enjoyed the film; however, this wasn&rsquo;t the remake I really wanted. I wish they had stuck to turning the Broadway musical into a film or been a bit more true to the original animated film. Still, I think this is definitely a film worth going to see, if for nothing else than the heartfelt story.
 
-
 ## The Score
 <span class="h1">4</span> / 5
+
+<i>What did you think of Beauty and the Beast? Do you agree with my thoughts? Did you have a different experience? Share what&rsquo;s on your mind in the comments below and let&rsquo;s discuss.</i>
