@@ -34,9 +34,13 @@ thought of the film.
 
 {% include youtube.html src="https://www.youtube.com/embed/tPcxqpMbcSg" width="560" height="315" caption="Dan Stevens performs Alan Menken&rsquo;s Evermore" %}
 
-## Bonus Thoughts
+## Bonus Thought
 * I did not see the added plot similarity with Batman v Superman coming. It worked much better here.
 
 ## Summary
 
 Let me be clear: I enjoyed the film; however, this wasn&rsquo;t the remake I really wanted. I wish they had stuck to turning the Broadway musical into a film or been a bit more true to the original animated film. Still, I think this is definitely a film worth going to see, if for nothing else than the heartfelt story.
+
+
+## The Score
+<span class="h1">4</span> / 5
