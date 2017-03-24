@@ -8,6 +8,18 @@ tags: kong, godzilla
 published: true
 ---
 
+{% include spoilerWarning.html spoilersFor="Kong: Skull Island" %}
+
+<blockquote>
+    <p>
+        &ldquo;Is that a monkey?&rdquo;
+    </p>
+
+    <cite>
+        &ndash; Jack Chapman
+    </cite>
+</blockquote>
+
 ## Not What I Was Expecting
 
 So that happened. My friends wanted to see Kong: Skull Island, and &ndash; having seen the recent Godzilla film, which was to be tied to this in the Monsterverse &ndash; I thought, why not?

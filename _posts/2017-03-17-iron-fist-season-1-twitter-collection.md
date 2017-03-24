@@ -8,6 +8,18 @@ tags: disney, marvel, tv, netflix, defenders, iron fist
 published: true
 ---
 
+{% include spoilerWarning.html spoilersFor="Marvel&rsquo;s Iron Fist" %}
+
+<blockquote>
+    <p>
+        &ldquo;In another life you wouldn&rsquo;t&rsquo;sve drugged me and sent me to a mental hospital.&rdquo;
+    </p>
+
+    <cite>
+        &ndash; Danny Rand
+    </cite>
+</blockquote>
+
 ## A Journey of Chi
 
 Like many, I&rsquo;m going to spend the weekend binging the latest Netflix / Marvel series Iron Fist. Will it live up to the likes of Daredevil and Jessica Jones? Will it fall flat? How will it setup The Defenders?

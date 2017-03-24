@@ -8,6 +8,22 @@ tags: disney, pirates, caribbean, disneyland, walt disney world
 published: true
 ---
 
+{% include spoilerWarning.html spoilersFor="Disney&rsquo;s Pirates of the Caribbean" %}
+
+<blockquote>
+    <p>
+        This is either madness&hellip; or brilliance.
+    </p>
+
+    <p class="right">
+        It&rsquo;s remarkable how often those two traits coincide.
+    </p>
+
+    <cite>
+        &ndash; Will Turner &amp; Jack Sparrow
+    </cite>
+</blockquote>
+
 ## Yo Ho!
 
 Jack Sparrow is a household name, thanks to the likes of Johnny Depp. With the fifth installment in the franchise coming late this May, I wanted to revisit the first three films (and the fourth, if I find a way to stream it). 

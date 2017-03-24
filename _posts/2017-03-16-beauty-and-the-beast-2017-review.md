@@ -8,6 +8,18 @@ tags: disney, beauty and the beast
 published: true
 ---
 
+{% include spoilerWarning.html spoilersFor="Disney&rsquo;s Beauty and the Beast (2017)" %}
+
+<blockquote>
+    <p>
+        &ldquo;Come into the light! &rdquo;
+    </p>
+
+    <cite>
+        &ndash; Belle
+    </cite>
+</blockquote>
+
 ## Be My Guest
 
 I want to try someting new. Rather than write verbose prose in an attempt to articulate my thoughts
