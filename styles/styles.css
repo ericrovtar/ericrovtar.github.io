@@ -1792,7 +1792,15 @@ i {
 b, em {
   font-weight: bold; }
 
+ol {
+  list-style: decimal inside none; }
+
 ul {
   list-style: circle inside none; }
+
+li {
+  text-indent: -2em;
+  margin-left: 2em;
+  margin-bottom: 24px; }
 
 /*# sourceMappingURL=styles.css.map */
