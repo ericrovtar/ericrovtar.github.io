@@ -20,7 +20,7 @@ published: true
     </cite>
 </blockquote>
 
-# In the Beginning
+## In the Beginning
 
 The sample of 13 Reasons Why has sat on my Kindle for year. I&rsquo;m a sucker for teen dramas, but the description
 of this one particularly intrigued me.
@@ -33,7 +33,7 @@ Soon, March 31 came around, and I had totally forgotten that it was due to be re
 the Netflix app as I settled in to watch a movie that night. I started with one episode. Then, another. I was 
 hooked and stayed up way too late that first night and binged the series the rest of the weekend.
 
-# Hard lessons
+## Hard lessons
 
 13 Reasons Why tackles the reasons leading up to a teenage girl deciding to take her own life, each reason 
 realized in a serialized fashion that has you on the edge of your seat. Every episodes peels back another layer as 
@@ -52,7 +52,7 @@ the implications.
 Of course, then we wouldn&rsquo;t have the story we do, where each character plays a part (sometimes knowingly and 
 sometimes not) in Hannah deciding that death is the easiest answer.
 
-# Two Minor Things
+## Two Minor Things
 
 It&rsquo;s hard to gripe about a show that had me hooked the whole way through, but there are two parts that did 
 stick out as minor annoyances. 
@@ -78,7 +78,7 @@ the point the writers were trying to make.
 
 Still, these two small points don&rsquo;t hold 13 Reasons Why back from greatness and must see status.
 
-# Aftermath
+## Aftermath
 
 As I finished the final two episodes, having uncovered most of the mystery at this point, what intrigued me the 
 most were the seeds planted for an assumed second season. Having still not read the book, I&rsquo;m very intrigued 
@@ -91,7 +91,7 @@ It&rsquo;s impressive that they included any build up into a continuation at all
 episodes, I figured this had to be a one-off miniseries, but they laid enough ground work to make my intrigued for 
 season two (should one happen).
 
-# Conclusion
+## Conclusion
 
 It excites me to see how many people are talking about this show online. Sometimes Netflix shows are released 
 without much hoopla and seem to go unnoticed, as others, like those by Marvel, are touted on high shoulders.
