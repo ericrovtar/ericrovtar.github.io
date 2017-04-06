@@ -12,7 +12,7 @@ published: true
 
 <blockquote>
     <p>
-        &ldquo;Come into the light! &rdquo;
+        &ldquo;Come into the light!&rdquo;
     </p>
 
     <cite>
@@ -22,7 +22,7 @@ published: true
 
 ## Be My Guest
 
-I want to try someting new. Rather than write verbose prose in an attempt to articulate my thoughts
+I want to try something new. Rather than write verbose prose in an attempt to articulate my thoughts
 on a movie, I&rsquo;m going to provide most of my thoughts in tweetable nuggets along with a quick
 summary.
 
