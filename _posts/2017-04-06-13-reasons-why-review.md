@@ -105,3 +105,5 @@ the start.
 
 <h2>The Score</h2>
 <span class="h1">5</span> / 5
+
+<i>What did you think of Power Rangers? Do you agree with my thoughts? Did you have a different experience? Share what&rsquo;s on your mind in the comments below and let&rsquo;s discuss.</i>
