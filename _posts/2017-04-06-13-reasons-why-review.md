@@ -44,6 +44,8 @@ relationships between the main cast of characters feels real and echoes of those
 experiences. From the every-rotating circle of friends to the struggles of balancing school, home and a personal 
 life, everything sticks its landing.
 
+{% include youtube.html src="https://www.youtube.com/embed/JebwYGn5Z3E" width="560" height="315" caption="The trailer for 13 Reasons Why." %}
+
 Yes, some of the characterizations seem a bit heightened &ndash; or, at least, more remote. I know there are many
 kids who live in really crappy situations &ndash; from abusive relationships to blatant alcoholism &ndash; but 
 almost everyone seemed to have absentee parents who could (should) have caught most of these issues, nullifying 
@@ -68,6 +70,8 @@ It&rsquo;s logical to seek answers and to try and place blame elsewhere, but the
 couple justice. While logical and probably common, the Bakers come across a bit too villainized for my liking. 
 Again, they&rsquo;re hurting, but they seem to want to blame everyone but themselves. There is hardly any mention 
 of them wondering what they could have done to prevent the tragic death of their daughter.
+
+{% include youtube.html src="https://www.youtube.com/embed/vm_GroJMOVM" width="560" height="315" caption="Only You by Selena Gomez as featured on the 13 Reasons Why soundtrack" %}
 
 Let me be clear: I&rsquo;m not placing all the blame on them. They had their own struggles going on, but &ndash; 
 as I mentioned above &ndash; there&rsquo;s a lot of absentee parenting going on in this story, and they kind of 
